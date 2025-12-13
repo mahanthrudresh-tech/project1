@@ -1,0 +1,162 @@
+/* ================= HOLOGRAM ================= */
+
+.holo-logo {
+    width: 180px;
+    filter: drop-shadow(0 0 22px #00ff88) drop-shadow(0 0 38px #00ff88);
+    animation: pulse 3s ease-in-out infinite;
+}
+
+.holo-logo-small {
+    width: 100px;
+    position: fixed;
+    top: 110px;
+    right: 30px;
+    z-index: 1000;
+    filter: drop-shadow(0 0 18px #00ffa6);
+    animation: pulse 3s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%,100% { transform: scale(0.96); opacity: 0.85; }
+    50% { transform: scale(1.04); opacity: 1; }
+}
+
+/* ================= INTRO ================= */
+
+.intro-container {
+    position: fixed;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    animation: fadeout 1.5s ease-in forwards 3.2s;
+}
+
+@keyframes fadeout {
+    to { opacity: 0; visibility: hidden; }
+}
+
+/* ================= STREAMLIT UI ================= */
+
+[data-testid="stToolbar"],
+[data-testid="stSidebar"],
+[data-testid="stSidebarNav"] {
+    display: none !important;
+}
+
+/* ================= SCROLL FIX ================= */
+
+html, body {
+    min-height: 100%;
+    overflow-y: auto !important;
+}
+
+/* ================= TYPOGRAPHY ================= */
+
+body { font-size: 20px; }
+
+h1 { font-size: 56px; }
+h2 { font-size: 44px; }
+h3 { font-size: 34px; }
+
+p, li, span {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+/* ================= NAVBAR ================= */
+
+.top-nav {
+    position: sticky;
+    top: 16px;
+    z-index: 999;
+    display: flex;
+    gap: 12px;
+    justify-content: flex-end;
+    padding: 12px 18px;
+    background: rgba(10,15,25,0.85);
+    backdrop-filter: blur(12px);
+    border-radius: 14px;
+}
+
+/* Streamlit buttons */
+.top-nav .stButton > button {
+    font-size: 16px;
+    padding: 10px 22px;
+    border-radius: 12px;
+    background: rgba(0,255,136,0.18);
+    border: 1px solid rgba(0,255,136,0.45);
+    color: white;
+    transition: .25s;
+}
+
+.top-nav .stButton > button:hover {
+    background: rgba(0,255,136,0.45);
+    transform: translateY(-2px) scale(1.05);
+    box-shadow: 0 0 14px #00ff88;
+}
+
+/* ================= SECTIONS & CARDS ================= */
+
+.glass-card,
+.agri-section {
+    padding: 32px;
+    margin-top: 20px;
+    border-radius: 18px;
+    background: rgba(255,255,255,0.04);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.08);
+}
+
+/* ================= PLOTLY ================= */
+
+.js-plotly-plot {
+    margin-bottom: 60px;
+}
+/* =============================
+GLOBAL UI SCALE (SAFE)
+============================= */
+
+html, body {
+    font-size: 18px;
+}
+
+/* Headings */
+h1 { font-size: 64px !important; }
+h2 { font-size: 48px !important; }
+h3 { font-size: 36px !important; }
+
+/* Streamlit text */
+p, span, label, li {
+    font-size: 18px !important;
+    line-height: 1.7;
+}
+
+/* Buttons */
+button {
+    font-size: 18px !important;
+    padding: 14px 28px !important;
+}
+
+/* Inputs & sliders */
+input, textarea, select {
+    font-size: 18px !important;
+}
+
+/* Dataframe text */
+[data-testid="stDataFrame"] {
+    font-size: 16px !important;
+}
+
+/* Metrics */
+[data-testid="stMetricValue"] {
+    font-size: 32px !important;
+}
+[data-testid="stMetricLabel"] {
+    font-size: 18px !important;
+}
+
+/* Cards */
+.glass-card, .agri-section {
+    padding: 40px !important;
+}
+

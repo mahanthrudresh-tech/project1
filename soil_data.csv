@@ -1,0 +1,3001 @@
+soil_type,nitrogen,phosphorus,potassium,organic_carbon,pH,recommended_crop,recommended_fertilizer
+Black,20.93,20.88,314.82,1.92,8.07,Cotton,Potash + Urea
+Laterite,21.78,9.6,85.83,0.43,4.34,Tea,Organic Mix
+Red,51.05,15.09,136.94,0.48,6.08,Millets,SSP + Urea
+Laterite,29.76,4.94,96.06,0.41,4.73,Cashew,Organic Compost
+Alluvial,65.58,39.9,206.41,1.16,6.9,Wheat,NPK 10:26:26
+Black,22.65,22.06,268.64,1.81,8.11,Cotton,Potash + Urea
+Red,31.79,15.29,111.02,0.49,5.81,Maize,SSP + Urea
+Red,58.24,8.16,135.7,0.59,6.2,Millets,SSP + Urea
+Black,26.0,18.33,245.18,1.3,7.78,Soybean,Potash + Urea
+Black,20.6,15.37,295.07,1.55,7.7,Pulses,Potash + Urea
+Laterite,23.23,6.42,95.69,0.63,4.72,Cashew,Organic Mix
+Alluvial,55.55,32.97,151.22,1.35,7.28,Maize,Urea + MOP
+Red,46.98,16.9,126.82,0.71,6.44,Millets,Gypsum + SSP
+Laterite,20.67,8.0,122.64,0.4,5.03,Tea,Organic Compost
+Alluvial,86.34,34.68,166.77,0.88,7.26,Maize,Urea + MOP
+Laterite,30.24,11.28,117.2,0.24,5.54,Rubber,Organic Compost
+Laterite,16.97,10.39,105.81,0.32,5.04,Tea,Organic Mix
+Black,36.34,22.58,264.13,1.99,7.14,Pulses,NPK 20:20:0
+Alluvial,71.63,34.78,159.04,1.24,7.35,Sugarcane,Urea + MOP
+Red,54.63,15.95,121.73,0.77,5.86,Millets,SSP + Urea
+Red,57.13,17.62,128.92,0.86,5.77,Groundnut,Gypsum + SSP
+Black,35.97,18.62,303.55,1.75,8.05,Soybean,Potash + Urea
+Black,37.26,13.35,242.54,1.43,7.41,Pulses,NPK 20:20:0
+Laterite,35.03,10.8,93.68,0.43,5.87,Rubber,Organic Compost
+Red,47.09,12.44,135.37,0.75,6.08,Millets,Gypsum + SSP
+Black,35.1,25.68,271.24,1.81,7.04,Pulses,Potash + Urea
+Black,23.37,23.3,316.76,2.08,7.65,Cotton,Potash + Urea
+Red,43.36,15.4,121.96,0.65,6.38,Maize,Gypsum + SSP
+Laterite,24.79,12.23,117.3,0.59,5.71,Cashew,Organic Compost
+Alluvial,57.12,22.08,198.99,1.04,6.89,Maize,Urea + DAP
+Black,25.53,23.48,333.25,1.76,7.5,Soybean,NPK 20:20:0
+Alluvial,79.02,39.88,171.16,0.87,6.71,Sugarcane,Urea + MOP
+Laterite,14.81,6.51,106.2,0.31,5.62,Rubber,Organic Mix
+Black,46.14,14.65,267.06,2.21,7.4,Cotton,Potash + Urea
+Black,25.3,17.53,267.58,1.64,7.0,Cotton,NPK 20:20:0
+Red,25.23,15.05,166.34,0.65,6.01,Groundnut,SSP + Urea
+Alluvial,72.66,31.56,179.63,0.83,6.84,Wheat,NPK 10:26:26
+Alluvial,59.81,37.03,164.32,0.67,7.25,Rice,NPK 10:26:26
+Black,36.38,18.37,323.95,1.79,7.62,Cotton,NPK 20:20:0
+Black,38.79,22.54,343.8,1.84,7.8,Cotton,Potash + Urea
+Laterite,35.2,5.53,83.28,0.6,5.39,Tea,Organic Compost
+Red,46.87,13.26,149.1,0.77,5.62,Groundnut,SSP + Urea
+Red,57.07,15.8,154.77,0.63,5.51,Groundnut,SSP + Urea
+Black,40.15,17.06,315.67,1.6,8.32,Pulses,Potash + Urea
+Alluvial,69.4,30.7,178.53,0.98,6.87,Maize,Urea + MOP
+Red,41.01,14.91,159.77,0.63,6.11,Maize,SSP + Urea
+Black,27.33,24.43,286.77,1.55,7.86,Cotton,NPK 20:20:0
+Laterite,18.79,12.13,121.6,0.6,4.77,Rubber,Organic Compost
+Alluvial,56.34,26.21,214.76,0.96,6.76,Maize,Urea + DAP
+Black,38.3,11.12,334.29,1.76,7.24,Soybean,Potash + Urea
+Red,39.87,10.81,134.33,0.45,6.11,Maize,Gypsum + SSP
+Alluvial,84.9,39.49,192.07,0.87,7.06,Rice,Urea + MOP
+Red,49.66,9.67,156.58,0.7,5.96,Groundnut,Gypsum + SSP
+Black,32.75,14.76,281.4,1.52,7.05,Pulses,Potash + Urea
+Red,28.89,8.67,115.45,0.44,5.67,Groundnut,Gypsum + SSP
+Black,27.76,24.46,302.37,1.15,6.89,Pulses,Potash + Urea
+Red,49.45,11.9,146.11,0.55,5.56,Millets,Gypsum + SSP
+Red,35.79,10.68,153.95,0.75,6.5,Millets,SSP + Urea
+Red,36.44,16.27,129.72,0.71,5.9,Maize,SSP + Urea
+Red,38.57,9.26,172.1,0.57,6.29,Groundnut,Gypsum + SSP
+Laterite,16.19,12.09,96.87,0.53,5.65,Tea,Organic Compost
+Alluvial,68.98,23.49,215.56,0.86,7.42,Sugarcane,NPK 10:26:26
+Alluvial,71.86,34.48,198.58,0.96,7.13,Sugarcane,NPK 10:26:26
+Black,37.93,14.33,328.04,1.87,8.19,Cotton,Potash + Urea
+Red,57.02,10.61,150.0,0.74,6.14,Maize,Gypsum + SSP
+Alluvial,81.74,28.37,178.98,0.91,7.11,Rice,NPK 10:26:26
+Black,17.22,13.73,331.96,1.71,8.33,Soybean,NPK 20:20:0
+Black,38.65,17.2,312.41,2.09,8.31,Cotton,Potash + Urea
+Red,49.63,17.01,155.59,0.91,6.05,Maize,Gypsum + SSP
+Black,43.55,14.83,315.25,1.28,7.71,Pulses,NPK 20:20:0
+Black,23.33,20.61,240.11,1.92,8.0,Cotton,Potash + Urea
+Alluvial,71.51,23.91,218.66,1.1,6.53,Rice,NPK 10:26:26
+Black,38.39,14.84,326.61,1.04,8.45,Cotton,NPK 20:20:0
+Red,51.34,19.26,130.14,0.54,6.45,Groundnut,SSP + Urea
+Laterite,36.65,10.28,115.71,0.76,5.71,Rubber,Organic Compost
+Black,33.0,15.88,308.5,2.15,8.06,Cotton,NPK 20:20:0
+Black,29.65,14.06,271.91,1.6,7.11,Pulses,NPK 20:20:0
+Laterite,18.75,8.87,124.03,0.37,5.32,Rubber,Organic Compost
+Alluvial,66.21,26.06,188.75,1.16,7.28,Maize,NPK 10:26:26
+Laterite,11.67,9.7,111.74,0.3,4.78,Tea,Organic Mix
+Black,36.05,19.01,292.56,1.24,8.32,Cotton,NPK 20:20:0
+Black,33.72,21.45,312.37,1.59,8.02,Cotton,NPK 20:20:0
+Red,29.32,18.35,132.55,0.82,6.16,Maize,Gypsum + SSP
+Black,37.61,19.46,311.0,1.35,7.12,Cotton,Potash + Urea
+Red,25.49,16.09,131.1,0.49,5.71,Groundnut,SSP + Urea
+Laterite,10.78,8.45,115.11,0.56,5.22,Tea,Organic Compost
+Laterite,25.88,9.19,92.93,0.44,5.11,Tea,Organic Compost
+Red,52.2,13.58,113.08,0.67,5.82,Maize,SSP + Urea
+Alluvial,90.84,28.33,200.76,1.06,6.78,Maize,Urea + MOP
+Red,26.02,6.94,123.71,0.72,6.42,Groundnut,Gypsum + SSP
+Red,52.7,14.64,133.68,0.84,5.51,Millets,SSP + Urea
+Alluvial,84.68,19.68,185.98,1.09,7.24,Wheat,Urea + MOP
+Laterite,26.58,5.89,110.35,0.7,5.51,Tea,Organic Compost
+Red,26.1,18.12,151.08,0.81,6.06,Millets,Gypsum + SSP
+Red,23.61,12.1,148.85,0.7,5.91,Millets,Gypsum + SSP
+Red,56.95,16.26,169.98,0.77,5.88,Maize,SSP + Urea
+Black,41.09,14.67,336.3,1.15,8.14,Pulses,Potash + Urea
+Black,42.56,16.8,297.77,1.67,7.75,Pulses,Potash + Urea
+Alluvial,74.12,34.7,184.74,1.06,7.18,Maize,NPK 10:26:26
+Laterite,27.1,10.28,95.24,0.64,5.28,Cashew,Organic Compost
+Red,28.93,10.54,158.83,0.56,5.58,Maize,Gypsum + SSP
+Alluvial,87.96,25.41,224.78,1.29,7.4,Sugarcane,Urea + DAP
+Laterite,16.49,9.68,106.13,0.49,5.71,Tea,Organic Compost
+Alluvial,60.81,25.52,213.92,1.36,6.84,Wheat,Urea + MOP
+Black,27.64,23.56,295.12,1.59,8.13,Soybean,NPK 20:20:0
+Red,55.55,13.81,135.07,0.52,5.66,Maize,Gypsum + SSP
+Alluvial,60.35,24.19,205.13,0.86,7.35,Maize,Urea + MOP
+Laterite,12.22,10.37,99.54,0.45,5.11,Rubber,Organic Mix
+Black,43.33,18.6,308.14,1.07,7.37,Pulses,Potash + Urea
+Alluvial,64.45,38.26,210.92,1.33,6.46,Wheat,NPK 10:26:26
+Alluvial,57.19,21.55,190.49,1.13,6.74,Sugarcane,Urea + MOP
+Laterite,21.99,12.8,98.3,0.57,4.92,Cashew,Organic Compost
+Alluvial,75.09,21.17,227.5,1.07,6.8,Maize,NPK 10:26:26
+Black,29.37,24.71,278.02,1.52,8.13,Pulses,Potash + Urea
+Laterite,10.8,7.45,106.0,0.49,4.7,Rubber,Organic Compost
+Laterite,23.01,6.18,108.58,0.73,5.71,Cashew,Organic Mix
+Red,48.42,17.64,131.47,0.93,6.0,Millets,Gypsum + SSP
+Red,23.24,18.44,147.61,0.52,5.7,Maize,SSP + Urea
+Laterite,17.15,7.6,89.11,0.67,4.79,Tea,Organic Compost
+Red,39.32,10.37,161.62,0.57,5.67,Groundnut,Gypsum + SSP
+Laterite,20.59,10.42,91.84,0.67,5.39,Rubber,Organic Compost
+Black,39.95,22.25,267.34,1.07,7.06,Pulses,Potash + Urea
+Laterite,30.57,8.18,112.77,0.51,5.65,Cashew,Organic Mix
+Laterite,17.71,7.87,105.23,0.46,5.95,Tea,Organic Mix
+Alluvial,67.0,27.42,158.34,1.19,7.07,Wheat,Urea + MOP
+Laterite,14.41,7.67,123.98,0.62,5.37,Rubber,Organic Mix
+Red,36.33,10.69,138.46,0.98,5.41,Millets,Gypsum + SSP
+Alluvial,67.33,23.82,202.4,1.17,7.29,Wheat,NPK 10:26:26
+Red,35.06,17.27,165.18,0.71,6.38,Millets,SSP + Urea
+Red,54.05,15.23,127.21,0.52,5.85,Maize,SSP + Urea
+Alluvial,76.63,28.66,208.58,0.88,7.46,Sugarcane,Urea + MOP
+Alluvial,58.77,33.96,177.14,1.21,6.63,Maize,NPK 10:26:26
+Alluvial,59.16,25.79,220.55,1.33,6.52,Maize,Urea + MOP
+Black,20.16,10.66,319.98,1.42,7.74,Cotton,NPK 20:20:0
+Black,19.71,14.92,321.19,1.97,6.97,Pulses,NPK 20:20:0
+Laterite,22.73,10.04,116.51,0.45,4.48,Rubber,Organic Mix
+Alluvial,86.41,21.53,163.4,0.86,7.22,Rice,NPK 10:26:26
+Black,39.69,16.38,315.85,2.15,7.51,Soybean,NPK 20:20:0
+Red,53.16,15.84,139.15,0.52,6.27,Groundnut,SSP + Urea
+Black,26.17,14.16,326.17,1.23,7.44,Cotton,Potash + Urea
+Black,24.31,17.8,293.38,2.21,8.13,Soybean,Potash + Urea
+Laterite,16.7,11.05,123.05,0.47,5.53,Cashew,Organic Mix
+Laterite,19.74,7.2,82.61,0.6,4.7,Rubber,Organic Compost
+Red,31.21,17.37,155.64,0.45,6.04,Maize,SSP + Urea
+Black,21.19,11.19,249.73,0.99,8.34,Cotton,Potash + Urea
+Red,52.21,17.7,116.67,0.82,5.73,Maize,Gypsum + SSP
+Red,55.77,14.5,166.57,0.34,6.34,Groundnut,SSP + Urea
+Black,23.04,12.27,254.3,1.32,7.31,Pulses,NPK 20:20:0
+Black,22.22,9.25,325.3,1.58,7.21,Soybean,Potash + Urea
+Red,38.44,13.46,144.77,0.35,6.41,Groundnut,SSP + Urea
+Alluvial,58.24,26.45,214.07,0.88,6.8,Rice,Urea + MOP
+Red,29.32,10.33,145.89,0.91,5.54,Groundnut,Gypsum + SSP
+Alluvial,78.0,33.13,214.22,0.99,7.35,Rice,NPK 10:26:26
+Alluvial,73.14,24.2,165.99,0.73,6.75,Wheat,Urea + MOP
+Laterite,26.42,8.8,127.75,0.58,5.56,Rubber,Organic Compost
+Black,27.06,16.57,277.07,1.82,7.61,Soybean,Potash + Urea
+Black,19.84,12.72,313.4,2.16,7.09,Cotton,NPK 20:20:0
+Red,56.89,9.17,146.09,0.67,5.94,Groundnut,Gypsum + SSP
+Laterite,22.62,9.3,117.43,0.24,4.78,Cashew,Organic Compost
+Laterite,17.45,6.45,104.35,0.55,5.21,Tea,Organic Compost
+Laterite,25.74,6.68,87.43,0.54,4.53,Rubber,Organic Compost
+Red,39.56,11.71,116.67,0.67,5.72,Groundnut,Gypsum + SSP
+Laterite,13.54,9.98,120.09,0.43,5.79,Cashew,Organic Compost
+Black,39.04,16.33,306.74,1.04,7.37,Soybean,Potash + Urea
+Alluvial,58.02,21.78,159.39,0.92,6.87,Rice,Urea + DAP
+Alluvial,87.65,34.93,188.12,1.33,7.07,Wheat,Urea + DAP
+Black,28.82,17.81,273.34,1.88,7.42,Soybean,Potash + Urea
+Laterite,31.26,5.96,95.72,0.4,5.67,Cashew,Organic Compost
+Alluvial,76.54,25.04,183.34,1.15,7.07,Rice,NPK 10:26:26
+Black,24.11,19.53,257.31,2.18,7.21,Cotton,NPK 20:20:0
+Black,29.24,25.64,346.13,1.89,8.56,Soybean,Potash + Urea
+Alluvial,62.64,30.55,214.39,0.92,7.47,Maize,Urea + MOP
+Alluvial,84.62,20.04,216.35,1.36,7.27,Wheat,Urea + MOP
+Black,34.72,15.17,318.44,1.32,8.46,Pulses,NPK 20:20:0
+Black,30.06,13.46,298.58,1.64,8.28,Soybean,NPK 20:20:0
+Alluvial,76.7,21.9,168.88,0.93,7.06,Maize,Urea + MOP
+Alluvial,63.4,28.41,210.52,1.05,7.03,Wheat,Urea + MOP
+Red,42.55,18.45,140.83,0.98,5.78,Groundnut,SSP + Urea
+Black,33.98,20.65,275.74,1.63,7.42,Cotton,Potash + Urea
+Red,37.3,15.18,135.61,0.73,5.66,Groundnut,SSP + Urea
+Alluvial,78.59,25.61,219.7,0.89,7.43,Wheat,Urea + DAP
+Black,19.73,15.69,254.75,1.8,8.1,Cotton,NPK 20:20:0
+Alluvial,77.31,27.13,185.48,0.96,7.42,Rice,NPK 10:26:26
+Laterite,27.02,9.01,116.2,0.47,5.65,Rubber,Organic Compost
+Alluvial,84.53,30.61,197.74,1.28,7.1,Maize,Urea + DAP
+Alluvial,79.14,21.49,174.44,0.85,7.25,Sugarcane,NPK 10:26:26
+Red,31.81,12.26,125.87,0.44,5.9,Groundnut,Gypsum + SSP
+Black,30.66,18.0,296.09,1.36,8.07,Pulses,NPK 20:20:0
+Red,56.85,17.04,166.05,0.6,5.91,Groundnut,SSP + Urea
+Black,30.57,20.14,297.91,1.1,7.86,Cotton,Potash + Urea
+Red,34.09,9.33,138.68,0.41,5.73,Maize,SSP + Urea
+Laterite,36.64,6.43,125.01,0.76,5.4,Tea,Organic Compost
+Alluvial,81.76,26.12,178.12,0.97,7.51,Maize,NPK 10:26:26
+Alluvial,66.72,33.17,171.73,0.98,7.08,Sugarcane,NPK 10:26:26
+Black,45.4,24.09,314.28,1.06,8.19,Cotton,NPK 20:20:0
+Red,41.37,10.15,117.0,0.62,6.13,Maize,SSP + Urea
+Laterite,28.94,9.3,92.26,0.47,5.45,Rubber,Organic Mix
+Black,26.12,24.46,247.0,1.98,8.14,Cotton,NPK 20:20:0
+Red,29.6,14.77,154.36,0.5,5.45,Groundnut,Gypsum + SSP
+Alluvial,65.5,27.42,201.12,1.41,6.63,Maize,Urea + DAP
+Alluvial,85.1,20.75,163.78,1.34,7.27,Wheat,Urea + MOP
+Laterite,25.73,6.03,86.4,0.59,4.63,Tea,Organic Mix
+Alluvial,85.72,38.82,164.11,1.36,6.76,Maize,Urea + DAP
+Alluvial,87.64,30.46,171.02,1.03,6.84,Maize,Urea + DAP
+Black,25.85,14.04,340.2,1.0,8.02,Soybean,NPK 20:20:0
+Black,45.43,25.5,308.63,2.17,7.25,Cotton,Potash + Urea
+Laterite,12.27,9.3,119.66,0.5,5.37,Cashew,Organic Mix
+Alluvial,77.52,28.62,225.67,1.18,6.97,Sugarcane,Urea + DAP
+Laterite,26.39,5.8,96.66,0.48,5.7,Cashew,Organic Compost
+Laterite,33.7,5.3,126.35,0.36,5.15,Cashew,Organic Mix
+Black,40.1,12.76,313.65,1.76,8.43,Cotton,Potash + Urea
+Red,33.19,8.73,129.89,0.63,5.76,Maize,SSP + Urea
+Alluvial,86.31,37.74,182.77,1.05,7.05,Sugarcane,NPK 10:26:26
+Red,44.67,13.47,131.32,0.86,5.77,Millets,Gypsum + SSP
+Alluvial,73.37,38.96,189.59,1.32,6.72,Sugarcane,Urea + DAP
+Black,34.1,16.09,244.65,1.41,8.07,Cotton,Potash + Urea
+Black,28.7,9.01,280.0,1.97,8.04,Cotton,NPK 20:20:0
+Alluvial,90.01,27.53,164.44,1.26,7.01,Wheat,NPK 10:26:26
+Black,38.01,11.73,322.35,2.06,8.25,Soybean,NPK 20:20:0
+Black,27.78,11.05,271.44,1.9,7.12,Soybean,Potash + Urea
+Alluvial,88.39,28.61,190.3,1.0,6.94,Sugarcane,Urea + DAP
+Black,38.36,14.33,269.19,1.71,7.72,Soybean,NPK 20:20:0
+Red,49.6,10.75,146.55,0.98,6.15,Maize,SSP + Urea
+Alluvial,84.89,24.98,151.73,1.19,7.32,Rice,Urea + MOP
+Red,34.82,9.8,119.91,0.43,5.73,Groundnut,Gypsum + SSP
+Alluvial,88.29,21.73,212.88,1.17,7.33,Wheat,Urea + DAP
+Laterite,33.7,6.56,90.14,0.31,4.77,Tea,Organic Mix
+Laterite,33.66,13.12,118.16,0.63,4.45,Tea,Organic Mix
+Red,51.22,13.21,147.14,0.42,5.42,Maize,SSP + Urea
+Black,26.04,24.03,303.74,2.21,7.42,Cotton,NPK 20:20:0
+Black,41.97,20.97,260.24,1.51,7.63,Soybean,NPK 20:20:0
+Laterite,24.76,9.22,104.44,0.54,4.6,Rubber,Organic Compost
+Laterite,34.66,10.06,118.82,0.48,5.76,Cashew,Organic Mix
+Laterite,26.34,9.07,135.06,0.62,4.61,Cashew,Organic Mix
+Red,53.38,15.92,120.5,0.42,6.22,Groundnut,SSP + Urea
+Laterite,11.92,9.2,85.31,0.49,5.78,Rubber,Organic Compost
+Black,38.91,18.54,327.96,1.76,7.53,Soybean,Potash + Urea
+Laterite,16.1,11.91,99.04,0.42,5.36,Cashew,Organic Compost
+Black,20.2,13.93,269.8,2.16,7.04,Soybean,Potash + Urea
+Red,31.08,10.4,146.02,0.88,5.64,Maize,Gypsum + SSP
+Laterite,16.62,6.71,91.04,0.33,5.91,Cashew,Organic Compost
+Alluvial,79.57,38.76,163.36,1.01,7.41,Sugarcane,NPK 10:26:26
+Black,29.5,20.08,279.31,1.63,8.53,Soybean,NPK 20:20:0
+Alluvial,57.97,36.51,208.67,1.23,6.49,Rice,NPK 10:26:26
+Black,25.53,19.99,269.6,1.85,8.12,Pulses,Potash + Urea
+Alluvial,76.4,26.16,211.19,1.07,6.72,Maize,Urea + MOP
+Laterite,27.23,7.65,71.29,0.55,4.5,Rubber,Organic Mix
+Black,21.05,9.15,332.83,1.72,7.23,Soybean,Potash + Urea
+Red,33.56,17.69,148.96,0.82,6.18,Groundnut,SSP + Urea
+Laterite,32.27,6.9,88.87,0.36,5.51,Tea,Organic Mix
+Red,48.46,11.51,111.91,0.76,6.31,Maize,Gypsum + SSP
+Black,33.04,18.72,285.74,1.38,7.94,Soybean,NPK 20:20:0
+Red,44.86,16.05,153.5,0.79,5.85,Maize,Gypsum + SSP
+Red,27.76,10.5,117.81,0.67,6.15,Maize,Gypsum + SSP
+Red,44.29,17.5,144.3,0.45,5.86,Maize,SSP + Urea
+Alluvial,75.01,31.02,173.81,1.36,7.19,Sugarcane,Urea + DAP
+Red,39.96,10.68,118.15,0.55,5.87,Millets,Gypsum + SSP
+Black,43.17,13.53,302.02,1.79,7.38,Cotton,Potash + Urea
+Red,34.04,13.86,120.09,0.61,5.56,Maize,Gypsum + SSP
+Red,54.57,11.17,128.62,0.52,6.38,Maize,SSP + Urea
+Black,33.06,17.94,306.22,1.01,7.44,Cotton,NPK 20:20:0
+Red,48.77,10.11,116.57,0.49,6.64,Groundnut,Gypsum + SSP
+Alluvial,69.31,25.46,193.17,1.4,7.53,Wheat,Urea + MOP
+Laterite,32.8,7.36,124.17,0.59,4.94,Cashew,Organic Compost
+Black,23.04,22.73,289.64,1.6,8.12,Soybean,Potash + Urea
+Red,33.91,13.42,134.9,0.81,6.37,Groundnut,Gypsum + SSP
+Laterite,18.93,9.8,127.64,0.73,4.67,Rubber,Organic Compost
+Laterite,10.24,8.74,99.46,0.43,5.28,Rubber,Organic Compost
+Red,41.5,8.01,163.27,0.69,5.47,Maize,Gypsum + SSP
+Alluvial,58.82,27.59,164.14,0.93,6.57,Rice,Urea + DAP
+Black,46.15,18.53,253.65,1.67,7.56,Pulses,NPK 20:20:0
+Alluvial,57.24,41.41,216.61,1.24,7.25,Sugarcane,NPK 10:26:26
+Laterite,22.31,4.78,102.33,0.65,5.07,Rubber,Organic Mix
+Red,56.95,14.26,162.57,0.81,6.08,Groundnut,Gypsum + SSP
+Red,52.73,14.04,149.78,0.58,6.03,Maize,SSP + Urea
+Red,50.9,10.23,156.13,0.79,5.6,Millets,Gypsum + SSP
+Black,27.11,15.65,249.98,1.56,8.07,Soybean,Potash + Urea
+Black,37.93,11.16,271.11,0.99,8.33,Soybean,Potash + Urea
+Black,29.64,15.73,329.96,1.39,8.38,Cotton,Potash + Urea
+Red,26.88,15.31,137.83,0.61,5.87,Groundnut,SSP + Urea
+Red,25.85,12.32,104.48,0.39,5.97,Millets,SSP + Urea
+Black,24.74,11.56,252.78,1.34,8.7,Cotton,Potash + Urea
+Red,32.4,10.15,134.58,0.5,6.28,Maize,SSP + Urea
+Red,37.4,8.81,129.2,0.85,6.13,Millets,SSP + Urea
+Black,41.45,10.58,304.18,1.6,8.26,Cotton,NPK 20:20:0
+Black,27.65,20.0,283.48,1.54,7.48,Pulses,NPK 20:20:0
+Black,27.26,24.57,296.89,1.69,7.63,Cotton,NPK 20:20:0
+Alluvial,75.37,25.24,218.48,1.37,7.25,Maize,NPK 10:26:26
+Red,54.9,15.07,110.62,0.76,6.41,Groundnut,SSP + Urea
+Red,27.93,9.81,132.57,0.57,5.95,Groundnut,SSP + Urea
+Laterite,26.3,9.3,113.27,0.52,5.17,Tea,Organic Mix
+Red,61.85,11.68,160.82,0.43,6.47,Millets,Gypsum + SSP
+Alluvial,55.73,37.0,163.16,1.21,7.23,Maize,Urea + MOP
+Red,47.86,9.79,168.79,0.71,6.18,Millets,SSP + Urea
+Alluvial,88.22,22.8,150.74,1.15,6.74,Maize,NPK 10:26:26
+Black,40.87,15.11,252.98,1.94,7.35,Pulses,NPK 20:20:0
+Laterite,33.15,9.3,107.85,0.35,5.21,Tea,Organic Compost
+Black,31.83,23.87,313.59,1.16,7.32,Pulses,NPK 20:20:0
+Alluvial,84.52,31.91,223.81,0.8,7.21,Sugarcane,Urea + DAP
+Laterite,16.89,6.2,125.1,0.57,5.37,Rubber,Organic Mix
+Alluvial,76.89,33.47,213.28,1.23,6.92,Wheat,NPK 10:26:26
+Black,45.73,9.66,333.36,1.43,7.32,Soybean,Potash + Urea
+Laterite,25.27,10.22,122.09,0.3,4.68,Tea,Organic Compost
+Alluvial,62.72,23.96,151.01,0.95,7.2,Wheat,NPK 10:26:26
+Black,40.29,12.32,316.4,1.68,7.68,Cotton,NPK 20:20:0
+Laterite,17.52,10.89,87.27,0.53,4.96,Rubber,Organic Compost
+Alluvial,80.48,24.66,171.11,1.36,6.48,Rice,Urea + DAP
+Alluvial,64.27,21.51,153.37,0.91,7.16,Wheat,Urea + DAP
+Alluvial,67.76,32.05,169.62,1.39,6.86,Rice,Urea + DAP
+Red,54.75,10.94,121.4,0.55,5.82,Groundnut,Gypsum + SSP
+Laterite,27.61,7.59,89.53,0.46,5.44,Rubber,Organic Compost
+Alluvial,58.46,34.3,189.07,0.95,6.66,Sugarcane,Urea + MOP
+Alluvial,63.66,31.81,182.21,1.24,6.92,Sugarcane,Urea + DAP
+Red,55.54,13.12,152.43,0.78,5.71,Maize,SSP + Urea
+Laterite,13.22,12.33,120.83,0.41,5.53,Rubber,Organic Compost
+Black,34.09,23.0,318.38,1.32,7.98,Pulses,NPK 20:20:0
+Black,32.73,9.03,262.34,1.21,7.91,Soybean,NPK 20:20:0
+Black,39.1,21.54,340.22,1.11,7.57,Soybean,Potash + Urea
+Black,35.96,21.91,285.98,1.89,7.45,Pulses,Potash + Urea
+Alluvial,77.1,31.55,206.03,1.04,7.12,Sugarcane,Urea + DAP
+Alluvial,63.76,34.65,184.02,1.06,6.77,Wheat,Urea + DAP
+Laterite,33.75,8.71,91.85,0.38,4.56,Rubber,Organic Compost
+Laterite,23.68,9.04,114.36,0.63,5.65,Tea,Organic Mix
+Black,40.85,22.3,284.91,1.44,7.45,Pulses,Potash + Urea
+Laterite,18.93,6.91,131.28,0.51,5.16,Cashew,Organic Mix
+Black,35.36,15.29,308.62,1.28,7.11,Pulses,NPK 20:20:0
+Laterite,27.49,8.45,93.86,0.38,5.43,Tea,Organic Compost
+Red,45.53,12.8,157.27,0.48,5.92,Millets,Gypsum + SSP
+Black,26.43,17.39,305.48,1.92,7.91,Soybean,Potash + Urea
+Red,53.14,15.11,153.53,0.81,5.63,Millets,Gypsum + SSP
+Red,29.59,15.43,148.3,0.73,6.08,Maize,SSP + Urea
+Red,42.07,8.06,119.3,0.64,6.08,Millets,Gypsum + SSP
+Alluvial,65.91,18.99,208.49,1.04,7.06,Sugarcane,Urea + DAP
+Alluvial,71.11,31.25,190.14,1.06,6.55,Sugarcane,Urea + DAP
+Laterite,23.08,8.44,100.39,0.34,5.27,Rubber,Organic Mix
+Black,45.29,19.77,244.83,1.99,7.76,Cotton,Potash + Urea
+Red,23.45,10.46,151.62,0.63,5.92,Millets,Gypsum + SSP
+Alluvial,82.52,20.67,192.23,1.21,7.23,Wheat,Urea + MOP
+Black,25.1,17.72,253.41,2.17,7.35,Soybean,NPK 20:20:0
+Laterite,29.04,9.85,119.98,0.34,5.02,Cashew,Organic Mix
+Red,54.25,11.13,176.68,0.68,5.84,Millets,Gypsum + SSP
+Red,38.8,17.39,160.83,0.64,6.35,Groundnut,SSP + Urea
+Black,28.92,17.34,329.38,1.82,7.52,Soybean,Potash + Urea
+Alluvial,84.46,21.92,190.42,1.11,6.68,Wheat,NPK 10:26:26
+Black,22.03,9.84,266.02,1.66,8.36,Pulses,Potash + Urea
+Black,26.08,14.37,262.9,1.51,8.06,Cotton,Potash + Urea
+Alluvial,68.54,37.67,208.57,0.76,7.22,Maize,NPK 10:26:26
+Red,50.51,9.48,108.32,0.4,5.63,Maize,Gypsum + SSP
+Black,30.59,16.88,317.44,2.12,8.02,Pulses,NPK 20:20:0
+Red,46.16,12.36,134.23,0.64,6.54,Maize,SSP + Urea
+Red,38.29,13.08,143.21,0.63,5.68,Millets,Gypsum + SSP
+Laterite,25.17,6.94,90.84,0.7,5.55,Rubber,Organic Mix
+Black,28.77,11.68,290.5,1.28,7.82,Pulses,Potash + Urea
+Alluvial,55.84,28.79,150.96,0.96,7.21,Maize,NPK 10:26:26
+Red,50.42,14.5,131.82,0.74,5.82,Millets,Gypsum + SSP
+Black,26.45,18.24,309.32,1.33,7.19,Soybean,NPK 20:20:0
+Laterite,22.81,11.03,102.92,0.42,4.77,Rubber,Organic Mix
+Black,32.89,17.19,253.37,1.62,8.36,Soybean,NPK 20:20:0
+Red,44.71,14.09,131.38,0.74,5.76,Groundnut,Gypsum + SSP
+Alluvial,67.89,37.99,203.59,1.1,6.59,Sugarcane,NPK 10:26:26
+Laterite,23.72,8.05,83.3,0.55,4.85,Rubber,Organic Compost
+Laterite,18.67,7.27,83.04,0.59,4.66,Cashew,Organic Mix
+Laterite,23.01,5.16,110.55,0.48,5.57,Cashew,Organic Compost
+Laterite,10.68,11.14,124.82,0.52,4.9,Cashew,Organic Mix
+Black,36.43,23.12,325.0,1.04,8.26,Soybean,NPK 20:20:0
+Red,39.76,9.28,143.73,0.71,6.17,Groundnut,SSP + Urea
+Laterite,13.09,8.65,106.66,0.54,5.08,Rubber,Organic Compost
+Alluvial,73.39,29.84,153.11,0.78,7.05,Wheat,NPK 10:26:26
+Red,52.91,15.72,147.31,0.62,6.07,Groundnut,SSP + Urea
+Alluvial,80.05,33.49,199.53,1.18,7.48,Rice,NPK 10:26:26
+Red,35.35,16.1,148.1,0.66,6.3,Maize,SSP + Urea
+Laterite,23.3,12.01,87.43,0.48,4.63,Tea,Organic Mix
+Red,40.44,10.05,130.69,0.61,5.86,Groundnut,SSP + Urea
+Alluvial,69.39,39.72,188.35,1.0,7.23,Maize,Urea + MOP
+Black,44.57,13.03,260.76,1.86,8.28,Pulses,NPK 20:20:0
+Red,33.9,10.27,121.24,0.93,5.62,Groundnut,Gypsum + SSP
+Red,52.13,16.93,113.62,0.51,5.76,Millets,Gypsum + SSP
+Alluvial,83.81,33.18,158.83,1.17,7.14,Maize,Urea + DAP
+Alluvial,59.89,21.39,208.79,1.07,7.09,Wheat,Urea + MOP
+Alluvial,65.2,30.68,200.88,0.97,6.72,Wheat,Urea + DAP
+Red,35.8,17.1,124.93,0.57,5.84,Maize,SSP + Urea
+Alluvial,69.66,23.13,181.45,0.78,6.98,Wheat,NPK 10:26:26
+Laterite,25.15,9.09,76.19,0.41,4.95,Cashew,Organic Mix
+Laterite,13.12,6.6,103.19,0.36,5.51,Tea,Organic Compost
+Red,52.71,12.38,146.28,0.66,6.48,Groundnut,Gypsum + SSP
+Alluvial,79.11,32.08,171.48,1.19,6.9,Maize,Urea + MOP
+Black,41.37,19.25,328.11,1.36,8.44,Soybean,Potash + Urea
+Red,58.74,15.4,136.04,0.37,5.81,Millets,Gypsum + SSP
+Laterite,28.15,6.58,117.26,0.61,4.78,Rubber,Organic Compost
+Black,33.98,16.48,247.88,1.51,7.6,Soybean,Potash + Urea
+Red,56.82,18.21,109.12,0.95,5.8,Groundnut,SSP + Urea
+Red,40.19,8.98,128.87,0.58,5.56,Maize,Gypsum + SSP
+Red,32.41,11.77,118.55,0.49,5.87,Groundnut,Gypsum + SSP
+Alluvial,76.24,31.71,167.98,1.39,7.17,Sugarcane,Urea + MOP
+Alluvial,75.37,27.45,178.11,0.92,7.19,Wheat,Urea + DAP
+Black,24.55,22.75,273.66,1.71,7.1,Pulses,NPK 20:20:0
+Red,43.69,11.21,151.51,0.83,6.36,Maize,SSP + Urea
+Alluvial,60.7,27.63,214.57,1.29,7.29,Maize,Urea + MOP
+Laterite,13.16,5.14,112.9,0.59,5.6,Tea,Organic Compost
+Alluvial,55.37,30.69,167.99,0.93,7.37,Maize,Urea + MOP
+Alluvial,76.88,28.99,155.04,1.02,6.74,Maize,NPK 10:26:26
+Laterite,14.75,9.44,91.64,0.64,5.41,Rubber,Organic Compost
+Laterite,20.44,7.62,107.37,0.47,4.71,Tea,Organic Compost
+Red,57.69,16.59,167.2,0.49,6.52,Millets,SSP + Urea
+Alluvial,73.41,41.24,208.11,1.24,7.14,Sugarcane,NPK 10:26:26
+Black,26.62,18.5,275.43,2.03,8.06,Pulses,Potash + Urea
+Black,21.57,17.76,258.28,1.75,7.34,Pulses,Potash + Urea
+Red,49.4,13.13,124.55,0.45,6.53,Maize,Gypsum + SSP
+Laterite,31.25,9.06,90.59,0.64,4.61,Tea,Organic Mix
+Laterite,34.84,8.9,86.22,0.3,5.72,Tea,Organic Mix
+Laterite,13.87,6.61,124.14,0.64,5.32,Tea,Organic Mix
+Red,28.17,10.33,153.65,0.56,6.03,Maize,Gypsum + SSP
+Red,54.22,15.23,147.82,0.43,6.06,Maize,Gypsum + SSP
+Black,33.02,16.57,277.85,1.0,7.75,Pulses,Potash + Urea
+Laterite,15.77,7.7,114.67,0.58,5.31,Cashew,Organic Compost
+Laterite,9.16,8.14,122.83,0.61,4.75,Cashew,Organic Compost
+Alluvial,71.73,30.62,208.32,1.24,7.29,Maize,NPK 10:26:26
+Laterite,34.55,5.58,82.22,0.51,5.09,Tea,Organic Compost
+Red,43.74,11.61,165.5,0.75,6.0,Maize,SSP + Urea
+Red,42.54,18.18,117.38,0.67,6.42,Millets,Gypsum + SSP
+Red,47.84,10.32,152.68,0.55,6.12,Millets,Gypsum + SSP
+Alluvial,85.0,21.53,152.4,1.06,6.94,Rice,Urea + DAP
+Laterite,16.85,5.9,80.66,0.55,5.08,Cashew,Organic Mix
+Black,22.72,18.64,324.61,0.92,7.57,Soybean,NPK 20:20:0
+Laterite,12.38,9.9,118.7,0.62,4.89,Cashew,Organic Mix
+Black,43.17,21.47,239.42,1.38,7.1,Soybean,Potash + Urea
+Alluvial,58.69,32.52,172.1,1.42,7.04,Rice,Urea + MOP
+Black,33.06,19.41,248.36,1.69,7.3,Soybean,NPK 20:20:0
+Alluvial,82.38,29.68,161.53,1.09,6.83,Wheat,Urea + MOP
+Laterite,11.93,9.1,75.91,0.38,4.97,Cashew,Organic Mix
+Alluvial,87.45,32.8,208.09,1.01,7.5,Sugarcane,Urea + MOP
+Laterite,28.44,7.69,78.61,0.42,4.93,Rubber,Organic Mix
+Red,51.47,14.85,162.8,0.77,6.35,Groundnut,Gypsum + SSP
+Black,33.18,16.84,277.68,1.1,8.17,Soybean,NPK 20:20:0
+Laterite,34.39,7.48,113.76,0.42,5.15,Tea,Organic Compost
+Red,33.26,16.56,168.56,0.55,6.35,Maize,Gypsum + SSP
+Alluvial,58.09,21.43,159.33,1.0,7.29,Sugarcane,Urea + MOP
+Red,41.78,11.35,126.97,0.79,5.99,Groundnut,SSP + Urea
+Alluvial,63.22,20.86,178.36,1.34,6.71,Maize,Urea + DAP
+Red,39.01,12.55,158.46,0.44,6.04,Groundnut,SSP + Urea
+Red,29.68,13.47,136.14,0.63,6.01,Millets,SSP + Urea
+Laterite,17.33,7.97,101.31,0.39,5.77,Cashew,Organic Compost
+Red,36.78,15.54,145.97,0.66,6.08,Millets,SSP + Urea
+Red,37.38,17.65,109.52,0.77,6.24,Millets,SSP + Urea
+Red,43.92,13.36,157.91,0.64,6.29,Maize,Gypsum + SSP
+Black,22.58,18.49,251.67,2.11,7.81,Soybean,NPK 20:20:0
+Red,52.03,12.47,125.63,0.84,5.78,Groundnut,Gypsum + SSP
+Red,48.47,9.75,128.16,0.71,5.78,Millets,SSP + Urea
+Alluvial,66.69,27.4,204.13,0.96,7.1,Rice,Urea + MOP
+Alluvial,78.68,32.95,208.02,0.92,7.54,Sugarcane,Urea + MOP
+Black,24.34,20.63,257.32,1.46,8.3,Pulses,Potash + Urea
+Laterite,23.78,5.5,90.22,0.55,5.5,Cashew,Organic Mix
+Black,36.94,19.78,274.55,1.79,8.6,Soybean,Potash + Urea
+Laterite,26.51,10.75,134.97,0.31,4.67,Rubber,Organic Mix
+Red,36.76,12.21,131.28,0.87,6.34,Millets,Gypsum + SSP
+Laterite,14.05,13.64,83.29,0.5,4.91,Tea,Organic Mix
+Red,27.62,17.64,144.97,0.49,5.85,Millets,Gypsum + SSP
+Laterite,30.45,9.73,98.71,0.49,5.77,Tea,Organic Compost
+Black,31.7,20.04,281.28,0.98,7.39,Cotton,NPK 20:20:0
+Laterite,32.85,6.64,122.15,0.44,5.75,Rubber,Organic Mix
+Red,32.85,6.01,166.89,0.88,6.36,Groundnut,Gypsum + SSP
+Alluvial,62.84,37.01,159.34,0.9,7.3,Wheat,NPK 10:26:26
+Red,31.35,7.2,128.82,0.73,6.42,Groundnut,SSP + Urea
+Alluvial,64.49,25.78,213.13,1.12,6.77,Rice,NPK 10:26:26
+Red,58.82,12.2,148.76,0.63,5.79,Maize,SSP + Urea
+Red,57.66,12.44,127.43,0.34,6.18,Groundnut,Gypsum + SSP
+Alluvial,55.74,27.61,156.49,1.11,7.52,Maize,NPK 10:26:26
+Laterite,20.24,7.07,101.28,0.24,4.78,Tea,Organic Compost
+Alluvial,58.26,19.95,204.69,1.22,6.99,Wheat,Urea + MOP
+Alluvial,76.4,31.06,192.69,0.91,7.45,Maize,NPK 10:26:26
+Red,53.41,14.41,115.13,0.42,6.04,Millets,SSP + Urea
+Alluvial,75.03,37.82,218.23,1.28,7.16,Rice,NPK 10:26:26
+Laterite,31.05,12.7,85.34,0.5,4.52,Rubber,Organic Mix
+Red,40.81,12.95,164.84,0.45,5.86,Millets,Gypsum + SSP
+Red,41.04,11.65,127.07,0.46,5.71,Maize,Gypsum + SSP
+Alluvial,68.71,30.87,153.58,1.19,6.6,Wheat,NPK 10:26:26
+Alluvial,75.49,25.06,212.99,1.0,6.38,Rice,Urea + MOP
+Alluvial,74.35,32.75,161.47,0.83,7.15,Rice,NPK 10:26:26
+Alluvial,75.09,33.96,210.2,1.13,6.78,Maize,Urea + DAP
+Alluvial,64.47,32.56,204.47,1.06,7.34,Wheat,Urea + MOP
+Red,59.55,12.47,121.01,0.82,6.39,Millets,SSP + Urea
+Laterite,23.55,8.47,96.23,0.7,5.35,Cashew,Organic Compost
+Laterite,22.88,11.26,128.45,0.59,5.76,Tea,Organic Compost
+Alluvial,88.43,37.56,159.11,0.69,7.17,Sugarcane,NPK 10:26:26
+Alluvial,60.74,39.46,222.19,1.33,6.74,Sugarcane,NPK 10:26:26
+Black,40.7,19.36,255.11,1.93,7.41,Cotton,NPK 20:20:0
+Black,27.47,12.47,324.54,1.47,7.65,Pulses,NPK 20:20:0
+Alluvial,61.09,36.15,202.14,1.26,6.76,Sugarcane,NPK 10:26:26
+Laterite,30.6,13.46,104.69,0.45,4.54,Rubber,Organic Compost
+Red,24.89,13.22,152.22,0.7,5.65,Maize,Gypsum + SSP
+Black,31.14,14.35,285.73,2.16,8.41,Pulses,Potash + Urea
+Laterite,29.66,11.02,89.58,0.49,5.07,Rubber,Organic Mix
+Laterite,19.6,8.15,79.81,0.41,4.81,Rubber,Organic Mix
+Black,22.92,15.65,331.43,1.97,7.58,Soybean,Potash + Urea
+Black,30.09,13.36,306.32,1.71,7.27,Pulses,Potash + Urea
+Black,25.91,24.84,274.92,1.76,8.25,Cotton,NPK 20:20:0
+Black,39.11,16.89,315.5,1.76,7.45,Cotton,Potash + Urea
+Black,21.76,14.87,328.95,1.18,7.15,Soybean,NPK 20:20:0
+Alluvial,90.04,40.21,170.96,1.1,6.8,Maize,Urea + DAP
+Red,36.6,15.13,117.19,0.82,6.53,Maize,SSP + Urea
+Red,31.79,15.01,150.36,0.9,5.96,Millets,SSP + Urea
+Black,39.18,18.86,313.0,1.38,7.7,Cotton,NPK 20:20:0
+Laterite,31.09,9.7,91.57,0.44,5.78,Tea,Organic Mix
+Black,41.9,22.32,247.94,2.13,8.29,Soybean,Potash + Urea
+Black,22.35,16.07,264.14,1.68,7.16,Cotton,NPK 20:20:0
+Alluvial,90.8,22.83,222.66,1.06,6.6,Wheat,NPK 10:26:26
+Red,54.45,18.26,152.88,0.71,6.37,Groundnut,SSP + Urea
+Red,23.5,12.8,168.44,0.75,5.6,Maize,SSP + Urea
+Laterite,33.97,10.96,120.45,0.51,4.59,Cashew,Organic Compost
+Alluvial,66.83,28.32,174.91,1.11,6.58,Maize,NPK 10:26:26
+Alluvial,80.75,26.0,193.43,1.32,7.2,Rice,Urea + MOP
+Laterite,32.27,10.88,115.68,0.31,5.74,Rubber,Organic Mix
+Black,27.02,21.49,303.01,1.46,8.64,Cotton,NPK 20:20:0
+Laterite,13.0,7.26,134.97,0.53,4.85,Tea,Organic Mix
+Alluvial,58.31,34.94,213.76,1.04,7.04,Sugarcane,Urea + MOP
+Alluvial,87.32,20.96,203.91,1.42,7.44,Sugarcane,Urea + DAP
+Alluvial,56.69,33.04,149.86,1.03,6.64,Sugarcane,Urea + MOP
+Black,43.76,17.34,321.69,1.56,7.48,Pulses,NPK 20:20:0
+Laterite,21.37,11.53,94.2,0.37,5.7,Rubber,Organic Compost
+Black,23.91,15.86,335.54,0.99,7.0,Pulses,NPK 20:20:0
+Red,52.82,16.61,120.33,0.65,6.11,Groundnut,SSP + Urea
+Red,49.29,16.28,133.65,0.88,5.48,Millets,Gypsum + SSP
+Alluvial,80.95,34.29,164.71,1.16,7.12,Maize,Urea + DAP
+Alluvial,88.27,34.67,179.15,1.22,6.99,Maize,Urea + MOP
+Alluvial,72.66,26.89,164.77,1.08,7.19,Sugarcane,Urea + MOP
+Laterite,22.45,7.43,93.62,0.4,4.74,Rubber,Organic Compost
+Laterite,24.56,6.97,86.98,0.72,4.76,Tea,Organic Compost
+Alluvial,68.66,34.64,169.56,1.02,6.85,Maize,Urea + DAP
+Laterite,33.47,6.93,124.86,0.62,4.91,Cashew,Organic Compost
+Red,44.78,9.42,165.62,0.78,5.45,Maize,Gypsum + SSP
+Black,39.87,23.58,332.13,1.65,7.62,Cotton,Potash + Urea
+Black,23.5,19.71,287.67,1.06,7.95,Soybean,Potash + Urea
+Red,54.93,13.98,113.44,0.65,5.68,Maize,Gypsum + SSP
+Laterite,16.64,8.16,129.34,0.32,4.7,Rubber,Organic Compost
+Alluvial,74.33,28.23,221.43,1.02,6.95,Rice,Urea + DAP
+Black,37.81,14.34,309.06,1.81,7.76,Pulses,Potash + Urea
+Red,39.04,17.61,114.05,0.47,5.73,Millets,Gypsum + SSP
+Laterite,14.3,6.92,92.79,0.52,5.42,Cashew,Organic Compost
+Laterite,28.37,7.38,100.3,0.44,5.46,Rubber,Organic Mix
+Red,33.78,7.29,128.82,0.78,5.43,Groundnut,SSP + Urea
+Black,26.34,11.94,287.06,1.07,7.59,Pulses,NPK 20:20:0
+Black,30.63,11.79,283.81,2.14,8.2,Soybean,NPK 20:20:0
+Black,32.05,15.98,267.38,1.16,8.36,Pulses,NPK 20:20:0
+Red,33.56,6.84,141.58,0.66,5.69,Maize,Gypsum + SSP
+Laterite,26.12,9.41,122.12,0.32,5.01,Rubber,Organic Mix
+Black,41.05,26.78,325.0,1.66,7.11,Pulses,Potash + Urea
+Alluvial,65.91,36.42,195.82,1.31,6.78,Wheat,Urea + MOP
+Alluvial,54.41,25.66,206.3,0.94,6.35,Maize,Urea + DAP
+Alluvial,90.24,26.04,213.69,1.31,7.12,Wheat,Urea + DAP
+Alluvial,62.8,23.85,219.06,1.27,6.81,Wheat,NPK 10:26:26
+Alluvial,72.52,40.27,165.0,1.13,6.98,Maize,NPK 10:26:26
+Red,32.76,14.25,136.98,0.52,6.33,Maize,SSP + Urea
+Laterite,20.45,9.66,108.85,0.66,5.02,Rubber,Organic Compost
+Alluvial,56.28,30.63,183.43,1.2,7.21,Wheat,Urea + MOP
+Alluvial,70.02,20.9,183.01,1.02,6.69,Rice,Urea + MOP
+Red,28.47,12.7,149.87,0.6,6.18,Groundnut,Gypsum + SSP
+Laterite,12.72,10.67,91.15,0.32,5.6,Tea,Organic Compost
+Red,28.06,11.49,159.02,0.81,5.75,Groundnut,Gypsum + SSP
+Laterite,27.34,8.42,91.45,0.64,5.53,Cashew,Organic Mix
+Red,56.98,12.32,138.0,0.77,6.22,Millets,SSP + Urea
+Red,29.6,9.26,118.35,0.49,5.72,Millets,SSP + Urea
+Black,35.45,12.87,300.43,1.15,7.91,Soybean,Potash + Urea
+Black,19.95,14.03,308.32,1.99,8.46,Soybean,Potash + Urea
+Red,38.52,10.66,154.5,0.85,5.68,Groundnut,SSP + Urea
+Alluvial,67.32,24.35,150.39,1.19,7.07,Maize,NPK 10:26:26
+Red,55.8,10.25,144.37,0.51,5.59,Groundnut,SSP + Urea
+Alluvial,58.02,26.3,210.27,0.78,6.27,Sugarcane,Urea + MOP
+Alluvial,84.79,37.05,170.36,0.97,6.77,Maize,Urea + DAP
+Black,30.83,17.97,253.38,1.58,7.45,Pulses,NPK 20:20:0
+Laterite,32.51,7.66,95.07,0.38,5.03,Tea,Organic Mix
+Red,32.05,9.6,140.78,0.83,6.1,Maize,SSP + Urea
+Black,31.8,19.25,323.86,1.82,8.31,Soybean,Potash + Urea
+Black,20.81,24.94,272.04,1.3,7.18,Soybean,NPK 20:20:0
+Alluvial,57.64,25.57,220.86,1.32,6.42,Sugarcane,Urea + MOP
+Laterite,19.15,8.29,86.62,0.33,4.93,Tea,Organic Compost
+Black,44.35,16.68,314.25,2.01,7.29,Cotton,NPK 20:20:0
+Laterite,33.83,11.97,84.08,0.71,4.98,Rubber,Organic Compost
+Red,56.56,15.05,143.79,0.81,6.27,Groundnut,Gypsum + SSP
+Alluvial,56.82,32.17,187.63,1.43,7.32,Wheat,Urea + DAP
+Alluvial,58.5,37.69,184.71,0.9,6.53,Maize,Urea + MOP
+Black,37.61,18.22,328.76,1.08,7.38,Pulses,NPK 20:20:0
+Alluvial,81.21,34.5,200.28,0.99,6.68,Maize,NPK 10:26:26
+Red,46.55,10.49,164.7,0.4,5.6,Millets,Gypsum + SSP
+Red,55.04,6.5,142.86,0.72,6.44,Maize,Gypsum + SSP
+Black,41.08,21.84,323.41,2.08,7.7,Cotton,NPK 20:20:0
+Alluvial,66.98,27.27,177.61,1.09,7.1,Maize,Urea + DAP
+Alluvial,88.95,23.83,176.46,1.04,6.59,Rice,Urea + MOP
+Laterite,25.36,10.97,93.35,0.63,5.63,Tea,Organic Compost
+Red,45.23,8.95,112.16,0.87,5.84,Groundnut,Gypsum + SSP
+Red,32.92,13.57,130.81,0.72,5.61,Millets,Gypsum + SSP
+Laterite,19.41,5.43,93.59,0.29,4.46,Tea,Organic Compost
+Laterite,26.09,9.92,102.54,0.42,4.69,Cashew,Organic Compost
+Red,52.17,14.35,134.19,0.63,6.38,Millets,Gypsum + SSP
+Black,42.87,16.93,277.18,1.69,8.2,Soybean,Potash + Urea
+Laterite,20.09,5.87,91.85,0.66,5.45,Cashew,Organic Mix
+Alluvial,88.65,33.42,216.03,1.25,6.89,Sugarcane,Urea + DAP
+Laterite,28.25,10.31,86.85,0.63,5.56,Rubber,Organic Mix
+Black,33.02,12.79,271.24,1.17,8.56,Soybean,NPK 20:20:0
+Alluvial,73.69,23.65,161.22,0.77,7.69,Wheat,Urea + MOP
+Laterite,26.45,12.02,96.46,0.5,5.12,Rubber,Organic Compost
+Laterite,18.84,5.28,85.66,0.48,5.08,Tea,Organic Mix
+Laterite,22.22,8.26,87.78,0.61,5.34,Cashew,Organic Compost
+Laterite,29.4,8.79,98.71,0.31,5.08,Rubber,Organic Mix
+Red,51.45,13.24,160.31,0.44,6.54,Maize,Gypsum + SSP
+Black,26.08,17.93,283.31,0.96,7.81,Pulses,NPK 20:20:0
+Black,39.34,10.97,337.27,1.04,8.02,Cotton,NPK 20:20:0
+Laterite,23.9,9.17,114.76,0.5,4.57,Rubber,Organic Compost
+Black,40.69,18.39,267.08,1.52,8.12,Pulses,Potash + Urea
+Black,26.86,11.76,241.77,1.89,8.11,Cotton,NPK 20:20:0
+Red,27.66,11.31,122.62,0.68,5.58,Millets,SSP + Urea
+Black,26.72,9.85,326.29,1.25,7.35,Cotton,Potash + Urea
+Laterite,34.54,10.85,98.21,0.54,5.44,Rubber,Organic Mix
+Laterite,28.3,11.43,122.9,0.41,4.56,Tea,Organic Mix
+Laterite,29.63,8.4,87.69,0.69,4.91,Tea,Organic Compost
+Laterite,17.64,12.74,83.39,0.39,4.88,Tea,Organic Compost
+Black,28.38,15.72,283.4,1.75,7.61,Pulses,Potash + Urea
+Black,32.97,16.35,270.02,1.43,8.23,Pulses,Potash + Urea
+Black,27.01,24.93,332.87,1.53,7.28,Soybean,NPK 20:20:0
+Black,30.49,15.74,257.11,1.11,7.41,Cotton,NPK 20:20:0
+Black,37.5,14.37,261.15,2.14,7.82,Pulses,NPK 20:20:0
+Alluvial,87.64,32.53,157.46,0.88,6.83,Maize,Urea + MOP
+Alluvial,56.0,38.03,173.03,1.47,6.63,Wheat,Urea + DAP
+Laterite,32.63,9.93,116.56,0.52,5.85,Cashew,Organic Compost
+Black,35.28,13.49,298.6,2.15,7.42,Soybean,NPK 20:20:0
+Red,46.42,6.7,147.51,0.91,6.12,Groundnut,SSP + Urea
+Red,24.26,13.12,135.71,0.44,5.63,Groundnut,SSP + Urea
+Alluvial,57.61,28.72,162.06,1.32,7.54,Sugarcane,NPK 10:26:26
+Black,34.57,11.06,268.2,1.08,7.11,Soybean,Potash + Urea
+Laterite,10.73,9.06,81.35,0.49,5.8,Cashew,Organic Compost
+Laterite,22.66,7.38,93.01,0.64,5.41,Rubber,Organic Compost
+Black,41.47,23.55,265.62,1.83,8.28,Pulses,Potash + Urea
+Black,21.81,14.09,308.12,1.15,8.59,Pulses,Potash + Urea
+Black,30.96,23.52,328.04,1.57,7.26,Pulses,NPK 20:20:0
+Alluvial,61.24,32.38,181.23,0.88,7.48,Rice,Urea + MOP
+Laterite,20.39,7.42,110.37,0.58,4.72,Rubber,Organic Mix
+Black,37.24,12.87,298.63,2.15,8.09,Cotton,NPK 20:20:0
+Black,31.97,19.98,310.09,2.08,7.01,Cotton,Potash + Urea
+Red,46.03,10.02,113.54,0.53,5.91,Groundnut,SSP + Urea
+Black,21.27,24.03,257.64,1.97,8.11,Pulses,Potash + Urea
+Black,27.22,11.54,328.19,1.33,7.96,Pulses,Potash + Urea
+Black,45.72,25.12,303.9,1.1,7.8,Soybean,NPK 20:20:0
+Alluvial,85.58,20.92,179.02,1.05,6.81,Sugarcane,NPK 10:26:26
+Red,31.15,11.93,114.62,0.4,6.4,Maize,Gypsum + SSP
+Laterite,12.87,6.05,123.77,0.44,4.84,Rubber,Organic Mix
+Alluvial,66.76,34.5,174.75,1.46,6.99,Sugarcane,Urea + DAP
+Black,43.26,17.7,336.82,0.96,7.52,Cotton,Potash + Urea
+Laterite,28.09,13.09,81.42,0.4,4.81,Rubber,Organic Compost
+Laterite,25.27,12.07,126.95,0.7,4.49,Cashew,Organic Mix
+Red,27.3,10.46,130.95,0.5,6.48,Millets,Gypsum + SSP
+Alluvial,61.87,24.94,213.05,0.77,6.67,Sugarcane,Urea + MOP
+Black,32.63,16.55,338.12,1.81,7.79,Pulses,NPK 20:20:0
+Black,24.95,15.63,293.26,1.06,7.67,Pulses,NPK 20:20:0
+Black,31.28,24.52,306.34,1.79,7.3,Cotton,NPK 20:20:0
+Laterite,31.03,6.14,109.76,0.46,5.14,Cashew,Organic Compost
+Black,33.55,18.87,264.96,1.12,8.26,Pulses,Potash + Urea
+Black,37.75,18.67,334.54,1.92,7.29,Soybean,Potash + Urea
+Alluvial,67.4,32.5,196.93,1.06,7.09,Maize,Urea + DAP
+Red,32.27,14.01,112.43,0.53,5.67,Maize,SSP + Urea
+Black,24.47,20.93,280.1,1.43,7.12,Soybean,NPK 20:20:0
+Black,20.78,14.89,263.14,2.14,8.44,Pulses,NPK 20:20:0
+Red,51.59,17.32,141.89,0.54,5.39,Millets,SSP + Urea
+Alluvial,74.1,24.04,182.58,1.29,6.99,Rice,Urea + DAP
+Black,22.54,16.84,285.37,1.93,8.03,Soybean,NPK 20:20:0
+Black,21.37,25.32,315.09,1.85,7.15,Cotton,Potash + Urea
+Laterite,12.88,7.81,116.7,0.33,5.41,Rubber,Organic Compost
+Alluvial,63.12,22.78,153.87,0.79,7.25,Rice,Urea + DAP
+Alluvial,61.32,36.19,181.5,0.81,7.09,Maize,NPK 10:26:26
+Alluvial,89.35,25.98,199.83,1.33,6.93,Sugarcane,Urea + DAP
+Red,30.91,9.12,144.2,0.37,6.22,Millets,SSP + Urea
+Laterite,35.92,7.06,81.76,0.61,5.62,Cashew,Organic Compost
+Red,39.23,8.21,150.65,0.62,6.24,Millets,SSP + Urea
+Laterite,36.17,11.35,96.59,0.46,5.05,Tea,Organic Compost
+Laterite,16.7,9.05,111.3,0.35,4.95,Tea,Organic Compost
+Alluvial,58.01,29.85,196.65,1.25,6.47,Sugarcane,Urea + MOP
+Red,30.04,9.33,151.5,0.51,5.79,Maize,SSP + Urea
+Red,59.14,12.74,121.73,0.8,6.14,Groundnut,SSP + Urea
+Laterite,15.75,5.66,129.57,0.63,5.84,Tea,Organic Mix
+Black,36.25,14.62,289.95,1.75,7.57,Soybean,Potash + Urea
+Black,25.38,14.66,271.85,1.76,7.2,Pulses,Potash + Urea
+Black,31.02,25.44,329.29,1.09,7.25,Cotton,NPK 20:20:0
+Red,51.47,16.24,114.09,0.5,5.93,Groundnut,Gypsum + SSP
+Laterite,28.36,8.73,99.05,0.3,5.05,Cashew,Organic Compost
+Red,44.26,19.61,112.54,0.51,5.47,Millets,SSP + Urea
+Black,41.59,13.18,282.79,2.02,8.15,Pulses,Potash + Urea
+Alluvial,71.64,35.97,210.47,1.05,7.56,Rice,NPK 10:26:26
+Black,44.67,16.17,295.31,1.83,7.94,Pulses,NPK 20:20:0
+Alluvial,74.36,32.56,190.31,1.16,6.51,Sugarcane,Urea + DAP
+Red,41.93,13.53,127.93,0.55,6.2,Millets,Gypsum + SSP
+Red,44.32,15.8,147.74,0.39,5.82,Groundnut,SSP + Urea
+Red,33.65,14.44,157.16,0.41,5.77,Millets,Gypsum + SSP
+Red,28.49,15.94,120.63,0.79,6.02,Millets,SSP + Urea
+Laterite,16.25,9.45,115.98,0.53,5.49,Cashew,Organic Compost
+Red,28.19,9.72,169.9,0.53,5.78,Millets,Gypsum + SSP
+Red,35.72,18.32,163.71,0.62,6.04,Millets,SSP + Urea
+Red,45.06,14.33,154.52,0.52,5.89,Maize,SSP + Urea
+Laterite,25.22,7.95,131.08,0.3,5.85,Rubber,Organic Compost
+Red,36.91,15.01,123.5,0.63,6.55,Millets,Gypsum + SSP
+Red,23.99,11.03,132.29,0.49,5.75,Millets,SSP + Urea
+Alluvial,86.78,37.5,195.99,1.28,7.58,Wheat,Urea + MOP
+Red,49.95,7.16,111.59,0.92,5.56,Millets,SSP + Urea
+Red,58.8,13.33,155.54,0.93,6.19,Groundnut,Gypsum + SSP
+Laterite,18.33,10.22,81.1,0.57,4.71,Cashew,Organic Mix
+Alluvial,75.13,39.36,164.85,1.25,6.67,Sugarcane,Urea + MOP
+Black,26.97,14.81,330.14,1.72,8.11,Soybean,NPK 20:20:0
+Laterite,11.35,11.08,94.71,0.27,4.8,Cashew,Organic Mix
+Laterite,13.87,6.26,124.56,0.49,4.8,Rubber,Organic Compost
+Alluvial,88.5,25.45,159.28,1.23,6.46,Rice,Urea + MOP
+Laterite,31.08,8.82,125.61,0.59,5.03,Rubber,Organic Mix
+Black,33.06,13.38,324.95,2.03,8.15,Pulses,Potash + Urea
+Alluvial,75.34,30.06,166.57,1.12,7.05,Wheat,Urea + DAP
+Black,28.23,20.22,285.17,1.13,8.3,Pulses,NPK 20:20:0
+Laterite,17.88,9.3,108.42,0.54,5.05,Rubber,Organic Compost
+Laterite,22.95,7.89,107.67,0.43,5.13,Tea,Organic Mix
+Alluvial,85.25,32.54,187.24,0.88,7.36,Sugarcane,Urea + MOP
+Laterite,21.15,5.67,108.61,0.43,5.55,Tea,Organic Mix
+Alluvial,86.31,24.72,173.99,1.22,7.12,Maize,Urea + DAP
+Laterite,17.05,5.48,86.74,0.49,5.26,Cashew,Organic Compost
+Black,32.79,20.91,304.04,2.2,8.62,Pulses,NPK 20:20:0
+Red,57.61,17.37,151.7,0.74,6.14,Groundnut,SSP + Urea
+Black,26.59,11.53,319.87,1.19,7.24,Cotton,NPK 20:20:0
+Red,57.13,9.07,122.04,0.73,5.83,Maize,Gypsum + SSP
+Red,35.6,16.23,142.68,0.65,5.69,Millets,SSP + Urea
+Black,35.59,12.23,249.22,1.19,7.69,Soybean,Potash + Urea
+Black,32.26,10.48,330.96,2.02,8.13,Cotton,NPK 20:20:0
+Laterite,17.79,11.46,109.96,0.6,5.62,Tea,Organic Mix
+Alluvial,85.98,25.71,195.31,1.2,7.6,Sugarcane,Urea + DAP
+Black,22.34,10.73,247.08,1.71,7.57,Cotton,NPK 20:20:0
+Alluvial,72.85,26.16,165.78,1.21,6.64,Sugarcane,Urea + DAP
+Red,56.02,15.19,132.78,0.68,6.1,Groundnut,Gypsum + SSP
+Red,41.4,13.14,147.77,0.68,6.23,Groundnut,SSP + Urea
+Black,20.72,8.51,250.47,1.32,7.36,Cotton,NPK 20:20:0
+Red,55.74,12.31,121.0,0.48,6.39,Groundnut,Gypsum + SSP
+Red,44.2,16.03,147.06,0.47,6.61,Groundnut,Gypsum + SSP
+Black,28.12,12.82,273.05,1.66,8.24,Cotton,NPK 20:20:0
+Red,46.89,9.8,156.9,0.44,6.26,Groundnut,SSP + Urea
+Red,32.85,11.27,146.78,0.85,6.36,Maize,Gypsum + SSP
+Laterite,25.79,5.06,122.16,0.55,4.97,Cashew,Organic Compost
+Red,41.74,8.42,151.26,0.71,6.3,Groundnut,SSP + Urea
+Alluvial,70.66,32.92,186.93,1.28,7.21,Maize,Urea + MOP
+Red,52.82,8.87,144.18,0.63,6.2,Maize,Gypsum + SSP
+Black,27.23,9.26,280.94,1.91,6.95,Cotton,NPK 20:20:0
+Laterite,33.07,7.85,115.22,0.6,5.47,Rubber,Organic Mix
+Laterite,15.77,9.26,85.47,0.59,4.81,Tea,Organic Compost
+Black,31.0,17.75,275.46,1.43,7.84,Cotton,NPK 20:20:0
+Laterite,19.53,6.64,87.25,0.38,4.58,Cashew,Organic Compost
+Red,45.75,11.78,143.67,0.65,6.31,Groundnut,SSP + Urea
+Alluvial,86.6,23.86,168.62,1.18,7.17,Maize,Urea + MOP
+Red,58.87,9.27,139.86,0.47,6.17,Maize,Gypsum + SSP
+Black,28.68,23.05,309.29,1.66,7.95,Soybean,NPK 20:20:0
+Black,21.06,18.33,277.18,1.23,7.08,Pulses,NPK 20:20:0
+Laterite,13.61,6.25,110.01,0.64,4.68,Tea,Organic Compost
+Black,27.61,12.09,239.56,1.58,7.86,Cotton,Potash + Urea
+Alluvial,87.91,26.03,207.64,0.83,6.96,Rice,Urea + MOP
+Black,43.02,16.51,247.05,1.24,7.22,Cotton,NPK 20:20:0
+Red,34.83,9.26,120.15,0.73,5.78,Groundnut,SSP + Urea
+Laterite,31.2,7.81,129.91,0.43,5.1,Rubber,Organic Compost
+Red,43.0,17.72,110.43,0.74,6.39,Millets,SSP + Urea
+Laterite,30.31,5.73,84.65,0.61,5.34,Rubber,Organic Compost
+Laterite,11.99,6.95,88.48,0.53,4.7,Rubber,Organic Mix
+Red,31.2,16.8,156.43,0.42,5.73,Maize,SSP + Urea
+Laterite,27.88,8.73,101.9,0.53,5.63,Cashew,Organic Compost
+Black,37.73,23.96,252.67,1.82,8.12,Soybean,Potash + Urea
+Laterite,24.74,6.56,91.27,0.21,4.6,Rubber,Organic Mix
+Black,24.27,23.25,276.15,2.14,8.14,Soybean,NPK 20:20:0
+Red,31.36,14.82,157.59,0.82,6.1,Millets,SSP + Urea
+Black,40.74,14.69,259.19,1.66,8.07,Cotton,NPK 20:20:0
+Red,41.75,10.93,161.42,0.61,6.3,Millets,Gypsum + SSP
+Laterite,27.98,8.72,78.72,0.42,4.89,Rubber,Organic Mix
+Red,28.32,11.9,159.9,0.68,5.72,Maize,Gypsum + SSP
+Laterite,31.83,6.29,125.7,0.77,4.63,Tea,Organic Compost
+Laterite,33.94,11.3,90.54,0.51,4.68,Tea,Organic Mix
+Alluvial,68.61,33.68,209.71,0.95,6.46,Rice,Urea + MOP
+Alluvial,62.44,24.55,149.42,1.46,7.51,Maize,NPK 10:26:26
+Laterite,12.23,10.17,93.12,0.33,5.12,Tea,Organic Mix
+Red,49.72,12.49,150.5,0.41,6.26,Groundnut,SSP + Urea
+Alluvial,80.11,39.0,156.53,1.24,6.64,Sugarcane,Urea + DAP
+Laterite,22.19,6.96,100.95,0.4,5.81,Rubber,Organic Compost
+Black,39.02,19.02,332.03,1.09,7.79,Soybean,NPK 20:20:0
+Laterite,15.67,7.65,93.42,0.42,5.58,Tea,Organic Mix
+Black,30.32,18.49,298.5,1.3,7.24,Pulses,NPK 20:20:0
+Red,31.83,7.06,133.47,0.8,6.48,Maize,Gypsum + SSP
+Black,23.55,14.5,302.9,1.25,7.71,Pulses,NPK 20:20:0
+Black,40.04,24.31,316.97,1.51,7.28,Pulses,Potash + Urea
+Black,37.26,17.56,320.07,1.09,7.68,Cotton,NPK 20:20:0
+Black,41.51,16.33,336.12,1.76,7.36,Soybean,NPK 20:20:0
+Black,35.37,15.31,294.93,1.76,7.23,Cotton,Potash + Urea
+Alluvial,62.57,20.9,210.44,0.87,7.25,Maize,Urea + MOP
+Red,34.08,15.68,114.14,0.76,5.79,Groundnut,Gypsum + SSP
+Alluvial,79.52,19.65,211.06,1.28,7.18,Sugarcane,Urea + MOP
+Laterite,30.42,8.96,94.99,0.73,5.04,Tea,Organic Mix
+Black,33.82,19.11,290.02,2.12,7.01,Cotton,NPK 20:20:0
+Red,54.91,14.21,129.38,0.54,5.75,Groundnut,SSP + Urea
+Red,27.8,12.91,174.97,0.43,5.53,Millets,SSP + Urea
+Alluvial,54.8,33.17,209.09,1.33,7.37,Sugarcane,Urea + MOP
+Red,32.32,16.68,146.16,0.61,5.57,Maize,Gypsum + SSP
+Red,44.05,11.24,118.79,0.69,6.29,Groundnut,SSP + Urea
+Red,33.49,14.73,113.54,0.57,5.53,Millets,Gypsum + SSP
+Black,45.04,24.18,322.55,1.79,7.82,Pulses,NPK 20:20:0
+Laterite,31.02,6.77,109.93,0.46,5.71,Cashew,Organic Mix
+Laterite,18.29,7.94,79.26,0.38,4.99,Tea,Organic Compost
+Black,45.71,17.0,268.58,1.5,7.67,Cotton,Potash + Urea
+Alluvial,58.49,21.02,172.76,1.11,6.97,Maize,NPK 10:26:26
+Red,46.48,17.48,126.62,0.89,6.43,Groundnut,Gypsum + SSP
+Black,19.26,16.53,309.9,1.72,7.33,Pulses,NPK 20:20:0
+Red,39.19,15.67,139.46,0.7,5.95,Maize,SSP + Urea
+Alluvial,66.7,33.39,185.76,0.9,7.31,Maize,Urea + DAP
+Laterite,19.89,5.85,120.45,0.65,4.59,Rubber,Organic Mix
+Red,56.64,10.71,171.55,0.88,5.56,Maize,Gypsum + SSP
+Red,32.52,16.34,114.7,0.65,5.95,Millets,SSP + Urea
+Red,39.67,14.61,125.09,0.6,5.72,Millets,Gypsum + SSP
+Black,37.91,18.21,282.7,1.18,8.33,Soybean,Potash + Urea
+Red,49.25,11.89,120.59,0.52,6.21,Groundnut,Gypsum + SSP
+Laterite,33.33,11.15,83.54,0.49,5.22,Rubber,Organic Compost
+Laterite,27.63,7.28,121.54,0.51,4.85,Tea,Organic Compost
+Red,29.43,10.63,141.83,0.55,6.09,Millets,SSP + Urea
+Black,27.69,20.16,283.79,2.04,7.36,Cotton,Potash + Urea
+Laterite,27.18,8.97,104.47,0.48,5.52,Cashew,Organic Compost
+Black,24.33,12.99,328.39,2.1,7.67,Soybean,Potash + Urea
+Laterite,28.56,10.53,80.52,0.54,5.45,Rubber,Organic Compost
+Black,20.05,10.78,286.64,1.94,8.04,Pulses,Potash + Urea
+Black,28.2,24.6,334.87,2.05,8.16,Soybean,NPK 20:20:0
+Red,29.94,15.5,138.16,0.7,6.31,Groundnut,SSP + Urea
+Laterite,31.73,7.63,127.32,0.7,5.18,Cashew,Organic Mix
+Laterite,11.18,11.13,124.67,0.28,5.1,Cashew,Organic Compost
+Laterite,30.6,6.94,115.04,0.67,5.18,Rubber,Organic Compost
+Laterite,29.92,11.79,113.41,0.27,5.5,Tea,Organic Mix
+Red,24.86,15.65,153.68,0.71,6.1,Maize,Gypsum + SSP
+Black,26.93,13.31,265.04,1.91,8.1,Pulses,NPK 20:20:0
+Black,27.75,18.5,327.7,2.03,8.31,Pulses,Potash + Urea
+Red,54.22,12.7,129.78,0.53,6.09,Groundnut,SSP + Urea
+Black,41.47,18.41,276.79,1.79,7.39,Pulses,NPK 20:20:0
+Red,51.25,16.16,165.97,0.64,6.42,Millets,SSP + Urea
+Alluvial,56.84,28.47,186.81,1.36,7.06,Wheat,Urea + DAP
+Laterite,22.68,12.6,124.73,0.68,5.56,Rubber,Organic Mix
+Red,32.09,12.17,116.67,0.77,6.12,Millets,Gypsum + SSP
+Red,29.42,16.24,165.68,0.83,6.48,Maize,Gypsum + SSP
+Alluvial,67.29,37.56,160.63,1.22,7.14,Wheat,Urea + DAP
+Black,34.89,15.4,261.79,1.79,8.42,Pulses,NPK 20:20:0
+Laterite,19.39,9.49,115.21,0.5,4.7,Tea,Organic Mix
+Alluvial,68.96,33.52,225.31,1.29,7.34,Maize,Urea + DAP
+Alluvial,78.55,24.01,196.76,1.28,7.01,Sugarcane,NPK 10:26:26
+Alluvial,72.22,22.26,189.81,1.1,7.03,Maize,NPK 10:26:26
+Alluvial,55.14,30.75,223.04,1.07,7.34,Maize,Urea + MOP
+Black,41.66,23.34,263.55,1.91,8.54,Cotton,NPK 20:20:0
+Laterite,25.16,6.86,85.92,0.7,5.07,Cashew,Organic Mix
+Red,45.08,16.02,151.15,0.83,6.04,Groundnut,SSP + Urea
+Black,39.55,10.51,267.25,1.97,7.3,Soybean,NPK 20:20:0
+Black,38.88,13.8,282.14,1.97,7.77,Cotton,NPK 20:20:0
+Laterite,32.75,10.26,106.78,0.49,5.86,Tea,Organic Compost
+Red,40.73,15.16,117.28,0.57,5.59,Groundnut,SSP + Urea
+Red,42.48,12.28,134.89,0.44,5.71,Millets,SSP + Urea
+Laterite,13.27,8.59,89.02,0.58,4.62,Rubber,Organic Compost
+Alluvial,86.6,25.56,210.17,1.1,7.35,Maize,Urea + MOP
+Alluvial,77.53,35.81,188.91,1.24,6.99,Rice,Urea + DAP
+Red,38.42,15.98,167.86,0.62,6.44,Maize,SSP + Urea
+Alluvial,63.79,28.34,166.29,1.2,7.38,Maize,Urea + DAP
+Alluvial,59.55,28.19,154.99,1.0,6.7,Wheat,Urea + MOP
+Red,55.79,13.23,143.29,1.02,5.88,Millets,SSP + Urea
+Black,19.74,10.95,328.98,1.82,7.22,Soybean,Potash + Urea
+Alluvial,69.35,26.13,196.55,1.31,6.62,Maize,Urea + DAP
+Red,45.03,14.5,148.02,0.39,6.1,Maize,Gypsum + SSP
+Laterite,22.05,6.48,112.17,0.68,4.89,Rubber,Organic Mix
+Alluvial,81.47,38.61,182.66,1.39,7.04,Sugarcane,Urea + MOP
+Black,32.07,17.68,254.28,1.59,7.42,Pulses,Potash + Urea
+Alluvial,55.44,28.84,155.74,0.96,7.27,Rice,Urea + DAP
+Alluvial,76.19,23.04,175.43,1.01,7.57,Wheat,NPK 10:26:26
+Red,28.92,16.79,139.46,0.76,6.38,Millets,SSP + Urea
+Black,29.45,21.54,315.24,1.88,7.76,Pulses,NPK 20:20:0
+Alluvial,87.66,25.22,152.36,1.22,6.68,Wheat,Urea + DAP
+Red,43.88,12.36,154.87,0.52,6.3,Groundnut,Gypsum + SSP
+Red,29.35,14.5,143.23,0.55,5.92,Millets,Gypsum + SSP
+Alluvial,66.51,39.29,220.03,0.88,7.13,Rice,Urea + DAP
+Black,40.04,23.1,251.5,2.03,7.4,Cotton,Potash + Urea
+Laterite,29.94,7.51,110.17,0.59,5.44,Tea,Organic Mix
+Alluvial,72.28,32.65,178.07,1.31,7.33,Wheat,Urea + DAP
+Laterite,34.45,5.69,95.39,0.53,5.06,Tea,Organic Mix
+Red,31.26,12.66,134.76,0.45,5.79,Millets,Gypsum + SSP
+Red,23.58,9.24,138.23,0.76,6.26,Maize,Gypsum + SSP
+Black,21.46,17.44,337.34,1.7,8.03,Soybean,Potash + Urea
+Red,49.19,7.49,110.61,0.49,5.75,Maize,SSP + Urea
+Red,29.39,14.61,141.02,0.85,6.18,Groundnut,SSP + Urea
+Red,50.31,10.73,130.81,0.5,6.5,Maize,SSP + Urea
+Red,57.57,12.41,125.19,0.57,6.38,Maize,SSP + Urea
+Laterite,13.42,5.88,119.33,0.51,5.51,Rubber,Organic Mix
+Laterite,22.45,10.79,86.6,0.66,5.25,Rubber,Organic Compost
+Black,16.9,13.77,337.72,1.55,8.25,Soybean,Potash + Urea
+Red,44.49,14.42,114.41,0.56,5.92,Maize,SSP + Urea
+Black,38.14,11.35,249.6,1.23,7.38,Pulses,Potash + Urea
+Black,28.27,9.75,279.55,1.8,7.89,Soybean,NPK 20:20:0
+Laterite,17.57,12.08,129.81,0.57,5.91,Rubber,Organic Compost
+Black,23.84,21.36,270.86,1.68,7.24,Cotton,NPK 20:20:0
+Black,37.48,21.96,301.77,0.97,8.31,Pulses,NPK 20:20:0
+Black,28.98,21.81,259.52,1.5,7.75,Pulses,Potash + Urea
+Black,37.26,25.4,271.27,2.1,7.82,Cotton,NPK 20:20:0
+Red,41.8,17.42,112.88,0.49,5.78,Groundnut,SSP + Urea
+Laterite,35.62,5.85,105.02,0.6,5.77,Rubber,Organic Compost
+Black,22.37,17.13,309.18,1.32,7.58,Pulses,NPK 20:20:0
+Alluvial,64.39,24.4,204.59,1.21,6.96,Rice,NPK 10:26:26
+Laterite,26.98,8.27,111.0,0.62,5.66,Rubber,Organic Compost
+Laterite,24.85,9.03,96.71,0.74,4.43,Cashew,Organic Mix
+Alluvial,69.51,36.88,202.27,1.43,6.69,Sugarcane,Urea + MOP
+Laterite,20.68,11.46,134.6,0.32,5.51,Tea,Organic Mix
+Black,25.67,10.29,254.15,2.28,8.51,Soybean,Potash + Urea
+Alluvial,81.75,34.04,160.83,1.32,6.89,Sugarcane,NPK 10:26:26
+Red,57.8,11.49,141.87,0.63,6.07,Groundnut,Gypsum + SSP
+Laterite,16.04,5.97,102.51,0.69,5.85,Cashew,Organic Mix
+Black,24.82,22.62,311.2,1.41,8.17,Cotton,NPK 20:20:0
+Laterite,34.32,9.31,104.04,0.48,4.64,Cashew,Organic Mix
+Black,27.06,21.84,264.86,1.57,7.54,Pulses,NPK 20:20:0
+Alluvial,74.97,25.4,186.13,0.99,6.66,Sugarcane,Urea + MOP
+Laterite,22.44,13.54,83.33,0.43,5.32,Rubber,Organic Mix
+Black,20.64,14.39,292.08,1.48,8.35,Soybean,NPK 20:20:0
+Laterite,21.45,8.95,107.91,0.65,4.99,Cashew,Organic Mix
+Alluvial,74.58,39.52,194.11,1.15,7.16,Rice,Urea + MOP
+Alluvial,80.5,27.66,174.35,1.33,7.32,Sugarcane,Urea + MOP
+Alluvial,83.41,28.9,187.11,0.9,7.26,Wheat,Urea + DAP
+Alluvial,69.82,24.2,174.59,1.12,7.03,Maize,Urea + MOP
+Alluvial,86.5,23.59,166.57,1.23,7.25,Rice,Urea + DAP
+Black,32.65,11.46,252.63,2.18,7.53,Cotton,Potash + Urea
+Laterite,30.3,5.81,94.09,0.54,5.1,Tea,Organic Mix
+Black,45.74,12.22,281.11,1.77,7.02,Cotton,Potash + Urea
+Alluvial,87.43,27.52,200.01,1.44,6.97,Sugarcane,Urea + DAP
+Laterite,6.7,6.45,108.65,0.52,4.81,Tea,Organic Compost
+Alluvial,67.19,30.41,216.03,0.94,7.07,Maize,Urea + DAP
+Laterite,22.87,7.94,109.88,0.5,4.44,Cashew,Organic Mix
+Laterite,14.66,8.6,94.89,0.23,4.52,Rubber,Organic Compost
+Alluvial,85.12,33.75,164.38,0.68,6.76,Wheat,Urea + DAP
+Red,37.95,16.96,129.03,0.45,5.67,Millets,SSP + Urea
+Red,51.69,17.44,161.5,0.84,5.58,Groundnut,Gypsum + SSP
+Alluvial,89.91,30.12,213.47,1.03,7.26,Maize,Urea + DAP
+Alluvial,69.89,22.19,154.1,1.14,7.23,Wheat,NPK 10:26:26
+Red,56.86,16.23,121.28,0.51,6.4,Maize,SSP + Urea
+Alluvial,56.66,25.06,183.27,1.43,6.84,Maize,Urea + MOP
+Alluvial,69.32,33.44,203.93,1.11,6.7,Wheat,Urea + MOP
+Alluvial,60.37,34.89,156.58,1.26,7.54,Rice,NPK 10:26:26
+Laterite,26.41,11.0,114.09,0.65,5.58,Rubber,Organic Mix
+Black,43.69,25.44,319.79,1.08,7.63,Soybean,Potash + Urea
+Laterite,25.73,9.77,117.11,0.72,5.42,Cashew,Organic Compost
+Laterite,15.98,7.66,98.22,0.76,5.51,Cashew,Organic Mix
+Laterite,28.47,12.7,107.41,0.53,5.07,Rubber,Organic Mix
+Black,25.84,17.82,244.55,2.07,8.01,Soybean,Potash + Urea
+Black,43.69,11.08,266.92,1.1,8.37,Soybean,NPK 20:20:0
+Alluvial,61.63,28.6,207.76,0.84,6.6,Rice,NPK 10:26:26
+Laterite,20.36,11.9,130.09,0.51,4.92,Tea,Organic Compost
+Alluvial,77.36,26.3,162.14,0.92,7.37,Maize,Urea + DAP
+Alluvial,82.53,34.41,159.77,0.83,6.74,Wheat,NPK 10:26:26
+Red,43.53,17.6,120.58,0.78,5.92,Maize,SSP + Urea
+Red,46.56,17.89,156.27,0.71,6.41,Maize,SSP + Urea
+Alluvial,64.86,34.67,196.6,0.96,6.93,Wheat,Urea + MOP
+Laterite,33.81,7.83,103.83,0.58,5.47,Tea,Organic Compost
+Alluvial,68.12,34.95,192.69,1.41,7.44,Rice,NPK 10:26:26
+Laterite,16.31,5.54,129.57,0.58,5.5,Rubber,Organic Compost
+Laterite,20.37,8.42,84.38,0.45,4.73,Cashew,Organic Mix
+Red,26.32,12.56,163.39,0.82,5.63,Millets,SSP + Urea
+Black,30.73,18.12,278.96,1.74,7.84,Soybean,Potash + Urea
+Red,57.43,16.53,161.05,0.65,5.99,Groundnut,SSP + Urea
+Laterite,17.79,9.14,100.93,0.62,4.62,Cashew,Organic Compost
+Alluvial,70.94,22.56,213.62,1.05,6.52,Maize,NPK 10:26:26
+Laterite,16.35,10.09,94.31,0.69,5.33,Cashew,Organic Mix
+Alluvial,85.89,23.21,161.31,1.22,6.38,Rice,Urea + DAP
+Black,40.47,24.34,307.9,1.11,8.37,Soybean,NPK 20:20:0
+Laterite,18.91,9.49,106.51,0.5,5.13,Tea,Organic Compost
+Laterite,24.48,7.07,115.51,0.53,4.78,Rubber,Organic Compost
+Alluvial,64.69,23.41,179.06,1.31,6.84,Sugarcane,Urea + DAP
+Red,52.06,9.4,158.18,0.91,6.16,Millets,SSP + Urea
+Laterite,8.29,8.02,100.99,0.3,5.66,Tea,Organic Compost
+Black,28.13,21.95,325.5,0.97,8.41,Soybean,NPK 20:20:0
+Black,28.77,18.18,271.93,1.53,7.24,Pulses,NPK 20:20:0
+Red,54.68,14.34,156.13,0.68,6.35,Groundnut,Gypsum + SSP
+Alluvial,77.98,26.28,188.29,0.87,6.9,Sugarcane,Urea + MOP
+Laterite,33.89,11.72,109.25,0.58,4.87,Tea,Organic Mix
+Red,58.43,8.58,139.69,0.86,6.04,Maize,Gypsum + SSP
+Alluvial,61.04,22.39,165.3,1.17,6.97,Wheat,NPK 10:26:26
+Black,24.92,22.88,304.02,1.48,7.83,Cotton,Potash + Urea
+Alluvial,73.9,26.2,173.68,1.09,6.63,Rice,Urea + DAP
+Red,40.0,15.79,130.9,0.78,5.89,Groundnut,SSP + Urea
+Alluvial,80.61,20.52,172.86,1.0,7.29,Wheat,Urea + MOP
+Red,33.9,12.78,120.61,0.51,5.84,Millets,Gypsum + SSP
+Black,31.31,12.42,253.61,1.77,8.35,Cotton,NPK 20:20:0
+Red,54.83,14.46,168.16,0.55,6.32,Millets,Gypsum + SSP
+Black,30.82,16.55,287.5,1.99,7.49,Soybean,Potash + Urea
+Black,26.29,21.01,236.45,1.62,7.95,Soybean,Potash + Urea
+Black,30.18,24.19,270.5,1.6,8.07,Pulses,Potash + Urea
+Black,40.62,20.22,318.18,1.93,7.92,Cotton,Potash + Urea
+Red,59.04,18.03,141.79,0.53,5.8,Groundnut,SSP + Urea
+Red,41.14,13.96,137.52,0.64,5.7,Millets,SSP + Urea
+Laterite,21.96,5.72,111.33,0.64,5.62,Cashew,Organic Mix
+Laterite,11.11,10.09,104.37,0.26,4.96,Cashew,Organic Compost
+Laterite,29.99,5.11,109.53,0.4,4.53,Rubber,Organic Mix
+Red,49.43,6.97,149.07,0.6,5.56,Millets,SSP + Urea
+Red,47.02,15.0,121.99,0.52,6.13,Maize,Gypsum + SSP
+Laterite,22.67,12.1,118.05,0.57,4.67,Rubber,Organic Mix
+Black,26.41,22.65,314.53,1.76,8.33,Pulses,NPK 20:20:0
+Black,22.94,18.76,287.18,2.16,7.77,Soybean,NPK 20:20:0
+Alluvial,68.48,18.67,188.34,1.01,6.73,Wheat,NPK 10:26:26
+Laterite,12.33,5.08,84.0,0.42,4.63,Tea,Organic Mix
+Red,40.1,15.01,164.36,0.89,6.01,Groundnut,SSP + Urea
+Alluvial,78.9,35.17,160.9,0.96,7.2,Wheat,NPK 10:26:26
+Black,27.87,24.57,288.26,1.81,7.29,Cotton,Potash + Urea
+Black,22.45,20.74,311.94,1.0,7.16,Cotton,Potash + Urea
+Laterite,22.08,9.47,104.39,0.48,4.79,Tea,Organic Mix
+Black,25.77,13.51,312.34,1.17,8.42,Pulses,Potash + Urea
+Alluvial,61.24,40.41,202.16,0.9,7.33,Wheat,Urea + MOP
+Black,40.67,21.01,332.5,1.1,8.22,Cotton,Potash + Urea
+Red,47.65,12.09,115.76,0.69,5.73,Maize,SSP + Urea
+Laterite,28.25,7.58,109.38,0.51,5.08,Tea,Organic Compost
+Alluvial,75.31,29.51,163.26,0.88,6.75,Rice,Urea + DAP
+Red,48.31,13.44,169.35,0.8,5.78,Millets,Gypsum + SSP
+Laterite,11.78,9.61,100.29,0.29,5.48,Rubber,Organic Compost
+Alluvial,79.98,25.41,193.3,0.93,6.93,Wheat,Urea + DAP
+Red,29.86,14.34,121.59,0.81,6.31,Millets,Gypsum + SSP
+Alluvial,61.35,33.9,186.64,1.01,6.92,Maize,Urea + MOP
+Black,23.94,24.73,342.95,2.06,8.07,Pulses,Potash + Urea
+Black,25.85,16.56,325.77,2.05,8.3,Pulses,Potash + Urea
+Alluvial,69.31,34.01,190.11,1.15,7.5,Wheat,Urea + MOP
+Black,25.1,12.19,283.8,1.23,7.57,Cotton,Potash + Urea
+Black,40.38,14.34,328.83,1.98,8.02,Pulses,NPK 20:20:0
+Red,23.08,17.79,166.44,0.75,5.86,Groundnut,Gypsum + SSP
+Alluvial,63.6,38.35,217.65,1.2,6.47,Rice,Urea + MOP
+Red,51.33,10.25,118.13,0.79,6.05,Maize,Gypsum + SSP
+Laterite,23.04,11.36,107.19,0.43,4.72,Tea,Organic Compost
+Red,55.87,9.69,152.63,0.78,6.1,Groundnut,Gypsum + SSP
+Red,53.17,10.14,122.21,0.66,5.91,Maize,Gypsum + SSP
+Alluvial,86.76,25.43,171.25,0.8,7.36,Maize,Urea + DAP
+Alluvial,57.68,28.49,211.07,1.29,6.8,Sugarcane,Urea + MOP
+Black,29.02,11.44,266.57,1.22,7.24,Soybean,Potash + Urea
+Alluvial,71.07,21.01,155.13,1.0,7.48,Wheat,Urea + MOP
+Laterite,25.11,10.94,96.51,0.74,4.71,Cashew,Organic Mix
+Red,31.19,8.78,130.8,0.8,5.52,Groundnut,SSP + Urea
+Alluvial,62.58,36.37,161.67,1.39,7.14,Maize,NPK 10:26:26
+Laterite,27.2,8.62,113.47,0.27,5.68,Cashew,Organic Mix
+Laterite,10.02,7.28,106.04,0.41,5.46,Tea,Organic Compost
+Alluvial,66.31,28.87,188.09,1.16,7.44,Sugarcane,NPK 10:26:26
+Laterite,15.24,9.74,126.11,0.48,5.38,Rubber,Organic Mix
+Black,35.99,19.86,288.65,1.71,7.07,Soybean,NPK 20:20:0
+Laterite,12.38,8.26,114.2,0.5,4.8,Rubber,Organic Compost
+Black,37.18,15.65,242.3,1.06,8.28,Soybean,NPK 20:20:0
+Laterite,34.61,10.85,96.53,0.52,4.93,Tea,Organic Mix
+Alluvial,68.43,27.12,191.25,0.96,6.72,Wheat,Urea + MOP
+Red,28.26,13.07,110.17,0.9,5.91,Maize,Gypsum + SSP
+Laterite,23.12,12.14,79.26,0.43,4.84,Tea,Organic Mix
+Red,42.01,17.34,157.78,0.75,5.99,Millets,Gypsum + SSP
+Red,47.33,12.26,167.81,0.5,5.85,Groundnut,SSP + Urea
+Black,35.72,16.76,304.81,1.51,6.81,Cotton,NPK 20:20:0
+Black,25.17,12.76,304.83,1.02,7.89,Cotton,Potash + Urea
+Black,39.29,20.2,287.7,2.25,7.17,Pulses,Potash + Urea
+Laterite,23.1,7.73,106.63,0.45,4.68,Cashew,Organic Compost
+Alluvial,84.57,24.38,149.21,0.91,7.58,Maize,Urea + MOP
+Black,39.84,19.47,322.13,1.63,7.91,Cotton,NPK 20:20:0
+Alluvial,89.35,28.74,173.99,0.84,7.11,Sugarcane,NPK 10:26:26
+Alluvial,84.25,34.0,201.33,0.92,7.39,Wheat,NPK 10:26:26
+Laterite,33.85,5.16,106.24,0.39,5.24,Tea,Organic Compost
+Laterite,20.8,11.61,96.9,0.31,5.04,Rubber,Organic Compost
+Red,30.69,11.45,158.75,0.55,5.59,Groundnut,SSP + Urea
+Alluvial,72.66,30.59,204.05,1.2,7.23,Rice,NPK 10:26:26
+Laterite,16.17,5.2,85.94,0.5,5.24,Cashew,Organic Compost
+Alluvial,91.41,21.45,207.92,0.98,6.72,Sugarcane,Urea + DAP
+Black,38.53,21.07,260.12,2.05,8.04,Cotton,NPK 20:20:0
+Alluvial,75.01,33.77,194.69,1.36,6.75,Wheat,NPK 10:26:26
+Black,38.52,20.8,287.75,1.17,8.05,Soybean,NPK 20:20:0
+Red,44.98,8.93,172.53,0.85,5.99,Millets,Gypsum + SSP
+Laterite,18.26,6.93,81.97,0.42,5.45,Rubber,Organic Mix
+Black,33.19,11.14,327.4,2.1,8.15,Pulses,NPK 20:20:0
+Laterite,27.83,9.83,110.88,0.67,5.71,Tea,Organic Compost
+Laterite,9.19,7.36,94.69,0.4,5.59,Rubber,Organic Mix
+Alluvial,87.37,37.57,187.78,1.18,6.69,Rice,Urea + MOP
+Alluvial,62.24,23.41,194.95,1.17,6.96,Wheat,Urea + MOP
+Alluvial,73.07,24.25,210.67,1.02,7.4,Sugarcane,Urea + DAP
+Alluvial,89.29,29.42,225.15,1.06,6.62,Sugarcane,Urea + DAP
+Alluvial,64.17,28.91,151.93,0.89,7.34,Maize,Urea + MOP
+Laterite,17.98,8.54,113.51,0.29,5.11,Rubber,Organic Compost
+Red,49.23,15.77,163.06,0.7,6.46,Maize,SSP + Urea
+Laterite,13.93,8.72,120.79,0.39,5.71,Cashew,Organic Mix
+Laterite,33.28,8.5,106.69,0.45,4.92,Cashew,Organic Mix
+Laterite,28.09,10.92,120.55,0.43,4.58,Rubber,Organic Compost
+Black,40.44,26.1,284.56,1.95,8.11,Cotton,NPK 20:20:0
+Red,51.39,11.15,147.7,0.72,6.13,Groundnut,Gypsum + SSP
+Black,38.12,13.77,302.73,1.05,7.67,Soybean,NPK 20:20:0
+Alluvial,74.12,31.1,167.66,0.89,7.28,Maize,Urea + MOP
+Alluvial,75.39,37.16,186.48,1.29,7.36,Maize,Urea + DAP
+Alluvial,71.75,37.2,179.79,0.74,6.59,Maize,Urea + MOP
+Alluvial,59.65,38.23,161.12,1.02,7.36,Rice,Urea + MOP
+Black,24.83,18.33,294.38,1.91,7.52,Pulses,Potash + Urea
+Black,36.49,14.47,261.12,1.63,7.8,Cotton,NPK 20:20:0
+Red,34.63,13.28,125.31,0.59,6.25,Groundnut,SSP + Urea
+Alluvial,77.64,31.35,193.44,0.8,7.38,Maize,Urea + MOP
+Alluvial,85.22,35.71,191.93,1.05,6.73,Maize,Urea + MOP
+Black,28.15,24.28,274.43,1.51,7.56,Cotton,Potash + Urea
+Alluvial,59.24,26.39,184.21,1.44,6.51,Rice,Urea + MOP
+Laterite,15.27,10.5,112.54,0.7,4.66,Cashew,Organic Compost
+Laterite,30.34,6.73,80.56,0.6,5.87,Rubber,Organic Compost
+Black,25.85,22.61,326.69,2.01,7.15,Cotton,Potash + Urea
+Black,22.45,21.09,304.07,1.13,7.46,Pulses,NPK 20:20:0
+Red,51.94,12.8,102.86,0.4,6.17,Maize,Gypsum + SSP
+Black,36.14,15.68,277.18,1.98,7.9,Soybean,Potash + Urea
+Red,44.31,12.79,154.48,0.58,5.56,Maize,SSP + Urea
+Alluvial,55.45,25.42,163.41,0.87,6.59,Maize,Urea + DAP
+Alluvial,72.08,39.69,158.41,1.4,6.81,Maize,NPK 10:26:26
+Black,45.1,15.75,328.25,1.34,8.02,Soybean,NPK 20:20:0
+Black,21.9,12.21,326.27,1.2,7.37,Soybean,NPK 20:20:0
+Alluvial,82.85,35.25,202.32,1.3,7.27,Maize,NPK 10:26:26
+Laterite,23.35,7.6,118.3,0.41,4.57,Tea,Organic Compost
+Black,25.89,15.63,295.55,1.47,8.18,Cotton,NPK 20:20:0
+Red,24.96,12.74,164.55,0.57,6.17,Groundnut,SSP + Urea
+Alluvial,86.84,25.86,163.81,1.26,7.58,Sugarcane,NPK 10:26:26
+Black,37.45,23.3,283.79,1.91,7.19,Cotton,NPK 20:20:0
+Laterite,28.02,8.52,96.3,0.69,5.67,Tea,Organic Compost
+Red,43.76,18.0,122.9,0.52,6.61,Maize,Gypsum + SSP
+Alluvial,75.24,36.05,158.63,1.13,6.87,Rice,Urea + MOP
+Red,46.68,12.24,118.63,0.49,6.23,Groundnut,Gypsum + SSP
+Black,36.16,21.03,302.68,2.17,7.18,Pulses,Potash + Urea
+Black,20.2,15.24,303.8,1.69,8.26,Cotton,NPK 20:20:0
+Laterite,24.05,8.72,93.22,0.31,4.83,Tea,Organic Mix
+Red,44.52,10.78,146.61,0.83,5.44,Maize,SSP + Urea
+Laterite,15.52,11.39,125.17,0.58,5.43,Rubber,Organic Mix
+Alluvial,77.91,31.05,189.6,1.13,7.42,Rice,NPK 10:26:26
+Laterite,14.3,9.22,86.09,0.59,4.96,Cashew,Organic Compost
+Black,36.89,17.88,261.51,2.13,7.59,Cotton,NPK 20:20:0
+Black,28.91,13.33,281.92,1.11,8.21,Cotton,Potash + Urea
+Laterite,25.87,4.65,83.55,0.38,4.78,Cashew,Organic Compost
+Laterite,31.62,9.46,108.02,0.25,5.01,Rubber,Organic Compost
+Laterite,13.62,10.99,94.75,0.49,5.39,Cashew,Organic Compost
+Alluvial,55.09,38.51,176.44,1.03,7.22,Rice,Urea + MOP
+Black,34.7,13.78,328.68,1.39,8.4,Pulses,NPK 20:20:0
+Red,40.45,14.35,161.57,0.73,6.2,Millets,Gypsum + SSP
+Laterite,10.15,7.54,84.78,0.53,5.55,Rubber,Organic Mix
+Red,35.55,11.56,111.71,0.44,5.67,Maize,SSP + Urea
+Laterite,12.75,3.14,113.92,0.69,5.47,Tea,Organic Compost
+Black,23.36,9.73,330.87,1.6,7.93,Cotton,NPK 20:20:0
+Red,44.4,13.23,130.87,0.83,5.79,Groundnut,SSP + Urea
+Alluvial,64.28,27.41,191.03,1.39,7.13,Wheat,NPK 10:26:26
+Laterite,17.33,7.43,93.71,0.59,5.71,Rubber,Organic Compost
+Red,50.94,16.61,142.26,0.8,6.51,Maize,SSP + Urea
+Red,45.84,9.23,151.17,0.42,6.27,Groundnut,Gypsum + SSP
+Laterite,14.18,10.68,115.34,0.58,4.58,Cashew,Organic Compost
+Alluvial,75.28,21.73,182.53,0.91,6.92,Wheat,NPK 10:26:26
+Black,42.77,16.87,292.33,1.43,7.58,Cotton,NPK 20:20:0
+Alluvial,58.79,24.08,202.43,0.99,6.92,Sugarcane,Urea + MOP
+Laterite,28.52,4.97,83.26,0.58,5.57,Rubber,Organic Mix
+Laterite,16.47,7.92,90.53,0.58,4.78,Cashew,Organic Compost
+Black,42.69,13.57,292.66,1.9,7.67,Cotton,NPK 20:20:0
+Red,61.12,8.54,118.96,0.49,6.35,Maize,SSP + Urea
+Red,47.15,10.55,126.29,0.64,6.28,Groundnut,Gypsum + SSP
+Alluvial,59.72,28.13,169.79,0.93,6.98,Wheat,NPK 10:26:26
+Laterite,12.98,8.0,82.43,0.64,4.68,Tea,Organic Compost
+Red,30.48,17.07,165.64,0.53,5.8,Groundnut,Gypsum + SSP
+Laterite,24.08,6.47,121.73,0.34,4.52,Rubber,Organic Mix
+Black,31.64,21.18,309.36,1.29,7.61,Cotton,Potash + Urea
+Laterite,22.48,9.72,127.95,0.39,4.75,Rubber,Organic Mix
+Laterite,29.52,8.37,110.76,0.61,5.58,Cashew,Organic Compost
+Laterite,19.02,5.13,95.48,0.6,5.57,Rubber,Organic Mix
+Alluvial,56.91,25.07,216.55,1.0,6.73,Rice,Urea + MOP
+Alluvial,68.29,39.45,158.89,1.16,7.22,Rice,NPK 10:26:26
+Alluvial,86.81,28.51,186.83,1.03,7.2,Rice,Urea + DAP
+Red,35.96,14.95,134.21,0.73,5.47,Maize,Gypsum + SSP
+Black,42.82,23.88,250.55,2.03,8.43,Cotton,Potash + Urea
+Alluvial,75.58,34.43,204.35,1.11,6.91,Maize,Urea + MOP
+Laterite,13.78,5.72,98.83,0.54,5.17,Tea,Organic Mix
+Alluvial,78.01,32.78,212.76,1.25,7.29,Sugarcane,NPK 10:26:26
+Laterite,26.83,8.32,92.22,0.62,5.49,Tea,Organic Mix
+Alluvial,90.64,32.7,204.1,0.78,7.05,Maize,Urea + MOP
+Laterite,18.82,7.91,118.12,0.58,5.02,Rubber,Organic Compost
+Laterite,10.23,8.66,115.32,0.37,5.16,Tea,Organic Compost
+Red,26.52,12.47,127.92,0.78,5.4,Millets,Gypsum + SSP
+Red,47.35,11.07,114.5,0.45,5.83,Maize,SSP + Urea
+Red,33.83,16.96,143.83,0.54,5.9,Groundnut,Gypsum + SSP
+Laterite,10.32,10.92,91.72,0.39,4.67,Tea,Organic Mix
+Alluvial,86.08,38.79,155.89,1.32,6.35,Wheat,Urea + MOP
+Alluvial,67.97,27.42,164.18,0.99,6.76,Wheat,NPK 10:26:26
+Laterite,15.34,8.62,120.05,0.39,5.28,Tea,Organic Mix
+Alluvial,76.02,29.81,200.59,0.86,6.95,Maize,NPK 10:26:26
+Laterite,31.16,8.29,114.41,0.64,4.96,Cashew,Organic Compost
+Laterite,21.68,10.06,126.61,0.65,5.27,Tea,Organic Mix
+Red,48.09,11.74,160.32,0.83,5.57,Millets,Gypsum + SSP
+Laterite,29.07,8.45,104.31,0.35,4.68,Tea,Organic Compost
+Black,30.21,12.85,309.41,1.45,7.56,Cotton,NPK 20:20:0
+Laterite,24.62,5.8,94.02,0.67,4.51,Rubber,Organic Compost
+Laterite,34.88,6.47,118.19,0.5,5.53,Tea,Organic Mix
+Red,36.32,9.63,145.02,0.52,5.97,Millets,SSP + Urea
+Red,41.93,12.1,146.05,0.55,5.87,Millets,SSP + Urea
+Red,36.77,10.44,137.88,0.47,5.65,Groundnut,Gypsum + SSP
+Alluvial,84.62,31.91,197.39,0.88,6.6,Wheat,Urea + DAP
+Red,52.32,16.0,115.67,0.83,5.74,Groundnut,Gypsum + SSP
+Red,32.32,11.1,126.25,0.71,6.27,Maize,SSP + Urea
+Red,25.35,18.66,161.12,0.56,6.25,Groundnut,SSP + Urea
+Black,27.46,19.03,314.06,1.33,7.74,Cotton,Potash + Urea
+Laterite,12.42,7.11,81.81,0.47,4.72,Tea,Organic Compost
+Alluvial,72.82,34.6,188.13,0.92,6.81,Wheat,Urea + MOP
+Red,35.21,16.76,121.17,0.5,6.37,Maize,SSP + Urea
+Black,40.34,14.02,264.68,1.67,7.46,Pulses,NPK 20:20:0
+Laterite,29.5,9.38,95.41,0.58,5.68,Cashew,Organic Mix
+Laterite,14.57,7.31,124.73,0.35,5.05,Rubber,Organic Mix
+Red,39.65,14.16,158.7,0.5,5.88,Maize,Gypsum + SSP
+Red,52.02,16.0,156.69,0.76,5.8,Maize,SSP + Urea
+Alluvial,87.58,21.75,159.74,1.28,6.57,Wheat,Urea + DAP
+Red,38.07,9.19,144.77,0.59,5.52,Maize,SSP + Urea
+Laterite,32.87,9.28,87.07,0.66,4.86,Tea,Organic Mix
+Alluvial,84.82,37.29,205.71,1.29,6.45,Rice,Urea + DAP
+Laterite,12.19,6.61,89.06,0.44,5.36,Cashew,Organic Compost
+Alluvial,87.25,29.53,208.36,0.76,7.24,Sugarcane,NPK 10:26:26
+Red,52.76,18.87,133.58,0.56,5.85,Groundnut,SSP + Urea
+Alluvial,64.85,37.92,171.13,0.94,6.89,Sugarcane,NPK 10:26:26
+Laterite,19.01,12.24,114.04,0.56,5.57,Cashew,Organic Mix
+Laterite,23.5,8.24,88.39,0.53,5.27,Rubber,Organic Mix
+Red,57.37,10.2,160.33,0.47,5.68,Groundnut,SSP + Urea
+Red,44.43,17.72,166.21,0.65,6.26,Millets,SSP + Urea
+Laterite,16.08,10.73,120.73,0.64,5.62,Rubber,Organic Mix
+Red,40.49,7.45,121.32,0.5,5.72,Millets,Gypsum + SSP
+Red,27.54,17.29,126.28,0.49,6.25,Maize,SSP + Urea
+Red,56.83,19.89,136.39,0.56,5.52,Millets,Gypsum + SSP
+Red,57.12,10.58,156.82,0.47,6.19,Millets,Gypsum + SSP
+Red,28.32,13.45,167.02,0.58,6.42,Maize,SSP + Urea
+Red,46.15,16.09,121.85,0.54,5.78,Maize,Gypsum + SSP
+Alluvial,70.09,23.85,176.24,1.24,7.13,Sugarcane,Urea + MOP
+Alluvial,62.98,31.81,173.64,0.81,7.1,Sugarcane,Urea + MOP
+Black,33.83,9.73,266.34,1.28,7.16,Cotton,NPK 20:20:0
+Black,41.87,23.02,260.17,1.56,8.03,Pulses,NPK 20:20:0
+Red,52.86,10.6,129.84,0.69,5.69,Groundnut,Gypsum + SSP
+Laterite,24.84,4.99,114.11,0.3,5.35,Cashew,Organic Compost
+Black,42.2,17.48,297.38,1.45,7.43,Pulses,NPK 20:20:0
+Alluvial,68.09,36.4,149.49,1.12,7.17,Sugarcane,Urea + MOP
+Alluvial,68.07,33.45,173.78,1.26,7.51,Rice,NPK 10:26:26
+Alluvial,76.27,39.92,182.02,1.16,6.63,Rice,NPK 10:26:26
+Black,44.69,23.98,256.22,2.08,7.29,Soybean,NPK 20:20:0
+Black,31.94,23.04,267.31,1.64,7.61,Pulses,Potash + Urea
+Red,44.59,10.28,145.44,0.55,5.71,Groundnut,Gypsum + SSP
+Laterite,26.75,11.0,84.14,0.58,5.37,Cashew,Organic Compost
+Black,36.02,10.6,245.82,1.29,7.96,Soybean,Potash + Urea
+Black,23.14,25.33,286.69,1.7,8.17,Pulses,NPK 20:20:0
+Alluvial,59.58,31.82,202.89,0.81,7.27,Sugarcane,NPK 10:26:26
+Alluvial,63.41,36.01,187.16,1.06,6.44,Sugarcane,Urea + DAP
+Black,32.17,15.91,334.66,1.43,7.13,Cotton,Potash + Urea
+Black,38.85,22.44,343.61,1.46,7.67,Pulses,Potash + Urea
+Black,24.35,23.35,340.28,1.98,7.95,Pulses,Potash + Urea
+Alluvial,63.77,23.11,221.76,1.04,6.67,Wheat,Urea + MOP
+Black,31.82,12.71,273.85,2.24,7.53,Pulses,NPK 20:20:0
+Alluvial,61.33,42.5,205.72,1.16,7.34,Maize,NPK 10:26:26
+Laterite,17.71,6.81,110.66,0.55,5.22,Tea,Organic Compost
+Laterite,10.23,4.67,80.46,0.48,5.32,Cashew,Organic Compost
+Alluvial,75.48,29.0,200.02,1.24,7.49,Sugarcane,Urea + MOP
+Black,34.17,13.74,277.99,2.09,7.56,Cotton,NPK 20:20:0
+Black,39.76,14.78,314.97,1.05,7.39,Cotton,Potash + Urea
+Black,18.3,12.83,286.89,1.07,8.36,Pulses,NPK 20:20:0
+Laterite,18.11,9.95,109.44,0.44,5.78,Tea,Organic Mix
+Red,33.68,14.22,115.8,0.58,5.89,Maize,Gypsum + SSP
+Black,38.1,16.33,257.89,2.11,8.25,Cotton,NPK 20:20:0
+Laterite,34.37,6.47,109.0,0.35,5.11,Tea,Organic Compost
+Alluvial,66.55,24.71,157.9,1.37,7.24,Sugarcane,NPK 10:26:26
+Black,41.86,14.26,338.48,1.79,7.71,Pulses,Potash + Urea
+Alluvial,63.77,40.58,179.52,1.39,7.17,Maize,NPK 10:26:26
+Black,32.14,20.16,309.89,1.93,7.04,Soybean,NPK 20:20:0
+Laterite,29.65,9.31,108.48,0.72,4.72,Rubber,Organic Compost
+Red,46.19,17.92,128.45,0.73,6.17,Millets,SSP + Urea
+Laterite,25.83,4.73,94.68,0.42,5.36,Tea,Organic Mix
+Red,35.63,14.16,139.52,0.74,5.94,Maize,SSP + Urea
+Laterite,10.97,4.56,116.17,0.21,5.81,Cashew,Organic Compost
+Laterite,19.35,8.42,94.76,0.52,4.78,Rubber,Organic Compost
+Red,28.37,10.6,165.87,0.85,6.08,Millets,Gypsum + SSP
+Alluvial,76.27,28.89,185.14,1.33,7.26,Sugarcane,Urea + DAP
+Alluvial,68.13,30.63,184.38,1.08,7.37,Sugarcane,NPK 10:26:26
+Laterite,24.42,11.64,106.63,0.48,4.87,Tea,Organic Compost
+Alluvial,54.54,23.45,212.43,1.05,7.37,Rice,Urea + DAP
+Red,40.74,11.38,132.47,0.86,6.37,Groundnut,Gypsum + SSP
+Alluvial,76.04,34.66,201.8,1.05,6.6,Maize,NPK 10:26:26
+Alluvial,56.25,38.24,178.59,0.8,6.54,Sugarcane,NPK 10:26:26
+Black,37.24,13.76,256.23,1.29,8.31,Soybean,NPK 20:20:0
+Alluvial,85.75,29.03,214.34,1.06,6.99,Maize,NPK 10:26:26
+Black,28.91,23.27,317.69,2.1,7.8,Cotton,NPK 20:20:0
+Alluvial,88.75,35.95,181.83,1.24,6.29,Sugarcane,Urea + DAP
+Red,53.53,14.29,117.87,0.64,6.27,Millets,SSP + Urea
+Alluvial,70.46,22.63,164.57,1.33,7.21,Sugarcane,NPK 10:26:26
+Alluvial,76.21,21.78,151.51,1.27,6.79,Maize,NPK 10:26:26
+Black,41.97,22.63,310.55,1.15,8.27,Cotton,NPK 20:20:0
+Alluvial,91.04,27.25,217.3,1.32,6.96,Wheat,Urea + DAP
+Laterite,12.74,5.53,110.73,0.46,5.33,Cashew,Organic Mix
+Alluvial,64.36,27.88,209.39,1.11,7.04,Wheat,NPK 10:26:26
+Black,34.76,16.19,264.18,1.71,7.51,Pulses,NPK 20:20:0
+Red,47.19,18.39,158.95,0.81,6.17,Millets,Gypsum + SSP
+Black,43.45,23.71,309.33,1.7,7.3,Soybean,NPK 20:20:0
+Alluvial,67.59,35.25,188.19,0.99,7.23,Maize,Urea + MOP
+Red,54.41,10.57,158.53,0.72,6.18,Maize,SSP + Urea
+Red,39.85,15.15,163.5,0.56,6.01,Groundnut,Gypsum + SSP
+Alluvial,73.09,32.83,164.79,0.83,7.09,Wheat,Urea + DAP
+Alluvial,89.91,34.53,212.73,1.14,7.28,Wheat,Urea + DAP
+Alluvial,71.53,19.71,161.35,0.85,6.86,Rice,Urea + MOP
+Alluvial,83.2,41.65,157.66,1.01,7.5,Wheat,Urea + DAP
+Red,36.56,10.84,158.74,0.73,6.02,Millets,Gypsum + SSP
+Black,45.96,24.74,279.89,1.73,7.84,Pulses,Potash + Urea
+Red,55.41,10.35,156.71,0.62,5.97,Groundnut,Gypsum + SSP
+Laterite,26.61,6.09,99.25,0.34,5.45,Cashew,Organic Mix
+Laterite,14.65,10.09,81.6,0.59,4.81,Rubber,Organic Mix
+Laterite,33.05,11.25,98.91,0.52,5.02,Rubber,Organic Compost
+Red,53.54,15.22,152.15,0.88,6.1,Groundnut,SSP + Urea
+Black,26.68,19.76,257.82,2.2,7.25,Soybean,Potash + Urea
+Laterite,34.7,9.19,105.3,0.47,5.25,Cashew,Organic Mix
+Black,24.82,24.35,258.18,1.48,7.31,Soybean,Potash + Urea
+Black,23.36,19.81,266.32,0.92,7.77,Cotton,Potash + Urea
+Alluvial,55.88,27.57,161.04,1.13,7.02,Sugarcane,Urea + DAP
+Black,26.32,17.82,284.67,1.73,7.03,Soybean,NPK 20:20:0
+Alluvial,54.11,31.45,184.15,1.21,7.18,Rice,Urea + MOP
+Laterite,11.2,10.33,123.32,0.57,4.9,Cashew,Organic Mix
+Black,31.75,10.58,282.97,1.13,7.9,Soybean,Potash + Urea
+Black,35.43,12.19,301.25,2.04,7.65,Pulses,Potash + Urea
+Red,56.39,8.51,135.1,0.52,6.26,Maize,Gypsum + SSP
+Alluvial,90.0,25.96,209.63,0.9,6.66,Rice,Urea + DAP
+Alluvial,72.18,20.27,197.72,1.19,7.18,Sugarcane,Urea + MOP
+Black,40.12,20.35,295.62,2.15,8.41,Cotton,NPK 20:20:0
+Red,52.07,8.52,119.48,0.46,6.17,Maize,Gypsum + SSP
+Laterite,19.69,7.83,125.27,0.35,5.29,Rubber,Organic Mix
+Red,34.8,7.74,163.62,0.61,5.51,Groundnut,Gypsum + SSP
+Red,55.71,11.02,152.95,0.82,6.43,Millets,Gypsum + SSP
+Black,38.52,14.19,334.42,1.46,7.86,Pulses,Potash + Urea
+Laterite,19.22,7.86,107.42,0.56,5.09,Rubber,Organic Compost
+Alluvial,77.78,27.81,211.59,0.77,6.72,Rice,Urea + MOP
+Alluvial,59.54,40.24,167.93,1.36,6.6,Sugarcane,Urea + DAP
+Black,45.76,15.86,313.74,1.69,8.18,Soybean,Potash + Urea
+Laterite,15.63,9.34,107.47,0.58,5.38,Cashew,Organic Compost
+Red,52.83,11.84,138.4,0.67,6.41,Millets,SSP + Urea
+Laterite,33.11,10.51,109.69,0.56,4.43,Rubber,Organic Mix
+Laterite,32.56,8.82,111.72,0.51,4.78,Tea,Organic Compost
+Alluvial,88.39,36.0,209.05,1.22,6.98,Wheat,Urea + DAP
+Black,45.45,26.1,285.21,1.19,7.52,Cotton,Potash + Urea
+Laterite,26.07,10.22,100.0,0.7,4.67,Rubber,Organic Mix
+Red,60.06,16.27,132.83,0.44,5.61,Groundnut,SSP + Urea
+Black,38.09,15.19,250.84,1.52,8.33,Pulses,NPK 20:20:0
+Alluvial,85.92,31.39,192.12,1.37,7.32,Rice,Urea + DAP
+Alluvial,59.49,33.39,155.58,1.35,6.65,Rice,NPK 10:26:26
+Red,40.48,18.68,124.59,0.56,5.55,Millets,SSP + Urea
+Red,58.98,12.23,136.45,0.5,5.76,Maize,SSP + Urea
+Black,18.69,19.02,275.31,2.09,8.17,Cotton,Potash + Urea
+Laterite,18.04,8.22,106.38,0.35,5.74,Tea,Organic Mix
+Laterite,14.45,6.24,127.66,0.33,5.18,Rubber,Organic Compost
+Black,31.6,22.29,311.89,1.98,7.76,Pulses,Potash + Urea
+Black,37.6,21.75,297.76,1.18,8.14,Cotton,NPK 20:20:0
+Black,23.45,13.07,277.96,1.84,7.38,Pulses,NPK 20:20:0
+Laterite,17.83,7.33,78.56,0.6,5.3,Rubber,Organic Mix
+Red,49.78,11.12,137.28,0.39,5.75,Groundnut,Gypsum + SSP
+Black,38.44,16.02,287.58,1.38,7.46,Soybean,Potash + Urea
+Alluvial,76.09,35.67,179.32,1.23,7.24,Sugarcane,Urea + DAP
+Black,44.07,11.12,260.81,1.8,7.5,Cotton,Potash + Urea
+Red,37.27,9.66,130.31,0.44,5.77,Groundnut,Gypsum + SSP
+Laterite,11.84,10.73,91.58,0.44,5.34,Cashew,Organic Mix
+Alluvial,70.42,24.28,205.36,1.2,7.34,Sugarcane,NPK 10:26:26
+Black,45.15,12.49,296.21,1.14,8.35,Cotton,NPK 20:20:0
+Black,22.41,15.32,260.64,1.77,8.23,Soybean,NPK 20:20:0
+Black,21.94,22.64,331.75,1.92,7.21,Cotton,Potash + Urea
+Black,34.39,11.53,299.58,1.59,8.58,Soybean,NPK 20:20:0
+Alluvial,71.47,27.08,189.58,0.89,6.89,Maize,Urea + DAP
+Black,22.8,16.41,289.17,1.78,8.28,Soybean,Potash + Urea
+Red,28.89,18.46,150.52,0.43,6.26,Maize,Gypsum + SSP
+Laterite,25.69,10.91,128.8,0.46,4.73,Cashew,Organic Mix
+Red,28.91,8.58,154.98,0.57,6.19,Millets,SSP + Urea
+Laterite,28.1,12.09,112.11,0.61,5.51,Rubber,Organic Mix
+Red,35.49,7.77,138.84,0.53,5.86,Millets,Gypsum + SSP
+Black,27.93,16.97,296.86,1.5,7.59,Pulses,NPK 20:20:0
+Red,28.13,12.9,170.9,0.52,5.7,Maize,Gypsum + SSP
+Black,22.69,18.63,288.84,1.15,7.91,Soybean,NPK 20:20:0
+Alluvial,72.8,25.55,157.73,1.21,6.54,Rice,Urea + DAP
+Red,40.2,15.27,115.71,0.65,5.31,Maize,SSP + Urea
+Red,45.08,12.83,159.37,0.67,6.35,Maize,Gypsum + SSP
+Laterite,20.58,5.45,107.8,0.3,5.46,Tea,Organic Mix
+Red,25.99,8.2,153.72,0.5,6.47,Groundnut,SSP + Urea
+Laterite,32.46,5.68,125.23,0.53,5.53,Cashew,Organic Mix
+Black,34.94,22.09,315.55,1.03,8.46,Cotton,NPK 20:20:0
+Red,39.0,10.22,152.0,0.6,5.42,Groundnut,SSP + Urea
+Laterite,27.34,5.71,78.11,0.35,4.78,Cashew,Organic Mix
+Alluvial,67.77,21.62,201.67,1.47,7.36,Wheat,Urea + DAP
+Alluvial,83.2,31.77,188.9,0.83,7.03,Sugarcane,Urea + MOP
+Red,57.81,11.46,172.21,0.61,5.61,Maize,Gypsum + SSP
+Alluvial,58.47,30.18,185.07,0.91,7.14,Maize,NPK 10:26:26
+Laterite,35.87,6.52,81.49,0.36,4.98,Rubber,Organic Compost
+Black,24.76,15.8,265.89,1.48,7.12,Cotton,NPK 20:20:0
+Alluvial,69.76,29.56,171.68,1.02,7.38,Sugarcane,NPK 10:26:26
+Black,30.05,21.41,288.37,1.43,7.22,Pulses,NPK 20:20:0
+Black,41.7,11.56,294.42,1.72,8.39,Cotton,NPK 20:20:0
+Alluvial,60.24,22.25,217.0,1.21,7.17,Maize,NPK 10:26:26
+Black,24.13,12.12,246.41,1.55,7.82,Cotton,Potash + Urea
+Laterite,30.0,5.49,118.8,0.73,4.33,Cashew,Organic Mix
+Red,27.36,8.01,143.5,0.58,6.47,Millets,SSP + Urea
+Laterite,23.77,5.17,115.2,0.33,5.21,Rubber,Organic Mix
+Laterite,13.08,9.27,105.79,0.25,5.4,Cashew,Organic Compost
+Black,39.59,10.74,306.4,1.73,8.18,Cotton,Potash + Urea
+Alluvial,56.91,40.72,188.27,1.28,6.43,Wheat,NPK 10:26:26
+Laterite,16.85,4.58,106.67,0.69,5.52,Tea,Organic Compost
+Alluvial,80.81,31.9,190.38,0.98,6.46,Maize,Urea + DAP
+Laterite,36.38,8.07,128.19,0.37,5.73,Tea,Organic Mix
+Black,23.19,15.63,282.45,1.68,7.63,Pulses,NPK 20:20:0
+Black,21.21,24.02,255.09,1.56,7.53,Soybean,Potash + Urea
+Black,30.8,12.03,295.54,1.24,8.13,Pulses,NPK 20:20:0
+Red,32.72,14.08,156.32,0.42,5.88,Millets,Gypsum + SSP
+Black,20.62,14.02,300.58,1.94,7.17,Soybean,NPK 20:20:0
+Alluvial,78.62,35.45,189.42,0.93,6.6,Sugarcane,Urea + MOP
+Red,32.69,10.5,118.6,0.52,6.07,Maize,Gypsum + SSP
+Red,38.75,17.56,166.96,0.69,6.3,Groundnut,SSP + Urea
+Black,37.02,11.9,334.27,1.1,7.28,Pulses,NPK 20:20:0
+Black,32.4,22.98,260.57,1.45,8.35,Soybean,Potash + Urea
+Laterite,35.09,11.06,121.07,0.46,4.69,Tea,Organic Compost
+Black,39.08,22.19,253.38,2.09,7.77,Soybean,NPK 20:20:0
+Red,57.5,17.12,164.0,0.91,6.24,Millets,SSP + Urea
+Black,32.47,15.41,250.8,2.11,8.54,Soybean,Potash + Urea
+Alluvial,61.12,38.35,177.05,1.33,6.95,Maize,Urea + DAP
+Black,26.12,20.56,262.4,1.7,8.47,Pulses,NPK 20:20:0
+Alluvial,53.19,20.71,217.63,1.25,6.73,Maize,Urea + DAP
+Laterite,22.01,4.63,94.98,0.42,4.84,Rubber,Organic Mix
+Black,36.32,21.65,243.44,1.9,7.1,Soybean,NPK 20:20:0
+Black,17.98,25.4,293.99,1.16,7.36,Pulses,Potash + Urea
+Laterite,19.89,8.0,130.31,0.46,4.97,Cashew,Organic Compost
+Laterite,12.67,4.49,80.71,0.67,5.4,Rubber,Organic Compost
+Alluvial,60.91,27.51,170.13,1.19,7.27,Sugarcane,NPK 10:26:26
+Alluvial,78.55,27.49,147.76,0.96,7.11,Wheat,Urea + MOP
+Laterite,16.18,7.16,109.3,0.76,4.61,Cashew,Organic Compost
+Alluvial,87.66,27.16,178.77,0.95,7.42,Maize,Urea + MOP
+Red,44.14,13.15,156.97,0.51,5.31,Millets,Gypsum + SSP
+Black,25.24,17.95,260.92,1.11,8.53,Soybean,Potash + Urea
+Alluvial,64.88,39.53,159.68,1.32,7.18,Wheat,Urea + MOP
+Laterite,34.06,6.23,104.51,0.68,4.65,Tea,Organic Mix
+Black,32.95,8.83,268.5,1.44,7.87,Pulses,NPK 20:20:0
+Black,39.11,15.56,295.12,1.58,7.69,Cotton,NPK 20:20:0
+Laterite,17.71,7.81,121.8,0.32,5.02,Cashew,Organic Mix
+Red,57.73,12.66,107.24,0.48,5.86,Groundnut,Gypsum + SSP
+Alluvial,88.4,32.33,184.87,0.85,7.28,Sugarcane,Urea + MOP
+Black,46.75,24.02,256.0,1.49,7.35,Soybean,NPK 20:20:0
+Alluvial,69.73,37.85,150.66,1.28,6.83,Sugarcane,Urea + MOP
+Laterite,21.5,9.72,102.74,0.5,5.22,Rubber,Organic Mix
+Alluvial,71.21,32.89,199.08,1.1,6.9,Rice,Urea + DAP
+Laterite,21.64,7.23,106.65,0.55,5.34,Tea,Organic Mix
+Red,30.2,14.95,137.24,0.63,5.73,Groundnut,Gypsum + SSP
+Black,43.46,14.97,287.38,1.59,7.32,Cotton,NPK 20:20:0
+Red,56.06,15.78,168.25,0.7,6.35,Groundnut,Gypsum + SSP
+Laterite,10.75,12.69,122.13,0.33,5.3,Cashew,Organic Mix
+Black,29.51,24.43,250.09,1.21,7.38,Soybean,NPK 20:20:0
+Black,37.31,15.99,252.93,1.35,8.1,Cotton,Potash + Urea
+Alluvial,58.0,33.91,203.99,1.38,6.61,Rice,NPK 10:26:26
+Red,22.33,9.99,105.5,0.37,6.38,Groundnut,SSP + Urea
+Red,50.85,13.48,126.92,0.46,6.11,Groundnut,Gypsum + SSP
+Laterite,21.27,9.87,119.93,0.53,4.58,Rubber,Organic Mix
+Laterite,18.5,8.25,125.0,0.31,4.78,Rubber,Organic Mix
+Red,27.94,10.32,152.06,0.93,6.44,Maize,SSP + Urea
+Laterite,34.69,11.23,125.92,0.47,4.75,Tea,Organic Compost
+Alluvial,79.98,33.07,190.32,1.14,7.37,Maize,Urea + DAP
+Black,32.97,16.63,301.73,1.57,7.47,Soybean,NPK 20:20:0
+Alluvial,65.52,34.1,192.39,0.87,6.43,Maize,Urea + DAP
+Alluvial,83.74,23.58,153.77,1.26,7.06,Sugarcane,Urea + MOP
+Red,38.28,8.02,175.49,0.45,6.07,Millets,Gypsum + SSP
+Red,55.34,13.35,156.92,0.7,5.63,Maize,SSP + Urea
+Black,23.96,19.04,288.74,2.22,7.44,Soybean,Potash + Urea
+Red,34.55,13.95,132.16,0.46,6.42,Groundnut,SSP + Urea
+Alluvial,86.88,30.98,159.47,0.87,6.69,Maize,Urea + DAP
+Red,44.11,7.26,124.39,0.68,5.49,Millets,Gypsum + SSP
+Red,55.22,16.25,155.7,0.73,6.39,Maize,Gypsum + SSP
+Alluvial,57.24,26.09,177.64,1.18,7.27,Rice,NPK 10:26:26
+Black,34.61,22.37,277.3,1.05,7.97,Cotton,NPK 20:20:0
+Black,38.65,8.84,322.65,1.08,7.92,Cotton,Potash + Urea
+Alluvial,84.42,26.27,192.02,1.17,6.9,Sugarcane,Urea + MOP
+Alluvial,83.93,22.36,150.7,1.09,6.55,Sugarcane,Urea + MOP
+Alluvial,58.88,21.87,173.3,0.87,7.27,Maize,Urea + MOP
+Laterite,25.63,11.37,85.41,0.52,4.93,Rubber,Organic Mix
+Laterite,13.66,5.67,89.3,0.37,5.14,Cashew,Organic Mix
+Red,44.45,11.41,121.62,0.58,5.61,Millets,SSP + Urea
+Laterite,10.28,11.17,98.34,0.68,4.94,Cashew,Organic Mix
+Black,38.79,23.86,321.43,1.63,7.99,Cotton,Potash + Urea
+Red,50.75,14.78,116.45,0.44,5.45,Groundnut,SSP + Urea
+Laterite,19.64,7.21,95.58,0.59,5.5,Rubber,Organic Mix
+Laterite,25.17,8.53,84.27,0.64,5.14,Rubber,Organic Compost
+Black,29.09,13.38,269.71,1.92,7.32,Cotton,NPK 20:20:0
+Laterite,27.95,8.23,85.94,0.46,4.75,Cashew,Organic Mix
+Laterite,21.18,12.19,85.71,0.4,5.72,Tea,Organic Compost
+Black,45.73,22.34,258.02,1.66,7.15,Pulses,NPK 20:20:0
+Red,29.94,16.91,122.44,0.8,6.2,Groundnut,SSP + Urea
+Alluvial,86.71,39.47,214.19,0.88,7.19,Rice,Urea + DAP
+Alluvial,88.47,21.86,149.45,1.25,7.34,Rice,Urea + MOP
+Red,47.67,15.17,151.68,0.85,5.84,Groundnut,SSP + Urea
+Black,28.42,19.71,317.61,1.46,8.18,Pulses,NPK 20:20:0
+Red,53.24,12.59,150.26,0.45,5.6,Maize,SSP + Urea
+Alluvial,75.65,32.43,203.82,1.06,6.76,Wheat,Urea + MOP
+Laterite,34.85,5.0,125.14,0.43,5.71,Cashew,Organic Compost
+Black,26.17,13.94,320.99,1.82,7.19,Pulses,NPK 20:20:0
+Laterite,13.84,9.02,111.01,0.33,5.25,Rubber,Organic Compost
+Alluvial,64.9,29.09,173.23,1.13,7.04,Wheat,NPK 10:26:26
+Red,49.91,13.13,149.17,0.82,5.62,Maize,Gypsum + SSP
+Laterite,17.54,9.12,100.17,0.61,5.35,Rubber,Organic Compost
+Black,41.07,17.05,314.68,1.73,7.52,Soybean,NPK 20:20:0
+Black,41.9,10.94,274.4,2.1,8.31,Soybean,NPK 20:20:0
+Alluvial,73.12,40.25,159.36,1.04,6.53,Maize,Urea + DAP
+Laterite,28.15,11.12,115.02,0.41,5.7,Cashew,Organic Mix
+Alluvial,56.73,20.39,198.95,1.1,7.1,Sugarcane,Urea + MOP
+Alluvial,59.55,23.23,199.32,1.31,6.63,Sugarcane,Urea + MOP
+Alluvial,60.34,35.74,183.73,1.3,7.27,Sugarcane,Urea + DAP
+Red,35.8,8.07,115.59,0.76,5.45,Millets,Gypsum + SSP
+Laterite,32.99,5.55,86.91,0.42,5.1,Cashew,Organic Mix
+Alluvial,86.85,19.55,179.88,1.32,6.82,Rice,Urea + DAP
+Red,52.63,10.91,157.0,0.66,6.27,Maize,SSP + Urea
+Red,57.22,11.85,165.87,0.87,5.99,Groundnut,Gypsum + SSP
+Black,31.56,13.42,307.96,2.06,7.9,Soybean,Potash + Urea
+Black,43.61,17.56,286.21,1.42,8.37,Pulses,NPK 20:20:0
+Red,47.46,17.04,137.61,0.6,5.71,Maize,SSP + Urea
+Black,31.02,11.11,271.36,1.11,7.47,Pulses,Potash + Urea
+Black,32.23,24.97,248.78,1.95,8.3,Soybean,NPK 20:20:0
+Red,31.32,16.31,147.26,0.33,5.61,Groundnut,SSP + Urea
+Red,29.46,11.75,166.55,0.87,5.9,Groundnut,Gypsum + SSP
+Alluvial,84.34,36.59,156.47,0.92,7.21,Rice,Urea + DAP
+Laterite,32.55,10.52,106.02,0.35,4.83,Tea,Organic Mix
+Black,29.85,19.89,315.77,1.38,8.06,Cotton,Potash + Urea
+Alluvial,85.27,32.42,221.57,0.97,6.86,Rice,Urea + DAP
+Alluvial,65.98,39.81,166.57,0.92,6.9,Sugarcane,Urea + MOP
+Black,36.97,14.53,307.21,2.11,7.68,Soybean,NPK 20:20:0
+Black,42.91,15.0,249.09,1.03,8.34,Cotton,NPK 20:20:0
+Laterite,26.6,12.11,81.13,0.51,4.79,Rubber,Organic Mix
+Laterite,13.4,6.69,84.78,0.74,5.28,Cashew,Organic Mix
+Laterite,23.49,10.04,110.59,0.42,4.94,Cashew,Organic Mix
+Laterite,25.09,9.99,83.8,0.44,5.75,Rubber,Organic Mix
+Red,51.78,10.26,114.71,0.59,5.8,Maize,Gypsum + SSP
+Laterite,29.87,9.83,96.26,0.43,5.18,Rubber,Organic Compost
+Black,19.66,18.35,279.4,1.83,7.51,Cotton,NPK 20:20:0
+Alluvial,78.28,20.1,162.64,1.3,6.73,Rice,NPK 10:26:26
+Black,29.39,14.34,322.59,1.63,7.17,Pulses,NPK 20:20:0
+Black,45.09,21.73,307.58,1.16,8.39,Pulses,Potash + Urea
+Red,52.82,12.66,167.44,0.7,6.2,Groundnut,SSP + Urea
+Red,45.67,12.23,122.93,0.44,6.08,Millets,Gypsum + SSP
+Alluvial,84.83,27.11,212.65,1.2,7.17,Sugarcane,Urea + MOP
+Laterite,33.21,7.01,85.6,0.53,5.41,Tea,Organic Compost
+Laterite,32.8,11.47,108.15,0.32,5.84,Tea,Organic Mix
+Laterite,25.96,10.07,114.84,0.47,4.86,Tea,Organic Compost
+Red,49.51,17.16,117.24,0.41,6.49,Groundnut,Gypsum + SSP
+Red,55.26,13.36,164.36,0.56,5.6,Maize,Gypsum + SSP
+Black,19.98,10.01,264.36,1.34,7.51,Pulses,Potash + Urea
+Laterite,16.23,6.31,118.42,0.73,5.14,Tea,Organic Mix
+Black,38.1,18.46,330.48,1.61,7.31,Pulses,NPK 20:20:0
+Red,59.93,14.38,141.9,0.51,5.94,Millets,SSP + Urea
+Black,42.13,9.93,289.8,1.57,7.73,Pulses,Potash + Urea
+Alluvial,88.07,36.63,187.91,0.91,7.38,Maize,Urea + DAP
+Black,30.25,12.45,281.24,1.97,7.31,Pulses,NPK 20:20:0
+Laterite,11.96,7.27,97.36,0.3,5.47,Rubber,Organic Mix
+Black,30.62,10.16,292.11,1.11,8.37,Soybean,Potash + Urea
+Black,21.67,12.98,295.69,1.44,8.12,Cotton,NPK 20:20:0
+Laterite,21.98,10.0,88.72,0.42,4.64,Rubber,Organic Compost
+Red,41.57,18.41,132.26,0.56,5.53,Maize,Gypsum + SSP
+Alluvial,76.71,21.33,204.77,0.83,7.16,Rice,Urea + MOP
+Black,41.94,13.17,319.66,1.96,8.29,Soybean,NPK 20:20:0
+Alluvial,85.55,22.6,172.31,1.27,6.82,Maize,NPK 10:26:26
+Red,54.99,15.19,117.97,0.44,5.77,Millets,Gypsum + SSP
+Red,54.26,12.31,115.26,0.77,6.0,Millets,Gypsum + SSP
+Red,46.29,16.13,169.9,0.8,5.7,Maize,Gypsum + SSP
+Alluvial,78.15,20.34,174.73,0.86,7.33,Wheat,NPK 10:26:26
+Alluvial,59.42,28.93,169.83,0.98,6.55,Wheat,NPK 10:26:26
+Alluvial,64.59,30.32,202.24,1.26,6.86,Maize,Urea + DAP
+Red,51.45,8.59,118.61,0.57,5.86,Millets,Gypsum + SSP
+Alluvial,58.12,22.17,220.43,1.24,7.54,Wheat,NPK 10:26:26
+Red,51.64,11.61,118.48,0.89,6.15,Groundnut,SSP + Urea
+Black,25.97,24.09,244.2,1.26,7.11,Pulses,NPK 20:20:0
+Black,29.51,11.57,332.52,2.26,7.9,Pulses,Potash + Urea
+Red,30.78,15.97,165.18,0.89,6.17,Groundnut,SSP + Urea
+Alluvial,65.72,26.91,208.59,1.1,6.59,Rice,Urea + DAP
+Laterite,36.35,4.98,117.44,0.33,4.97,Cashew,Organic Mix
+Black,28.49,24.45,326.16,2.01,7.44,Pulses,Potash + Urea
+Laterite,25.19,9.62,123.98,0.43,4.85,Tea,Organic Mix
+Alluvial,57.61,23.38,172.42,1.05,6.98,Rice,Urea + MOP
+Alluvial,69.28,38.02,175.15,1.42,7.18,Wheat,NPK 10:26:26
+Alluvial,61.81,26.88,150.03,1.09,7.27,Sugarcane,Urea + DAP
+Black,36.72,14.72,321.9,1.63,8.47,Soybean,Potash + Urea
+Black,23.85,19.5,261.38,1.93,7.46,Cotton,Potash + Urea
+Laterite,23.86,9.7,110.02,0.52,5.79,Cashew,Organic Compost
+Red,50.85,13.83,159.84,0.42,6.14,Maize,SSP + Urea
+Laterite,14.45,11.28,112.09,0.71,5.46,Tea,Organic Compost
+Black,23.97,13.42,275.18,1.1,7.21,Pulses,Potash + Urea
+Laterite,14.15,10.9,91.11,0.75,5.46,Cashew,Organic Compost
+Alluvial,83.59,39.31,200.48,0.75,6.49,Maize,Urea + MOP
+Alluvial,73.94,35.95,181.68,1.35,6.44,Maize,NPK 10:26:26
+Alluvial,65.07,36.91,222.78,1.19,7.23,Wheat,Urea + MOP
+Alluvial,87.48,21.53,157.39,1.2,7.27,Wheat,NPK 10:26:26
+Alluvial,68.75,21.13,184.47,0.84,7.01,Rice,NPK 10:26:26
+Red,52.9,14.7,160.2,0.8,5.65,Maize,Gypsum + SSP
+Alluvial,71.45,28.4,184.74,1.05,6.65,Rice,Urea + MOP
+Black,26.68,18.37,326.89,1.87,7.17,Soybean,Potash + Urea
+Red,37.78,9.24,162.87,0.77,5.75,Maize,SSP + Urea
+Laterite,24.29,6.3,112.14,0.53,4.55,Cashew,Organic Compost
+Laterite,33.51,9.13,120.85,0.42,4.86,Tea,Organic Compost
+Red,51.54,10.65,138.76,0.53,6.4,Groundnut,Gypsum + SSP
+Red,34.37,7.51,126.87,0.58,6.03,Maize,SSP + Urea
+Black,34.28,13.27,315.01,0.94,7.14,Cotton,NPK 20:20:0
+Black,41.08,11.42,269.34,1.03,8.26,Cotton,Potash + Urea
+Alluvial,66.61,26.22,207.97,1.45,6.8,Wheat,Urea + DAP
+Alluvial,61.06,22.76,187.41,0.95,7.13,Wheat,Urea + MOP
+Laterite,11.44,10.95,97.04,0.56,4.83,Cashew,Organic Compost
+Laterite,25.91,10.17,89.15,0.6,5.66,Cashew,Organic Mix
+Red,56.01,14.98,133.96,0.72,6.22,Millets,SSP + Urea
+Red,53.2,12.17,142.01,0.75,6.38,Groundnut,Gypsum + SSP
+Laterite,28.02,9.33,87.3,0.55,5.06,Tea,Organic Compost
+Red,50.15,17.74,141.09,0.58,5.97,Millets,Gypsum + SSP
+Laterite,20.52,10.41,116.46,0.55,5.17,Cashew,Organic Mix
+Alluvial,83.46,30.61,196.0,1.04,7.43,Sugarcane,Urea + MOP
+Alluvial,82.13,28.89,196.11,1.27,6.71,Sugarcane,NPK 10:26:26
+Black,42.13,26.84,285.0,1.13,7.27,Soybean,Potash + Urea
+Red,50.36,11.87,138.28,0.64,6.0,Millets,SSP + Urea
+Alluvial,87.18,28.78,156.51,1.01,6.88,Rice,NPK 10:26:26
+Black,37.01,9.24,242.43,1.41,7.47,Cotton,NPK 20:20:0
+Red,43.21,9.35,156.3,0.65,6.5,Groundnut,Gypsum + SSP
+Black,21.1,17.81,245.51,2.08,8.41,Pulses,Potash + Urea
+Black,18.03,13.72,261.41,2.0,7.84,Soybean,NPK 20:20:0
+Black,30.07,24.86,293.93,1.5,8.1,Pulses,NPK 20:20:0
+Red,38.43,12.95,145.39,0.65,5.46,Groundnut,SSP + Urea
+Red,45.07,13.23,161.11,0.89,5.76,Maize,SSP + Urea
+Laterite,32.74,9.12,97.68,0.7,5.44,Tea,Organic Compost
+Red,27.97,18.4,137.09,0.73,5.65,Millets,SSP + Urea
+Laterite,23.41,10.33,80.8,0.59,5.15,Cashew,Organic Mix
+Black,25.3,13.63,307.21,1.72,8.46,Soybean,NPK 20:20:0
+Red,40.1,17.12,156.32,0.7,6.33,Groundnut,Gypsum + SSP
+Black,38.35,11.18,266.38,1.63,7.21,Pulses,NPK 20:20:0
+Alluvial,85.78,33.26,199.14,0.91,6.83,Wheat,NPK 10:26:26
+Alluvial,73.11,37.86,167.75,1.22,7.37,Wheat,Urea + DAP
+Alluvial,77.69,31.95,221.89,1.38,6.81,Wheat,Urea + DAP
+Black,30.19,9.73,281.47,2.08,7.21,Cotton,NPK 20:20:0
+Laterite,13.94,7.21,85.25,0.26,5.23,Tea,Organic Mix
+Laterite,12.89,7.65,121.62,0.59,5.72,Tea,Organic Mix
+Alluvial,81.86,21.68,200.3,0.97,6.54,Wheat,Urea + DAP
+Red,37.01,14.37,156.01,0.62,6.05,Millets,Gypsum + SSP
+Black,27.74,23.3,332.54,2.1,7.66,Soybean,NPK 20:20:0
+Laterite,16.48,5.56,126.06,0.68,5.45,Cashew,Organic Compost
+Red,33.39,11.93,155.81,0.52,6.07,Groundnut,SSP + Urea
+Alluvial,83.76,34.07,190.46,1.26,6.64,Wheat,Urea + DAP
+Laterite,19.13,6.57,125.32,0.4,4.61,Rubber,Organic Compost
+Black,39.83,21.44,300.94,2.06,7.32,Soybean,Potash + Urea
+Red,34.83,13.53,117.14,0.44,5.87,Groundnut,SSP + Urea
+Black,44.19,11.37,291.99,1.02,8.25,Soybean,NPK 20:20:0
+Alluvial,53.54,27.3,170.03,1.36,6.93,Maize,Urea + MOP
+Red,38.96,15.13,118.32,0.74,5.52,Groundnut,SSP + Urea
+Black,39.48,17.96,252.58,1.62,7.82,Cotton,Potash + Urea
+Alluvial,84.34,22.59,199.18,1.05,6.69,Sugarcane,Urea + MOP
+Alluvial,79.0,25.82,155.89,1.36,7.23,Wheat,Urea + MOP
+Laterite,15.34,9.2,118.33,0.61,5.0,Cashew,Organic Mix
+Black,25.94,16.38,324.76,1.23,7.79,Soybean,Potash + Urea
+Laterite,19.33,6.37,132.16,0.54,5.75,Tea,Organic Compost
+Black,40.83,19.98,271.7,1.18,8.19,Pulses,NPK 20:20:0
+Alluvial,71.3,20.46,192.95,1.01,6.66,Wheat,NPK 10:26:26
+Red,58.06,15.42,130.36,0.75,6.36,Maize,Gypsum + SSP
+Alluvial,81.91,33.12,202.09,1.04,6.83,Sugarcane,Urea + MOP
+Laterite,12.49,8.71,86.95,0.55,4.84,Rubber,Organic Compost
+Black,39.5,21.21,308.57,1.92,7.06,Pulses,Potash + Urea
+Red,57.18,14.77,155.37,0.63,6.12,Groundnut,SSP + Urea
+Laterite,13.74,9.25,84.45,0.5,5.4,Cashew,Organic Mix
+Laterite,14.32,6.07,84.45,0.35,5.2,Rubber,Organic Compost
+Red,56.25,15.07,166.43,0.7,5.96,Maize,Gypsum + SSP
+Red,28.49,8.17,156.78,0.41,6.01,Groundnut,Gypsum + SSP
+Red,48.06,13.97,110.19,0.79,6.33,Millets,Gypsum + SSP
+Red,31.25,11.86,121.5,0.49,6.16,Maize,Gypsum + SSP
+Red,35.74,15.48,139.68,0.71,6.65,Groundnut,Gypsum + SSP
+Red,26.35,17.51,128.37,0.68,6.32,Millets,Gypsum + SSP
+Black,38.74,19.76,313.42,1.55,7.36,Cotton,Potash + Urea
+Laterite,15.61,5.98,107.63,0.5,4.75,Cashew,Organic Compost
+Red,27.15,9.98,123.02,0.74,5.64,Maize,SSP + Urea
+Laterite,28.24,9.94,110.61,0.36,5.27,Rubber,Organic Mix
+Alluvial,81.04,33.98,232.84,0.79,6.92,Rice,Urea + MOP
+Alluvial,59.81,28.31,211.7,1.24,6.53,Rice,Urea + MOP
+Black,39.8,15.85,241.06,1.65,8.32,Soybean,Potash + Urea
+Laterite,11.02,10.48,102.47,0.31,5.49,Tea,Organic Compost
+Red,42.47,10.21,121.61,0.89,6.23,Groundnut,SSP + Urea
+Black,23.78,19.48,342.61,1.64,7.94,Soybean,NPK 20:20:0
+Red,32.6,8.71,128.88,0.61,5.85,Groundnut,SSP + Urea
+Laterite,16.24,9.18,121.17,0.61,4.86,Rubber,Organic Compost
+Laterite,20.89,5.16,96.91,0.71,5.47,Rubber,Organic Compost
+Red,28.12,13.01,158.09,0.98,5.73,Groundnut,Gypsum + SSP
+Laterite,23.93,6.27,81.76,0.32,4.54,Rubber,Organic Mix
+Laterite,32.31,13.65,97.11,0.32,5.49,Rubber,Organic Compost
+Laterite,28.83,6.6,83.61,0.64,5.77,Rubber,Organic Compost
+Red,25.69,17.11,125.97,0.47,5.88,Maize,SSP + Urea
+Alluvial,58.68,29.31,200.88,1.35,7.03,Maize,Urea + DAP
+Alluvial,70.49,28.5,169.79,1.23,6.5,Maize,Urea + MOP
+Black,39.23,12.13,286.06,1.51,8.04,Soybean,NPK 20:20:0
+Red,59.36,13.59,150.82,0.87,6.0,Groundnut,SSP + Urea
+Alluvial,77.49,30.15,206.24,1.19,7.18,Rice,NPK 10:26:26
+Alluvial,70.58,20.6,167.0,1.19,7.16,Sugarcane,Urea + MOP
+Laterite,17.41,7.88,107.86,0.47,4.7,Rubber,Organic Compost
+Red,44.06,9.15,121.22,0.67,5.56,Millets,Gypsum + SSP
+Alluvial,60.0,31.68,162.58,1.29,7.61,Maize,NPK 10:26:26
+Red,32.35,9.06,157.27,0.61,6.4,Millets,Gypsum + SSP
+Black,44.94,14.37,277.67,1.45,7.09,Soybean,Potash + Urea
+Black,29.0,12.21,255.98,1.04,8.35,Pulses,Potash + Urea
+Red,55.02,14.51,163.27,0.63,5.33,Maize,SSP + Urea
+Red,56.36,18.73,147.5,0.41,6.39,Maize,SSP + Urea
+Black,34.31,15.05,303.18,1.86,7.66,Cotton,Potash + Urea
+Red,40.75,10.38,124.61,0.44,6.01,Groundnut,Gypsum + SSP
+Red,32.73,16.18,128.08,0.84,6.2,Maize,Gypsum + SSP
+Alluvial,75.32,21.99,154.63,1.26,6.55,Rice,Urea + MOP
+Laterite,17.31,7.96,118.61,0.58,5.79,Tea,Organic Compost
+Black,17.84,21.42,323.53,1.14,7.7,Cotton,NPK 20:20:0
+Alluvial,81.62,34.02,201.8,1.14,7.48,Rice,Urea + MOP
+Laterite,37.09,7.8,134.31,0.72,4.67,Rubber,Organic Compost
+Red,42.43,8.51,131.15,0.48,5.57,Maize,Gypsum + SSP
+Black,43.55,23.84,269.51,1.09,7.93,Cotton,Potash + Urea
+Laterite,32.35,5.55,102.86,0.43,5.31,Tea,Organic Mix
+Laterite,23.99,8.69,107.56,0.47,4.98,Cashew,Organic Mix
+Alluvial,64.48,37.16,211.91,1.29,6.96,Wheat,Urea + MOP
+Alluvial,57.71,25.89,166.01,1.05,6.76,Sugarcane,NPK 10:26:26
+Alluvial,62.39,26.24,191.38,0.95,6.91,Sugarcane,Urea + MOP
+Red,37.59,15.02,156.46,0.73,5.8,Groundnut,SSP + Urea
+Red,41.6,8.1,169.68,0.39,6.11,Maize,SSP + Urea
+Black,24.04,24.3,270.62,1.47,7.75,Cotton,Potash + Urea
+Black,36.92,21.14,252.04,1.99,7.16,Soybean,NPK 20:20:0
+Alluvial,64.81,30.65,199.69,1.24,6.78,Maize,Urea + DAP
+Alluvial,86.36,20.39,193.05,0.88,6.64,Maize,Urea + DAP
+Alluvial,57.09,38.31,160.7,1.01,7.49,Rice,Urea + DAP
+Red,56.29,17.51,146.96,0.53,5.47,Millets,SSP + Urea
+Alluvial,77.28,33.1,174.11,1.28,7.41,Sugarcane,Urea + MOP
+Alluvial,80.96,33.33,199.75,1.1,7.62,Maize,Urea + MOP
+Alluvial,60.56,40.38,184.25,1.27,6.73,Sugarcane,Urea + DAP
+Black,35.59,15.74,243.83,1.32,7.97,Pulses,NPK 20:20:0
+Red,54.05,10.17,161.34,0.66,5.79,Millets,Gypsum + SSP
+Alluvial,75.01,28.94,179.52,1.27,6.58,Rice,Urea + MOP
+Red,32.49,17.83,135.79,0.7,6.05,Maize,Gypsum + SSP
+Red,51.72,17.11,130.64,0.4,5.48,Groundnut,Gypsum + SSP
+Black,43.15,18.04,244.84,1.58,7.19,Cotton,NPK 20:20:0
+Laterite,14.96,9.66,78.1,0.64,5.12,Tea,Organic Compost
+Alluvial,83.3,37.67,153.2,1.28,7.21,Maize,Urea + MOP
+Alluvial,62.59,28.63,172.02,1.33,6.98,Wheat,Urea + DAP
+Red,52.57,13.32,122.41,0.81,5.92,Groundnut,SSP + Urea
+Laterite,13.76,8.28,87.86,0.38,5.53,Rubber,Organic Mix
+Red,54.8,11.82,168.48,0.52,5.73,Groundnut,Gypsum + SSP
+Red,31.05,8.42,119.04,0.62,6.39,Maize,Gypsum + SSP
+Alluvial,76.97,23.29,206.8,0.76,7.23,Sugarcane,Urea + MOP
+Alluvial,60.22,35.44,213.54,1.21,6.77,Rice,Urea + MOP
+Red,42.05,13.09,161.94,0.7,6.21,Millets,SSP + Urea
+Red,46.72,17.3,133.37,0.79,5.67,Millets,Gypsum + SSP
+Alluvial,55.71,36.22,218.98,0.93,7.48,Sugarcane,NPK 10:26:26
+Red,34.2,16.78,165.55,0.65,5.8,Groundnut,Gypsum + SSP
+Laterite,13.91,10.01,112.15,0.42,5.04,Tea,Organic Compost
+Black,23.74,9.86,333.12,1.37,8.14,Pulses,NPK 20:20:0
+Black,36.73,12.78,288.01,1.73,7.18,Pulses,Potash + Urea
+Black,38.22,23.62,287.73,1.46,7.93,Cotton,NPK 20:20:0
+Red,43.19,7.65,145.78,0.65,5.95,Millets,SSP + Urea
+Alluvial,78.41,27.88,221.2,1.25,6.86,Rice,Urea + MOP
+Red,43.38,11.29,141.72,0.78,5.81,Maize,SSP + Urea
+Laterite,16.67,10.81,106.76,0.34,5.12,Cashew,Organic Compost
+Red,33.19,18.13,131.96,0.56,5.63,Maize,Gypsum + SSP
+Alluvial,90.07,30.42,199.64,0.94,7.37,Wheat,Urea + MOP
+Laterite,28.34,8.76,90.44,0.54,5.43,Cashew,Organic Compost
+Alluvial,84.55,28.68,180.38,1.2,6.77,Wheat,Urea + DAP
+Alluvial,76.81,38.0,194.11,0.77,6.84,Wheat,Urea + DAP
+Red,57.86,9.09,139.46,0.62,5.88,Maize,SSP + Urea
+Laterite,23.7,12.37,98.86,0.71,5.46,Rubber,Organic Compost
+Black,44.07,23.77,279.7,1.57,7.55,Pulses,Potash + Urea
+Red,29.14,11.68,138.47,0.85,5.53,Maize,SSP + Urea
+Black,39.73,18.96,293.79,2.11,7.32,Cotton,NPK 20:20:0
+Red,27.03,12.09,131.72,0.57,5.51,Millets,Gypsum + SSP
+Laterite,33.2,7.77,80.73,0.47,4.6,Rubber,Organic Mix
+Red,43.27,11.09,106.33,0.7,5.42,Groundnut,SSP + Urea
+Alluvial,83.2,29.73,142.18,1.27,7.43,Rice,NPK 10:26:26
+Laterite,11.74,8.35,103.18,0.43,4.49,Cashew,Organic Mix
+Black,30.5,11.94,316.33,1.15,8.36,Pulses,NPK 20:20:0
+Black,37.61,14.41,332.43,1.26,7.67,Cotton,NPK 20:20:0
+Alluvial,78.97,25.77,218.27,1.08,6.78,Rice,NPK 10:26:26
+Black,21.7,16.74,273.55,1.55,8.08,Soybean,Potash + Urea
+Alluvial,74.9,35.06,176.82,1.34,7.04,Maize,Urea + DAP
+Laterite,23.61,8.84,104.4,0.48,5.15,Tea,Organic Compost
+Black,41.97,14.12,312.34,1.35,7.61,Soybean,Potash + Urea
+Laterite,14.43,7.23,107.08,0.24,5.38,Rubber,Organic Mix
+Laterite,26.14,9.98,127.42,0.71,5.77,Tea,Organic Compost
+Red,48.42,10.44,140.04,0.65,5.62,Groundnut,SSP + Urea
+Red,38.34,7.86,154.1,0.5,5.81,Maize,SSP + Urea
+Black,20.57,12.49,305.99,1.74,7.4,Soybean,NPK 20:20:0
+Laterite,11.52,8.3,104.49,0.29,5.65,Rubber,Organic Compost
+Laterite,17.33,6.23,108.3,0.46,4.43,Tea,Organic Compost
+Alluvial,64.21,28.13,170.11,1.0,6.65,Rice,Urea + MOP
+Alluvial,88.15,30.16,186.58,1.34,6.78,Sugarcane,NPK 10:26:26
+Red,59.98,7.41,141.56,0.83,5.68,Maize,SSP + Urea
+Alluvial,82.23,32.2,188.53,0.9,7.11,Sugarcane,Urea + MOP
+Black,25.89,13.28,271.19,1.64,8.13,Soybean,Potash + Urea
+Red,33.74,14.0,142.68,0.79,6.15,Maize,Gypsum + SSP
+Black,37.52,11.39,336.39,1.63,8.0,Pulses,NPK 20:20:0
+Alluvial,58.95,21.98,170.1,1.01,7.32,Wheat,NPK 10:26:26
+Laterite,20.81,5.33,119.75,0.48,5.4,Rubber,Organic Compost
+Black,42.43,8.84,256.42,1.26,8.14,Soybean,Potash + Urea
+Alluvial,64.61,22.56,191.07,1.02,7.2,Rice,NPK 10:26:26
+Black,35.8,25.69,313.34,1.8,7.19,Cotton,NPK 20:20:0
+Red,38.42,9.67,116.45,0.85,6.44,Groundnut,Gypsum + SSP
+Black,26.95,17.44,261.25,1.09,7.33,Soybean,Potash + Urea
+Laterite,19.63,6.66,82.62,0.3,5.31,Rubber,Organic Mix
+Black,26.82,10.17,279.14,1.33,7.07,Cotton,NPK 20:20:0
+Laterite,20.23,10.18,100.44,0.63,4.86,Rubber,Organic Mix
+Red,23.16,9.74,121.53,0.62,5.61,Groundnut,SSP + Urea
+Red,53.25,10.33,134.13,0.72,6.34,Millets,SSP + Urea
+Red,58.45,18.07,154.45,0.81,5.94,Millets,SSP + Urea
+Laterite,24.76,7.96,97.92,0.32,5.79,Cashew,Organic Mix
+Black,23.92,9.34,239.83,1.59,7.5,Soybean,Potash + Urea
+Black,30.17,22.02,276.07,1.97,7.26,Soybean,Potash + Urea
+Laterite,20.48,11.34,85.27,0.44,5.61,Tea,Organic Compost
+Red,37.56,15.23,124.14,0.71,5.55,Maize,Gypsum + SSP
+Alluvial,81.85,29.29,173.44,1.04,7.11,Sugarcane,NPK 10:26:26
+Black,37.86,17.01,266.41,2.08,7.25,Pulses,NPK 20:20:0
+Alluvial,78.42,35.6,205.98,1.11,7.0,Maize,Urea + DAP
+Black,23.95,20.29,330.04,1.26,8.37,Soybean,NPK 20:20:0
+Alluvial,79.83,22.86,149.38,0.94,6.8,Sugarcane,Urea + DAP
+Alluvial,74.8,34.15,165.03,0.87,7.5,Sugarcane,Urea + DAP
+Alluvial,83.17,32.72,206.25,1.31,6.72,Wheat,Urea + MOP
+Alluvial,74.95,37.68,221.36,0.91,7.6,Rice,Urea + DAP
+Red,37.0,12.77,121.41,0.53,6.14,Millets,SSP + Urea
+Laterite,18.19,11.11,89.92,0.55,4.87,Rubber,Organic Mix
+Black,40.52,24.08,332.27,1.66,8.38,Soybean,Potash + Urea
+Black,32.38,15.1,329.13,1.22,8.4,Soybean,Potash + Urea
+Red,36.42,16.39,119.64,0.88,6.04,Maize,Gypsum + SSP
+Laterite,21.46,8.09,96.93,0.56,4.61,Tea,Organic Compost
+Red,47.06,13.37,138.09,0.77,6.25,Maize,SSP + Urea
+Laterite,16.36,8.03,112.37,0.67,4.83,Cashew,Organic Compost
+Laterite,27.42,7.11,97.07,0.72,4.85,Cashew,Organic Mix
+Red,54.8,6.68,119.51,0.85,5.73,Millets,SSP + Urea
+Laterite,32.63,12.19,123.89,0.62,5.33,Rubber,Organic Mix
+Laterite,26.59,5.93,82.76,0.49,5.13,Rubber,Organic Compost
+Red,40.62,12.99,124.68,0.68,5.45,Groundnut,SSP + Urea
+Black,30.58,25.81,328.63,1.64,8.29,Cotton,NPK 20:20:0
+Alluvial,63.12,24.66,176.5,1.1,6.37,Sugarcane,Urea + DAP
+Red,27.42,14.67,172.03,0.56,6.4,Groundnut,SSP + Urea
+Red,54.52,15.08,137.69,0.56,6.09,Maize,Gypsum + SSP
+Laterite,20.48,8.69,130.28,0.63,5.4,Cashew,Organic Mix
+Red,59.35,14.14,144.65,0.42,6.18,Millets,SSP + Urea
+Black,41.97,20.82,328.77,1.7,7.43,Cotton,NPK 20:20:0
+Alluvial,75.37,26.46,198.33,1.37,7.36,Sugarcane,Urea + MOP
+Black,40.33,20.26,309.47,2.05,7.23,Soybean,Potash + Urea
+Red,44.75,15.97,163.07,0.78,5.75,Maize,Gypsum + SSP
+Black,37.15,18.25,316.04,1.72,7.75,Pulses,NPK 20:20:0
+Alluvial,70.37,32.08,176.98,1.17,6.62,Rice,Urea + MOP
+Laterite,33.32,10.44,102.67,0.64,4.74,Cashew,Organic Mix
+Black,33.48,18.79,257.32,1.43,8.07,Cotton,NPK 20:20:0
+Laterite,22.82,6.49,84.14,0.45,4.85,Rubber,Organic Compost
+Alluvial,83.88,34.32,185.15,1.05,6.88,Rice,Urea + DAP
+Alluvial,87.44,25.21,187.05,0.79,6.68,Sugarcane,NPK 10:26:26
+Red,56.93,12.87,123.24,0.68,5.63,Groundnut,Gypsum + SSP
+Alluvial,81.64,25.56,188.98,1.09,7.46,Sugarcane,Urea + DAP
+Alluvial,71.49,33.88,168.18,0.98,6.41,Rice,Urea + DAP
+Black,25.89,24.71,264.46,1.83,7.21,Cotton,Potash + Urea
+Laterite,19.8,12.07,129.18,0.26,4.91,Tea,Organic Mix
+Alluvial,70.6,24.17,214.63,0.98,7.13,Maize,Urea + DAP
+Black,41.9,14.03,335.01,1.85,8.46,Cotton,Potash + Urea
+Alluvial,71.9,33.2,170.29,1.28,7.33,Rice,NPK 10:26:26
+Alluvial,75.05,28.82,216.38,1.2,7.15,Maize,NPK 10:26:26
+Laterite,23.85,7.84,109.77,0.29,4.54,Cashew,Organic Compost
+Black,30.92,16.01,297.31,1.4,8.31,Cotton,NPK 20:20:0
+Alluvial,83.51,28.86,185.35,1.01,6.61,Wheat,Urea + MOP
+Laterite,18.52,4.02,87.13,0.64,5.17,Cashew,Organic Mix
+Black,32.0,13.52,340.66,1.7,7.49,Soybean,NPK 20:20:0
+Black,20.89,10.91,254.52,1.76,7.52,Soybean,Potash + Urea
+Laterite,27.29,5.76,96.72,0.44,5.18,Tea,Organic Mix
+Alluvial,65.0,33.47,173.7,1.09,7.28,Rice,NPK 10:26:26
+Red,49.55,15.55,131.9,0.79,5.66,Millets,Gypsum + SSP
+Laterite,18.9,10.2,99.61,0.62,5.62,Rubber,Organic Compost
+Laterite,30.89,7.14,92.89,0.58,5.76,Rubber,Organic Mix
+Black,32.15,14.05,267.03,2.03,7.11,Soybean,NPK 20:20:0
+Black,17.88,23.06,341.51,1.83,7.57,Cotton,NPK 20:20:0
+Laterite,11.58,7.68,90.6,0.55,5.42,Rubber,Organic Compost
+Laterite,13.05,6.46,115.31,0.66,5.13,Cashew,Organic Mix
+Black,39.69,20.29,272.63,1.26,7.19,Soybean,Potash + Urea
+Laterite,24.72,9.49,85.55,0.48,5.59,Cashew,Organic Mix
+Red,42.69,13.37,165.03,0.47,6.63,Groundnut,Gypsum + SSP
+Laterite,15.0,5.94,96.99,0.48,4.69,Tea,Organic Compost
+Laterite,20.91,6.13,93.35,0.61,5.86,Tea,Organic Mix
+Laterite,28.27,4.23,86.04,0.6,5.61,Rubber,Organic Mix
+Alluvial,57.32,28.0,204.88,0.81,6.86,Sugarcane,Urea + MOP
+Black,30.71,15.49,261.96,2.07,8.45,Soybean,NPK 20:20:0
+Alluvial,73.14,30.96,152.23,1.3,7.33,Sugarcane,Urea + MOP
+Laterite,23.35,13.54,79.05,0.54,5.45,Tea,Organic Mix
+Alluvial,82.5,22.97,192.93,1.29,6.91,Wheat,Urea + MOP
+Alluvial,57.95,34.74,169.99,1.22,7.07,Wheat,Urea + DAP
+Red,44.6,12.56,157.44,0.59,6.22,Millets,SSP + Urea
+Black,20.05,8.37,292.04,1.74,7.04,Pulses,Potash + Urea
+Alluvial,56.83,28.47,174.85,1.35,7.14,Sugarcane,Urea + MOP
+Laterite,26.77,8.01,127.51,0.41,4.97,Tea,Organic Compost
+Alluvial,77.43,27.25,154.5,1.06,6.95,Rice,Urea + DAP
+Laterite,14.24,6.86,98.07,0.74,5.39,Rubber,Organic Mix
+Laterite,18.35,6.54,80.21,0.61,5.42,Cashew,Organic Mix
+Red,49.67,10.08,149.93,0.59,5.6,Millets,Gypsum + SSP
+Black,16.36,13.24,326.48,1.52,8.55,Cotton,NPK 20:20:0
+Black,31.85,15.4,267.39,1.27,8.08,Pulses,NPK 20:20:0
+Black,27.21,10.14,305.59,1.1,7.99,Cotton,NPK 20:20:0
+Alluvial,86.17,27.17,155.74,0.97,7.32,Sugarcane,NPK 10:26:26
+Black,24.63,22.34,294.89,1.63,7.79,Pulses,NPK 20:20:0
+Black,24.41,12.11,306.84,1.54,7.6,Pulses,Potash + Urea
+Black,35.52,19.01,250.82,1.15,7.88,Soybean,Potash + Urea
+Red,61.14,13.68,162.47,0.83,6.4,Millets,SSP + Urea
+Alluvial,65.6,36.65,159.84,1.28,6.42,Rice,Urea + DAP
+Black,47.56,16.1,294.47,1.72,8.37,Pulses,NPK 20:20:0
+Black,44.16,18.13,287.78,1.31,8.31,Cotton,NPK 20:20:0
+Laterite,20.69,9.27,107.24,0.69,4.8,Tea,Organic Compost
+Black,22.42,17.7,305.44,1.4,6.9,Cotton,Potash + Urea
+Laterite,17.83,7.02,89.64,0.41,4.84,Rubber,Organic Compost
+Laterite,10.64,8.29,88.46,0.59,5.63,Rubber,Organic Mix
+Laterite,9.67,5.29,109.66,0.65,5.45,Rubber,Organic Mix
+Black,25.47,21.05,287.07,1.79,7.7,Soybean,Potash + Urea
+Black,35.93,18.64,326.47,1.94,7.1,Pulses,Potash + Urea
+Black,26.33,22.18,298.04,1.28,8.04,Cotton,Potash + Urea
+Alluvial,58.28,22.7,212.73,0.93,7.4,Sugarcane,Urea + DAP
+Black,40.9,24.96,268.23,1.39,8.31,Soybean,Potash + Urea
+Alluvial,88.22,29.92,156.84,1.15,6.95,Maize,Urea + DAP
+Alluvial,67.36,24.95,154.95,0.81,6.85,Wheat,Urea + MOP
+Red,59.9,16.11,164.01,0.47,5.74,Maize,SSP + Urea
+Laterite,15.57,12.61,89.07,0.42,5.65,Rubber,Organic Compost
+Black,44.91,10.37,297.65,1.82,8.06,Cotton,NPK 20:20:0
+Black,38.46,23.48,293.5,0.99,7.74,Soybean,NPK 20:20:0
+Alluvial,66.07,33.34,157.23,1.22,6.58,Maize,NPK 10:26:26
+Alluvial,75.98,33.33,154.59,1.41,6.71,Maize,Urea + MOP
+Alluvial,66.97,22.62,205.6,0.98,7.38,Maize,Urea + DAP
+Laterite,9.31,5.59,75.07,0.63,5.13,Tea,Organic Compost
+Laterite,10.1,5.9,95.32,0.34,5.47,Rubber,Organic Compost
+Alluvial,81.72,28.22,175.01,1.32,7.06,Rice,Urea + MOP
+Black,40.84,15.31,289.08,1.85,7.33,Soybean,Potash + Urea
+Alluvial,83.01,34.71,199.1,1.3,6.94,Maize,NPK 10:26:26
+Black,37.79,13.59,241.79,1.27,8.38,Cotton,NPK 20:20:0
+Red,28.58,12.1,110.21,0.62,5.95,Maize,SSP + Urea
+Red,52.13,9.35,108.8,0.76,5.3,Groundnut,SSP + Urea
+Black,41.25,20.8,335.21,2.14,8.33,Cotton,Potash + Urea
+Alluvial,59.66,38.31,226.2,1.09,6.83,Maize,Urea + DAP
+Laterite,20.67,9.52,108.41,0.37,5.6,Cashew,Organic Mix
+Red,36.18,11.37,107.1,0.68,6.15,Maize,SSP + Urea
+Alluvial,89.6,26.13,174.25,0.9,7.27,Maize,Urea + DAP
+Black,31.09,19.63,315.21,1.93,8.02,Cotton,NPK 20:20:0
+Black,28.81,12.49,314.11,1.37,8.45,Cotton,Potash + Urea
+Black,41.36,12.78,259.53,1.86,7.74,Cotton,NPK 20:20:0
+Red,31.06,11.24,171.15,0.85,6.55,Groundnut,SSP + Urea
+Black,28.74,15.95,337.07,1.32,7.9,Soybean,Potash + Urea
+Black,23.67,12.61,332.42,1.54,8.25,Pulses,NPK 20:20:0
+Red,45.74,10.37,115.49,0.8,5.6,Millets,Gypsum + SSP
+Alluvial,67.36,33.73,150.25,1.14,6.79,Maize,NPK 10:26:26
+Laterite,19.31,10.12,131.3,0.25,5.07,Tea,Organic Mix
+Laterite,27.38,12.3,105.78,0.4,5.76,Tea,Organic Mix
+Red,50.69,16.87,147.66,0.42,6.42,Maize,Gypsum + SSP
+Alluvial,65.12,36.13,217.0,1.04,7.24,Rice,Urea + DAP
+Alluvial,56.04,37.53,189.39,1.47,6.54,Maize,Urea + MOP
+Black,31.42,12.54,305.77,1.82,7.4,Cotton,Potash + Urea
+Red,41.4,13.97,162.88,0.77,6.34,Maize,SSP + Urea
+Red,60.78,17.09,155.54,0.38,5.43,Maize,SSP + Urea
+Red,36.92,16.03,140.08,0.47,6.13,Groundnut,SSP + Urea
+Red,35.3,8.92,115.49,0.81,5.62,Millets,Gypsum + SSP
+Laterite,16.38,9.4,116.68,0.45,5.78,Rubber,Organic Compost
+Alluvial,68.36,40.29,174.41,0.97,7.48,Rice,Urea + MOP
+Red,31.62,13.55,150.62,0.88,5.58,Groundnut,SSP + Urea
+Red,50.86,17.77,147.07,0.45,5.88,Maize,SSP + Urea
+Red,25.26,13.27,117.53,0.84,6.13,Groundnut,Gypsum + SSP
+Black,38.7,23.17,308.86,1.07,7.58,Cotton,Potash + Urea
+Black,27.84,18.03,289.55,2.07,8.33,Cotton,Potash + Urea
+Alluvial,78.19,30.58,163.49,1.12,7.23,Maize,Urea + MOP
+Black,37.74,14.46,287.7,1.72,7.15,Pulses,Potash + Urea
+Red,24.9,14.02,138.95,0.66,6.46,Groundnut,Gypsum + SSP
+Laterite,25.24,6.11,87.37,0.43,4.75,Rubber,Organic Mix
+Red,57.2,11.64,158.39,0.6,5.63,Groundnut,Gypsum + SSP
+Alluvial,72.86,41.38,170.7,0.99,6.4,Maize,Urea + MOP
+Laterite,33.62,7.93,106.83,0.22,5.07,Rubber,Organic Mix
+Alluvial,59.04,24.17,218.86,1.3,7.13,Sugarcane,Urea + MOP
+Red,61.16,17.59,107.36,0.5,6.62,Maize,SSP + Urea
+Red,38.82,17.29,130.9,0.9,6.34,Maize,SSP + Urea
+Red,32.68,11.65,168.51,0.4,6.37,Maize,Gypsum + SSP
+Black,22.87,9.51,269.29,1.19,7.11,Soybean,NPK 20:20:0
+Red,25.03,7.48,161.5,0.63,5.53,Groundnut,Gypsum + SSP
+Laterite,24.94,11.91,123.09,0.42,5.21,Rubber,Organic Mix
+Alluvial,63.91,19.12,151.63,0.91,6.92,Rice,NPK 10:26:26
+Red,42.87,17.68,123.06,0.4,5.76,Millets,SSP + Urea
+Red,59.14,16.17,152.84,0.57,5.64,Millets,SSP + Urea
+Black,41.69,22.32,312.36,1.56,8.21,Cotton,NPK 20:20:0
+Alluvial,58.13,40.13,219.61,0.86,7.27,Rice,NPK 10:26:26
+Red,29.04,8.29,120.62,0.56,5.73,Groundnut,SSP + Urea
+Alluvial,77.79,34.93,190.88,0.91,6.77,Rice,NPK 10:26:26
+Alluvial,78.89,42.05,203.96,0.96,6.66,Wheat,Urea + MOP
+Black,36.0,14.18,319.03,1.67,7.94,Pulses,Potash + Urea
+Red,57.36,14.52,106.64,0.55,6.33,Millets,SSP + Urea
+Laterite,30.0,5.84,77.89,0.58,5.73,Rubber,Organic Mix
+Laterite,20.37,7.71,117.68,0.32,5.44,Rubber,Organic Compost
+Alluvial,75.45,38.53,211.35,1.25,6.96,Rice,Urea + DAP
+Alluvial,72.84,27.36,208.0,0.83,7.23,Rice,Urea + MOP
+Laterite,21.74,7.56,109.27,0.66,5.82,Cashew,Organic Compost
+Black,37.97,17.66,293.84,1.93,8.64,Soybean,Potash + Urea
+Alluvial,75.7,37.94,146.9,1.19,6.91,Rice,NPK 10:26:26
+Laterite,14.81,8.98,107.66,0.47,5.34,Rubber,Organic Mix
+Black,23.84,11.45,270.94,1.45,7.22,Cotton,Potash + Urea
+Black,33.09,10.56,332.4,1.06,8.47,Soybean,NPK 20:20:0
+Red,33.44,8.83,145.95,0.56,6.04,Groundnut,Gypsum + SSP
+Laterite,23.11,8.86,103.74,0.63,4.49,Rubber,Organic Mix
+Alluvial,74.99,28.85,202.54,1.08,6.9,Maize,NPK 10:26:26
+Laterite,29.12,6.09,92.14,0.7,5.66,Rubber,Organic Mix
+Black,26.13,24.57,284.11,1.66,7.4,Cotton,Potash + Urea
+Black,35.72,20.7,244.01,1.23,7.77,Cotton,NPK 20:20:0
+Black,23.45,11.78,341.26,1.95,7.14,Pulses,NPK 20:20:0
+Alluvial,77.83,33.48,165.68,0.96,6.72,Maize,Urea + DAP
+Black,39.6,17.25,304.77,1.62,7.25,Pulses,NPK 20:20:0
+Laterite,12.49,8.33,96.89,0.59,4.49,Rubber,Organic Mix
+Alluvial,55.59,39.2,162.01,0.93,7.2,Sugarcane,NPK 10:26:26
+Black,30.31,17.94,298.85,1.31,8.29,Pulses,Potash + Urea
+Red,35.38,11.55,119.11,0.54,5.95,Millets,Gypsum + SSP
+Alluvial,54.24,35.09,151.65,1.27,7.56,Wheat,Urea + DAP
+Black,23.6,25.93,305.15,1.82,7.86,Soybean,NPK 20:20:0
+Alluvial,59.56,20.74,191.73,1.14,6.86,Rice,NPK 10:26:26
+Alluvial,60.86,21.52,204.9,0.83,6.62,Sugarcane,Urea + MOP
+Red,33.56,9.02,153.85,0.73,5.81,Maize,Gypsum + SSP
+Black,39.08,20.87,242.34,1.62,8.1,Pulses,Potash + Urea
+Alluvial,56.34,20.67,218.1,1.4,6.46,Rice,Urea + MOP
+Alluvial,74.78,34.33,202.27,1.37,7.25,Rice,Urea + DAP
+Red,37.41,11.33,140.22,0.44,6.15,Maize,Gypsum + SSP
+Black,29.0,16.7,250.6,1.75,7.03,Pulses,NPK 20:20:0
+Red,34.87,10.98,168.16,0.46,5.74,Groundnut,Gypsum + SSP
+Red,51.23,14.98,133.4,0.49,5.64,Millets,SSP + Urea
+Laterite,19.39,10.86,107.48,0.28,5.4,Rubber,Organic Compost
+Black,42.49,22.03,257.62,1.77,8.36,Pulses,Potash + Urea
+Black,32.74,12.82,276.69,1.08,7.99,Soybean,Potash + Urea
+Black,28.77,20.46,339.52,2.07,8.49,Cotton,NPK 20:20:0
+Red,39.0,14.25,141.63,0.48,6.23,Groundnut,SSP + Urea
+Laterite,25.76,4.0,116.8,0.57,4.67,Cashew,Organic Mix
+Alluvial,78.41,39.81,218.27,0.9,7.4,Maize,NPK 10:26:26
+Red,44.93,18.84,128.09,0.87,6.03,Groundnut,Gypsum + SSP
+Black,44.9,23.57,266.43,2.17,8.09,Pulses,NPK 20:20:0
+Alluvial,81.76,34.0,187.14,1.0,6.7,Sugarcane,Urea + MOP
+Black,43.49,10.18,277.04,2.2,7.86,Pulses,Potash + Urea
+Laterite,34.22,5.29,114.42,0.62,4.77,Rubber,Organic Compost
+Red,52.4,8.51,115.2,0.59,6.32,Groundnut,SSP + Urea
+Black,36.68,15.12,289.25,1.78,8.02,Soybean,NPK 20:20:0
+Laterite,25.98,5.84,97.63,0.43,4.48,Cashew,Organic Compost
+Red,53.21,8.41,158.1,0.43,6.24,Maize,Gypsum + SSP
+Laterite,11.71,5.97,116.87,0.59,5.02,Tea,Organic Compost
+Alluvial,83.71,23.82,167.42,1.23,6.58,Maize,Urea + DAP
+Black,23.57,23.89,269.71,1.66,7.08,Pulses,Potash + Urea
+Black,29.28,21.51,276.69,2.21,7.91,Pulses,Potash + Urea
+Alluvial,90.91,30.29,198.64,1.05,6.65,Sugarcane,NPK 10:26:26
+Red,45.1,15.35,147.1,0.93,5.98,Maize,Gypsum + SSP
+Laterite,27.32,5.62,80.34,0.37,5.77,Cashew,Organic Compost
+Black,43.19,12.29,301.12,2.02,8.52,Pulses,NPK 20:20:0
+Alluvial,58.87,34.25,180.3,1.43,6.69,Wheat,NPK 10:26:26
+Red,46.1,16.44,127.22,0.57,6.22,Groundnut,SSP + Urea
+Alluvial,84.09,30.28,202.26,0.93,6.89,Maize,NPK 10:26:26
+Laterite,18.15,11.06,98.88,0.39,4.69,Rubber,Organic Mix
+Alluvial,81.37,37.05,151.95,1.29,7.6,Wheat,NPK 10:26:26
+Red,30.42,9.91,128.26,0.46,5.75,Maize,Gypsum + SSP
+Laterite,19.27,10.99,94.94,0.67,5.81,Rubber,Organic Mix
+Black,41.2,18.78,310.83,1.07,7.84,Cotton,NPK 20:20:0
+Red,51.69,14.52,137.25,0.74,6.44,Groundnut,Gypsum + SSP
+Alluvial,75.79,34.28,156.66,1.22,6.9,Maize,Urea + MOP
+Black,44.15,12.39,273.86,1.83,7.46,Soybean,Potash + Urea
+Alluvial,62.22,21.83,160.59,1.2,7.18,Maize,Urea + MOP
+Laterite,15.23,7.33,108.89,0.7,5.84,Tea,Organic Mix
+Alluvial,64.82,36.56,164.79,1.34,7.33,Rice,Urea + MOP
+Laterite,10.97,11.7,87.96,0.51,4.55,Cashew,Organic Mix
+Black,24.54,24.82,276.78,1.87,7.87,Cotton,Potash + Urea
+Alluvial,63.28,24.42,203.44,0.97,7.22,Maize,Urea + MOP
+Laterite,27.96,7.66,102.69,0.39,5.11,Rubber,Organic Compost
+Alluvial,55.85,36.74,213.34,1.24,7.04,Rice,Urea + DAP
+Black,27.21,22.86,248.8,1.67,8.32,Cotton,Potash + Urea
+Laterite,16.13,9.1,102.4,0.48,5.25,Rubber,Organic Mix
+Laterite,14.58,8.95,89.78,0.67,5.2,Rubber,Organic Compost
+Laterite,33.84,11.25,85.63,0.38,4.83,Tea,Organic Compost
+Alluvial,73.0,28.2,218.68,1.21,7.41,Wheat,NPK 10:26:26
+Alluvial,60.3,27.91,219.53,0.76,6.46,Maize,Urea + DAP
+Laterite,21.72,9.09,118.51,0.45,5.02,Cashew,Organic Mix
+Red,35.11,15.43,124.52,0.47,5.69,Maize,Gypsum + SSP
+Red,49.61,15.78,113.51,0.77,5.64,Maize,Gypsum + SSP
+Red,25.9,16.98,120.82,0.55,5.94,Millets,Gypsum + SSP
+Red,41.51,12.83,117.8,0.59,6.25,Maize,Gypsum + SSP
+Alluvial,86.95,22.74,163.24,0.97,7.0,Wheat,NPK 10:26:26
+Alluvial,58.49,27.37,179.28,0.85,7.32,Sugarcane,Urea + MOP
+Alluvial,61.64,21.99,162.95,0.99,7.03,Rice,NPK 10:26:26
+Alluvial,84.87,24.8,216.85,1.34,6.49,Rice,Urea + DAP
+Black,23.2,8.88,332.43,1.38,7.49,Pulses,Potash + Urea
+Laterite,13.94,8.53,112.84,0.4,5.39,Cashew,Organic Compost
+Laterite,17.98,12.28,119.0,0.45,5.32,Cashew,Organic Mix
+Laterite,13.43,11.28,105.92,0.51,5.65,Cashew,Organic Mix
+Black,20.09,13.71,320.95,2.02,7.74,Soybean,NPK 20:20:0
+Laterite,33.18,11.26,105.79,0.46,5.37,Cashew,Organic Mix
+Black,24.33,18.67,330.92,1.46,7.38,Soybean,NPK 20:20:0
+Laterite,21.98,5.87,103.6,0.34,5.44,Rubber,Organic Mix
+Alluvial,57.0,32.05,154.08,1.28,7.12,Rice,Urea + DAP
+Black,32.3,11.15,261.08,1.75,8.49,Cotton,Potash + Urea
+Alluvial,63.33,30.68,214.33,1.16,7.22,Maize,NPK 10:26:26
+Laterite,18.83,8.75,111.23,0.51,5.1,Rubber,Organic Mix
+Alluvial,86.37,22.08,161.05,1.24,6.62,Maize,Urea + MOP
+Red,34.54,16.48,141.01,0.35,6.42,Millets,Gypsum + SSP
+Laterite,35.35,10.96,118.85,0.48,4.89,Tea,Organic Compost
+Alluvial,85.95,27.32,199.01,1.32,7.36,Wheat,NPK 10:26:26
+Laterite,30.03,9.67,105.68,0.42,5.73,Cashew,Organic Compost
+Black,31.03,21.79,303.68,2.09,8.11,Cotton,Potash + Urea
+Black,41.67,14.53,335.23,1.96,8.24,Soybean,Potash + Urea
+Laterite,18.96,4.69,97.41,0.4,5.75,Rubber,Organic Compost
+Laterite,14.89,6.27,106.17,0.63,5.49,Cashew,Organic Mix
+Red,45.96,16.84,165.5,0.89,6.01,Groundnut,Gypsum + SSP
+Red,45.41,14.43,148.88,0.38,5.98,Millets,SSP + Urea
+Alluvial,59.13,40.91,210.24,1.08,7.45,Rice,Urea + MOP
+Alluvial,60.82,31.28,206.3,0.97,6.66,Rice,Urea + DAP
+Black,31.31,18.01,266.45,1.19,7.8,Soybean,NPK 20:20:0
+Alluvial,73.87,31.1,209.72,0.89,7.14,Sugarcane,Urea + MOP
+Laterite,12.14,8.48,95.86,0.65,5.25,Tea,Organic Mix
+Laterite,10.9,9.56,113.68,0.57,5.83,Tea,Organic Mix
+Black,23.3,9.9,250.38,1.5,8.11,Pulses,NPK 20:20:0
+Red,40.49,7.3,139.47,0.74,5.6,Groundnut,Gypsum + SSP
+Red,43.13,14.22,118.38,0.73,6.28,Millets,SSP + Urea
+Laterite,18.83,8.56,131.26,0.32,5.79,Cashew,Organic Compost
+Red,44.4,13.89,136.01,0.6,5.88,Millets,SSP + Urea
+Alluvial,60.3,25.63,189.44,1.19,7.26,Wheat,Urea + DAP
+Red,27.3,8.39,105.16,0.75,5.83,Groundnut,SSP + Urea
+Black,19.86,15.29,243.33,1.5,7.74,Soybean,NPK 20:20:0
+Black,25.39,16.24,260.67,1.91,8.11,Pulses,Potash + Urea
+Black,36.08,15.96,247.83,1.67,8.02,Soybean,Potash + Urea
+Black,23.54,23.25,297.48,1.61,8.47,Pulses,NPK 20:20:0
+Alluvial,54.62,37.85,208.09,1.34,7.1,Wheat,NPK 10:26:26
+Laterite,29.3,12.23,112.51,0.25,4.96,Cashew,Organic Mix
+Laterite,12.69,7.36,105.04,0.24,5.39,Tea,Organic Mix
+Alluvial,70.17,33.61,162.81,1.3,7.54,Sugarcane,Urea + MOP
+Alluvial,74.27,31.67,158.46,1.34,6.9,Wheat,NPK 10:26:26
+Alluvial,82.75,27.6,188.2,1.01,6.91,Sugarcane,NPK 10:26:26
+Black,43.04,15.0,277.64,1.82,8.15,Pulses,Potash + Urea
+Alluvial,68.52,31.42,171.87,0.88,7.36,Sugarcane,Urea + MOP
+Red,53.62,16.33,170.3,0.97,6.47,Groundnut,SSP + Urea
+Laterite,24.08,5.45,112.7,0.37,5.42,Cashew,Organic Mix
+Laterite,32.11,10.76,130.35,0.28,5.41,Rubber,Organic Compost
+Black,33.17,22.76,252.18,1.51,6.9,Soybean,Potash + Urea
+Black,30.47,18.53,287.22,2.01,7.79,Pulses,Potash + Urea
+Black,28.47,18.11,325.32,2.17,7.5,Cotton,Potash + Urea
+Red,32.87,15.77,142.64,0.58,5.57,Millets,Gypsum + SSP
+Red,32.21,16.24,145.02,0.74,5.56,Maize,SSP + Urea
+Alluvial,75.6,35.94,215.03,1.16,7.15,Sugarcane,Urea + DAP
+Laterite,28.53,6.09,132.94,0.54,4.78,Tea,Organic Mix
+Red,47.37,14.07,134.97,0.64,6.3,Groundnut,SSP + Urea
+Alluvial,61.5,26.75,183.41,1.22,6.66,Wheat,Urea + MOP
+Laterite,20.9,9.69,96.29,0.38,5.39,Cashew,Organic Compost
+Alluvial,75.95,22.92,179.65,1.09,6.71,Wheat,Urea + DAP
+Red,58.71,12.64,144.13,0.54,5.92,Groundnut,SSP + Urea
+Laterite,17.86,9.67,99.19,0.44,5.24,Cashew,Organic Compost
+Laterite,12.73,7.48,104.67,0.72,5.48,Cashew,Organic Mix
+Black,46.73,22.48,267.07,2.09,7.58,Pulses,NPK 20:20:0
+Laterite,23.45,7.7,120.93,0.58,5.03,Rubber,Organic Compost
+Black,21.81,24.91,313.65,2.04,8.26,Pulses,NPK 20:20:0
+Black,41.71,12.46,293.81,1.06,7.4,Soybean,NPK 20:20:0
+Black,38.37,19.24,261.93,1.36,7.36,Cotton,Potash + Urea
+Laterite,19.99,10.0,122.06,0.47,5.66,Cashew,Organic Mix
+Laterite,24.75,11.72,85.1,0.37,5.27,Cashew,Organic Mix
+Black,40.17,25.53,307.92,1.33,8.42,Soybean,Potash + Urea
+Alluvial,79.82,20.06,189.44,1.2,7.24,Sugarcane,NPK 10:26:26
+Black,26.0,19.13,241.55,1.8,7.18,Soybean,NPK 20:20:0
+Alluvial,72.65,22.77,191.76,1.03,6.65,Sugarcane,Urea + DAP
+Alluvial,66.76,30.68,180.95,1.05,6.77,Maize,Urea + MOP
+Red,44.47,17.48,112.25,0.89,6.25,Maize,SSP + Urea
+Laterite,19.62,10.03,82.61,0.64,4.63,Tea,Organic Compost
+Black,25.27,14.0,304.36,2.16,7.22,Soybean,Potash + Urea
+Alluvial,63.84,39.42,212.77,0.93,7.42,Sugarcane,NPK 10:26:26
+Black,34.07,18.86,297.86,1.68,7.93,Pulses,Potash + Urea
+Laterite,21.23,11.74,83.15,0.75,5.13,Cashew,Organic Mix
+Red,31.08,13.99,118.26,0.64,5.95,Groundnut,Gypsum + SSP
+Laterite,28.1,9.16,107.62,0.6,5.71,Cashew,Organic Mix
+Laterite,26.17,8.13,128.66,0.54,4.65,Cashew,Organic Mix
+Red,36.19,11.32,149.65,0.85,5.78,Groundnut,SSP + Urea
+Alluvial,64.1,32.12,156.23,1.23,7.08,Wheat,NPK 10:26:26
+Alluvial,83.12,32.51,206.09,1.02,6.9,Wheat,Urea + DAP
+Black,41.47,13.77,242.72,1.99,7.03,Pulses,NPK 20:20:0
+Black,25.47,16.0,288.81,1.84,8.42,Pulses,NPK 20:20:0
+Laterite,25.22,8.78,81.35,0.43,5.08,Tea,Organic Compost
+Red,34.28,10.05,120.07,0.81,5.73,Millets,Gypsum + SSP
+Alluvial,76.38,29.13,174.7,1.08,6.8,Maize,Urea + DAP
+Red,35.55,7.06,127.71,0.72,6.03,Maize,Gypsum + SSP
+Laterite,26.05,5.8,90.84,0.37,5.15,Cashew,Organic Compost
+Black,24.65,18.27,234.34,1.42,7.55,Pulses,Potash + Urea
+Red,33.05,7.71,148.86,0.94,5.68,Maize,SSP + Urea
+Red,28.0,10.24,121.16,0.42,6.12,Millets,Gypsum + SSP
+Alluvial,56.27,24.26,212.05,1.33,7.2,Sugarcane,NPK 10:26:26
+Laterite,11.8,9.61,115.28,0.61,5.14,Cashew,Organic Mix
+Alluvial,78.34,27.3,154.02,0.95,7.38,Rice,NPK 10:26:26
+Laterite,23.55,8.9,104.46,0.64,5.85,Rubber,Organic Compost
+Alluvial,61.39,36.95,180.76,1.19,7.03,Wheat,Urea + MOP
+Red,53.24,9.77,154.86,0.56,5.99,Maize,SSP + Urea
+Laterite,33.04,5.32,108.25,0.44,5.73,Rubber,Organic Mix
+Laterite,29.03,10.46,87.79,0.36,4.96,Cashew,Organic Mix
+Red,40.97,13.35,119.06,0.38,6.46,Groundnut,SSP + Urea
+Black,41.21,15.95,259.38,0.98,7.05,Cotton,Potash + Urea
+Black,42.79,23.2,280.53,2.1,7.62,Pulses,NPK 20:20:0
+Alluvial,63.61,24.06,179.03,1.32,6.4,Sugarcane,NPK 10:26:26
+Alluvial,79.49,31.34,164.51,0.81,6.84,Wheat,Urea + MOP
+Alluvial,73.67,22.58,197.77,1.26,7.12,Sugarcane,Urea + DAP
+Laterite,10.65,4.99,106.12,0.42,4.89,Cashew,Organic Compost
+Laterite,27.21,9.77,102.15,0.3,5.3,Cashew,Organic Mix
+Red,28.76,15.07,135.22,0.57,5.46,Groundnut,Gypsum + SSP
+Black,38.79,11.43,286.06,2.1,8.27,Cotton,Potash + Urea
+Black,22.41,20.05,278.6,2.09,7.3,Cotton,Potash + Urea
+Black,38.98,16.1,289.9,1.29,7.89,Soybean,Potash + Urea
+Black,24.99,17.58,300.0,2.27,8.39,Pulses,NPK 20:20:0
+Alluvial,68.05,38.79,207.05,0.85,7.08,Sugarcane,Urea + MOP
+Red,36.12,17.32,161.76,0.73,5.93,Millets,Gypsum + SSP
+Laterite,28.4,10.06,128.84,0.6,5.22,Cashew,Organic Mix
+Red,45.73,14.7,161.28,0.67,6.03,Maize,SSP + Urea
+Alluvial,84.8,35.62,213.98,0.89,6.88,Sugarcane,Urea + MOP
+Red,40.09,10.41,142.61,0.87,6.02,Groundnut,SSP + Urea
+Laterite,20.02,6.02,104.56,0.4,5.21,Cashew,Organic Compost
+Red,54.81,10.72,153.61,0.64,5.79,Millets,SSP + Urea
+Black,27.51,14.93,292.43,1.93,8.53,Soybean,Potash + Urea
+Black,29.16,12.59,261.27,2.02,7.57,Cotton,Potash + Urea
+Black,21.05,10.96,244.43,1.86,8.17,Cotton,NPK 20:20:0
+Red,52.98,12.02,155.91,0.41,5.93,Groundnut,SSP + Urea
+Alluvial,60.33,38.48,191.95,0.89,6.97,Wheat,Urea + DAP
+Black,37.75,17.22,336.12,1.72,8.03,Soybean,Potash + Urea
+Alluvial,73.1,35.7,209.42,1.18,6.43,Maize,Urea + DAP
+Red,33.2,18.03,149.15,0.87,6.24,Millets,SSP + Urea
+Laterite,27.13,11.24,102.7,0.35,5.2,Tea,Organic Mix
+Alluvial,67.33,37.88,167.82,1.11,7.35,Maize,Urea + MOP
+Red,30.91,9.37,122.93,0.72,5.53,Maize,SSP + Urea
+Alluvial,84.97,28.37,155.8,0.93,6.44,Rice,Urea + MOP
+Alluvial,76.6,25.43,165.45,1.03,7.16,Sugarcane,Urea + DAP
+Alluvial,61.17,34.73,208.28,1.16,7.07,Sugarcane,Urea + DAP
+Black,31.86,21.02,336.05,1.46,7.24,Pulses,NPK 20:20:0
+Laterite,11.03,8.33,90.66,0.54,5.62,Tea,Organic Compost
+Red,48.29,16.63,154.3,0.43,6.16,Groundnut,SSP + Urea
+Alluvial,63.37,29.13,196.96,1.21,7.01,Rice,Urea + DAP
+Red,26.79,17.68,166.48,0.54,6.17,Millets,Gypsum + SSP
+Alluvial,66.0,31.5,217.39,1.3,6.67,Rice,NPK 10:26:26
+Red,25.1,10.28,122.03,0.62,5.68,Groundnut,Gypsum + SSP
+Black,27.49,20.46,241.81,1.92,8.09,Cotton,Potash + Urea
+Alluvial,68.76,30.49,185.31,1.19,7.42,Maize,NPK 10:26:26
+Laterite,34.16,11.05,99.28,0.3,4.8,Cashew,Organic Mix
+Laterite,12.37,10.65,121.09,0.4,5.52,Cashew,Organic Mix
+Red,52.92,15.3,117.73,0.86,5.93,Maize,Gypsum + SSP
+Alluvial,66.94,24.37,184.14,1.1,6.5,Wheat,Urea + MOP
+Alluvial,82.23,26.16,219.26,1.2,6.45,Wheat,Urea + DAP
+Red,26.75,14.52,136.35,0.76,5.71,Millets,Gypsum + SSP
+Alluvial,59.43,37.14,221.35,1.31,6.62,Sugarcane,Urea + MOP
+Alluvial,68.68,28.08,207.85,1.09,7.2,Rice,Urea + MOP
+Black,38.41,22.55,257.41,1.6,7.75,Cotton,NPK 20:20:0
+Laterite,19.5,9.0,104.02,0.6,4.81,Cashew,Organic Mix
+Black,28.55,17.74,326.25,1.07,8.55,Soybean,NPK 20:20:0
+Red,57.82,10.75,122.27,0.81,6.24,Groundnut,Gypsum + SSP
+Black,27.83,19.66,338.56,1.76,8.18,Cotton,NPK 20:20:0
+Alluvial,83.4,26.3,174.86,0.86,6.69,Rice,Urea + DAP
+Alluvial,86.61,36.91,205.82,1.29,6.59,Wheat,Urea + DAP
+Alluvial,71.2,37.17,173.81,0.87,7.06,Sugarcane,Urea + MOP
+Alluvial,73.26,19.95,164.41,1.05,6.6,Maize,Urea + DAP
+Red,54.04,9.74,150.6,0.85,6.29,Maize,SSP + Urea
+Alluvial,79.85,23.66,180.72,1.25,6.91,Maize,Urea + MOP
+Alluvial,75.41,36.15,208.77,1.04,7.32,Maize,NPK 10:26:26
+Laterite,30.43,8.74,86.92,0.54,5.09,Cashew,Organic Compost
+Red,54.48,13.63,163.06,0.78,6.46,Millets,SSP + Urea
+Red,27.46,17.94,162.22,0.85,6.46,Maize,Gypsum + SSP
+Black,20.53,12.36,328.04,1.85,8.14,Soybean,NPK 20:20:0
+Alluvial,86.12,27.92,157.7,1.06,7.58,Sugarcane,Urea + DAP
+Black,25.38,22.7,296.22,1.48,8.07,Soybean,NPK 20:20:0
+Red,61.68,15.04,138.92,0.84,5.95,Groundnut,Gypsum + SSP
+Alluvial,80.94,25.66,164.51,0.9,6.6,Maize,Urea + MOP
+Red,34.24,13.49,136.87,0.82,5.9,Maize,Gypsum + SSP
+Alluvial,88.23,28.18,154.3,1.02,6.9,Rice,Urea + MOP
+Black,21.47,13.14,331.53,1.69,7.99,Cotton,Potash + Urea
+Black,24.85,21.93,333.48,1.64,8.35,Soybean,NPK 20:20:0
+Black,43.6,18.53,314.6,1.19,7.8,Soybean,Potash + Urea
+Laterite,32.71,4.32,124.02,0.61,4.78,Cashew,Organic Compost
+Red,41.93,18.26,162.32,0.61,5.97,Millets,SSP + Urea
+Black,42.98,23.2,244.51,1.24,7.49,Cotton,NPK 20:20:0
+Laterite,18.49,11.67,126.88,0.71,4.54,Cashew,Organic Mix
+Alluvial,84.95,32.33,201.02,1.36,6.6,Wheat,NPK 10:26:26
+Alluvial,88.98,19.89,151.02,1.11,6.73,Wheat,Urea + MOP
+Black,36.91,11.99,294.61,2.0,8.39,Soybean,Potash + Urea
+Laterite,32.86,6.32,134.36,0.64,5.58,Rubber,Organic Mix
+Black,31.81,12.92,275.49,1.82,7.84,Pulses,Potash + Urea
+Laterite,33.7,5.3,118.77,0.41,5.62,Cashew,Organic Compost
+Black,28.51,22.8,245.04,1.87,7.68,Cotton,NPK 20:20:0
+Alluvial,84.15,26.08,187.42,0.97,6.64,Wheat,Urea + MOP
+Laterite,13.6,8.77,107.84,0.6,5.88,Cashew,Organic Mix
+Black,25.07,17.4,317.36,1.45,8.41,Pulses,Potash + Urea
+Laterite,29.96,5.32,97.96,0.37,5.17,Rubber,Organic Mix
+Alluvial,88.24,21.85,170.9,0.82,7.34,Maize,NPK 10:26:26
+Red,41.33,13.4,126.32,0.92,6.23,Maize,SSP + Urea
+Red,45.11,10.37,167.77,0.89,6.19,Maize,SSP + Urea
+Alluvial,71.72,28.81,214.03,1.11,7.38,Sugarcane,Urea + DAP
+Black,20.21,19.04,321.38,1.53,7.52,Pulses,Potash + Urea
+Black,45.28,21.12,244.78,1.66,8.35,Cotton,Potash + Urea
+Alluvial,78.69,25.01,199.86,0.96,7.12,Sugarcane,Urea + MOP
+Red,39.57,17.89,169.73,0.43,6.2,Maize,Gypsum + SSP
+Laterite,33.7,8.4,101.15,0.44,4.71,Cashew,Organic Compost
+Black,30.53,23.96,248.08,1.13,7.96,Pulses,Potash + Urea
+Alluvial,75.51,24.81,216.25,0.91,6.67,Wheat,Urea + MOP
+Black,41.35,17.14,275.95,1.76,8.09,Pulses,Potash + Urea
+Red,54.96,7.9,133.74,0.74,5.64,Maize,Gypsum + SSP
+Red,37.4,9.62,118.51,0.67,6.06,Groundnut,Gypsum + SSP
+Red,56.31,13.64,137.35,0.85,5.58,Maize,SSP + Urea
+Alluvial,88.41,38.91,173.31,1.37,6.98,Rice,NPK 10:26:26
+Alluvial,54.55,27.35,175.77,0.8,6.77,Maize,NPK 10:26:26
+Alluvial,70.34,21.3,207.59,0.97,6.86,Maize,Urea + MOP
+Alluvial,55.99,36.13,213.76,1.31,7.17,Sugarcane,Urea + MOP
+Alluvial,84.54,28.72,174.07,1.13,6.84,Sugarcane,NPK 10:26:26
+Alluvial,68.67,31.61,214.61,0.84,7.49,Wheat,Urea + MOP
+Black,28.74,9.4,278.46,2.05,7.69,Pulses,NPK 20:20:0
+Laterite,18.63,6.44,88.95,0.44,5.22,Tea,Organic Mix
+Alluvial,70.51,19.95,195.55,1.4,6.76,Wheat,NPK 10:26:26
+Black,27.51,17.8,321.96,1.82,7.08,Cotton,Potash + Urea
+Alluvial,54.66,22.07,171.76,1.28,7.31,Sugarcane,Urea + DAP
+Black,37.39,9.35,276.4,1.08,7.93,Pulses,NPK 20:20:0
+Black,35.53,24.04,266.81,1.58,8.67,Soybean,NPK 20:20:0
+Alluvial,80.61,35.17,167.55,1.19,7.07,Rice,Urea + DAP
+Black,22.66,17.79,324.8,1.95,8.2,Cotton,NPK 20:20:0
+Alluvial,74.66,21.97,197.13,1.09,6.93,Sugarcane,NPK 10:26:26
+Laterite,10.52,7.26,116.05,0.56,4.75,Cashew,Organic Mix
+Red,33.01,10.87,159.21,0.84,5.76,Millets,SSP + Urea
+Black,32.92,11.52,313.09,1.63,7.41,Cotton,Potash + Urea
+Laterite,32.31,8.37,130.19,0.33,5.79,Rubber,Organic Mix
+Alluvial,67.56,30.66,188.55,1.35,7.47,Maize,Urea + DAP
+Red,34.57,17.79,134.26,0.67,6.09,Millets,Gypsum + SSP
+Laterite,14.08,7.0,84.88,0.58,4.76,Tea,Organic Mix
+Red,44.89,9.67,137.2,0.66,6.27,Millets,Gypsum + SSP
+Black,24.05,18.33,335.61,1.47,7.98,Soybean,Potash + Urea
+Laterite,23.18,5.27,117.32,0.6,5.12,Cashew,Organic Compost
+Black,41.89,16.55,330.55,2.11,7.87,Soybean,Potash + Urea
+Alluvial,86.13,28.28,172.18,0.98,7.05,Rice,NPK 10:26:26
+Laterite,15.56,8.81,109.76,0.5,5.24,Cashew,Organic Compost
+Red,33.59,16.3,114.11,0.75,5.88,Millets,Gypsum + SSP
+Red,52.37,18.85,126.51,0.61,6.44,Groundnut,SSP + Urea
+Laterite,30.28,9.31,102.87,0.7,4.58,Rubber,Organic Mix
+Red,52.98,12.58,150.81,0.54,5.61,Groundnut,Gypsum + SSP
+Alluvial,73.75,29.38,172.21,0.75,7.35,Rice,Urea + MOP
+Alluvial,68.95,34.08,171.9,0.86,7.43,Wheat,NPK 10:26:26
+Black,18.95,17.78,288.65,1.15,7.39,Soybean,NPK 20:20:0
+Alluvial,78.55,26.35,150.7,1.21,6.59,Maize,NPK 10:26:26
+Red,42.38,12.85,129.53,0.68,5.8,Maize,Gypsum + SSP
+Laterite,12.55,6.24,108.58,0.66,5.99,Tea,Organic Mix
+Alluvial,77.68,28.36,194.87,1.34,7.32,Maize,NPK 10:26:26
+Laterite,26.78,6.24,102.89,0.35,4.58,Cashew,Organic Mix
+Laterite,27.43,12.56,124.17,0.51,4.69,Rubber,Organic Compost
+Laterite,27.43,7.87,107.87,0.39,5.05,Rubber,Organic Compost
+Laterite,9.96,7.62,91.41,0.55,4.54,Rubber,Organic Compost
+Red,45.55,10.8,141.94,0.63,5.71,Groundnut,Gypsum + SSP
+Red,28.61,7.24,137.57,0.68,6.08,Maize,SSP + Urea
+Laterite,23.42,10.46,84.54,0.3,5.22,Cashew,Organic Mix
+Laterite,14.09,9.1,126.53,0.45,5.13,Cashew,Organic Mix
+Black,32.49,17.76,289.98,1.89,7.44,Pulses,Potash + Urea
+Alluvial,75.32,37.93,169.31,1.05,7.3,Wheat,Urea + DAP
+Laterite,31.57,10.27,120.56,0.37,5.18,Tea,Organic Compost
+Laterite,16.96,8.76,131.19,0.34,5.16,Cashew,Organic Compost
+Laterite,33.02,9.2,80.47,0.46,5.37,Tea,Organic Mix
+Red,25.64,12.59,165.61,0.52,5.69,Millets,Gypsum + SSP
+Red,42.42,16.88,117.36,0.59,5.96,Groundnut,SSP + Urea
+Black,29.86,25.0,315.09,1.35,8.32,Pulses,NPK 20:20:0
+Black,20.03,11.46,296.25,1.75,8.16,Cotton,Potash + Urea
+Laterite,23.02,10.63,121.31,0.61,4.78,Cashew,Organic Mix
+Red,35.41,11.25,141.78,0.7,6.5,Maize,SSP + Urea
+Laterite,12.42,7.25,92.01,0.63,5.68,Rubber,Organic Mix
+Black,21.49,9.99,297.43,1.62,8.62,Pulses,NPK 20:20:0
+Red,57.28,13.85,158.4,0.47,5.99,Maize,SSP + Urea
+Black,38.03,17.35,251.3,1.3,8.34,Soybean,NPK 20:20:0
+Red,51.94,11.89,150.01,0.46,6.19,Maize,SSP + Urea
+Laterite,13.67,11.17,118.1,0.39,4.96,Tea,Organic Mix
+Red,48.38,13.37,105.86,0.46,6.38,Groundnut,SSP + Urea
+Red,51.87,14.58,123.06,0.89,5.65,Millets,SSP + Urea
+Black,30.02,21.78,301.65,1.28,8.24,Pulses,Potash + Urea
+Laterite,18.99,8.86,119.04,0.38,5.75,Tea,Organic Mix
+Red,25.93,8.93,171.52,0.87,6.3,Maize,SSP + Urea
+Red,52.07,9.05,134.27,0.62,6.13,Millets,SSP + Urea
+Alluvial,54.26,38.92,202.76,0.77,6.92,Rice,NPK 10:26:26
+Red,35.06,14.05,137.21,0.44,5.69,Groundnut,SSP + Urea
+Red,27.83,13.19,146.77,0.62,5.76,Millets,Gypsum + SSP
+Black,30.28,16.0,281.74,2.16,7.08,Soybean,Potash + Urea
+Red,55.58,13.81,108.74,0.58,6.29,Groundnut,Gypsum + SSP
+Laterite,29.44,5.06,114.87,0.39,4.95,Rubber,Organic Mix
+Laterite,28.87,8.01,126.5,0.31,5.62,Tea,Organic Mix
+Laterite,30.76,6.93,108.53,0.55,5.37,Tea,Organic Compost
+Laterite,30.8,12.85,88.88,0.49,5.12,Tea,Organic Mix
+Alluvial,60.33,36.53,183.05,1.27,6.85,Wheat,Urea + DAP
+Red,40.74,14.18,166.85,0.43,6.01,Millets,Gypsum + SSP
+Laterite,13.67,4.72,116.85,0.71,5.66,Tea,Organic Compost
+Red,57.11,10.29,162.53,0.73,6.12,Groundnut,Gypsum + SSP
+Red,27.64,9.73,155.23,1.0,6.16,Maize,SSP + Urea
+Alluvial,73.19,37.27,174.62,1.08,7.4,Wheat,NPK 10:26:26
+Red,57.93,11.64,115.55,0.92,6.37,Maize,Gypsum + SSP
+Black,26.35,22.7,327.1,2.18,7.45,Cotton,Potash + Urea
+Alluvial,83.72,33.59,162.12,1.04,6.9,Wheat,Urea + MOP
+Black,33.76,9.99,255.65,1.69,7.78,Pulses,Potash + Urea
+Black,37.14,26.21,327.39,2.11,7.74,Cotton,NPK 20:20:0
+Red,53.39,18.41,150.99,0.41,5.76,Groundnut,Gypsum + SSP
+Laterite,27.31,7.4,75.3,0.59,4.69,Rubber,Organic Compost
+Black,35.11,21.94,292.29,1.75,7.76,Pulses,NPK 20:20:0
+Black,31.01,20.45,340.12,1.07,7.81,Pulses,NPK 20:20:0
+Alluvial,78.15,31.4,200.38,1.14,7.16,Rice,Urea + MOP
+Alluvial,57.47,32.53,200.41,1.09,6.54,Sugarcane,Urea + DAP
+Laterite,35.17,6.95,101.31,0.4,5.74,Rubber,Organic Compost
+Black,26.47,15.68,251.37,2.19,7.74,Pulses,NPK 20:20:0
+Red,35.76,8.22,129.55,0.73,6.43,Groundnut,Gypsum + SSP
+Red,32.81,7.5,115.11,0.75,6.4,Groundnut,SSP + Urea
+Red,32.27,11.54,142.93,0.55,6.5,Millets,SSP + Urea
+Red,53.87,9.56,166.6,0.72,6.08,Groundnut,SSP + Urea
+Laterite,12.67,10.38,112.21,0.64,4.91,Rubber,Organic Mix
+Red,42.81,10.81,158.48,0.54,6.12,Groundnut,SSP + Urea
+Laterite,18.74,8.04,99.06,0.46,5.09,Rubber,Organic Mix
+Alluvial,70.46,37.78,183.32,1.25,7.41,Sugarcane,NPK 10:26:26
+Black,39.02,14.5,305.5,1.15,7.71,Soybean,Potash + Urea
+Black,39.03,12.94,261.49,1.44,7.22,Cotton,NPK 20:20:0
+Red,35.22,17.77,141.27,0.5,6.24,Groundnut,SSP + Urea
+Laterite,24.88,6.47,87.89,0.27,4.42,Tea,Organic Compost
+Laterite,12.52,9.58,106.25,0.52,4.96,Tea,Organic Mix
+Black,32.53,11.18,270.53,1.04,7.67,Cotton,NPK 20:20:0
+Red,32.73,17.03,135.52,0.78,5.58,Groundnut,Gypsum + SSP
+Alluvial,58.2,26.77,180.39,1.05,7.3,Sugarcane,Urea + MOP
+Red,47.18,14.38,141.28,0.52,6.11,Maize,SSP + Urea
+Red,51.83,13.18,112.37,0.52,6.21,Millets,Gypsum + SSP
+Laterite,28.16,8.82,90.07,0.34,4.74,Rubber,Organic Mix
+Black,25.4,19.14,302.35,1.38,7.74,Soybean,Potash + Urea
+Red,31.23,14.22,168.74,0.48,5.5,Groundnut,SSP + Urea
+Alluvial,84.17,38.44,143.93,1.29,6.51,Rice,Urea + MOP
+Laterite,23.75,5.73,121.69,0.61,5.2,Cashew,Organic Compost
+Black,25.7,11.46,321.74,1.76,7.76,Soybean,NPK 20:20:0
+Black,23.09,19.57,251.94,1.13,7.92,Soybean,NPK 20:20:0
+Red,32.76,11.55,145.65,0.61,5.66,Groundnut,SSP + Urea
+Alluvial,80.75,28.13,161.24,1.35,7.08,Maize,NPK 10:26:26
+Black,19.02,18.32,308.35,1.23,7.6,Soybean,Potash + Urea
+Black,20.36,10.54,260.65,1.54,7.38,Pulses,NPK 20:20:0
+Red,28.13,16.62,148.63,0.88,5.91,Groundnut,Gypsum + SSP
+Red,52.89,14.87,164.96,0.75,6.17,Maize,SSP + Urea
+Black,38.99,10.32,335.31,1.84,7.81,Cotton,NPK 20:20:0
+Red,29.34,15.07,142.15,0.82,5.82,Millets,Gypsum + SSP
+Black,32.15,9.67,279.62,1.54,8.45,Soybean,NPK 20:20:0
+Laterite,33.65,7.5,91.77,0.58,4.71,Cashew,Organic Mix
+Black,23.28,26.49,235.3,2.13,8.23,Pulses,Potash + Urea
+Black,23.14,14.4,282.98,1.86,7.26,Pulses,Potash + Urea
+Red,29.43,11.01,111.7,0.64,5.38,Groundnut,SSP + Urea
+Red,41.42,9.92,147.12,0.82,6.09,Maize,SSP + Urea
+Laterite,27.2,6.82,80.97,0.5,5.15,Rubber,Organic Mix
+Alluvial,75.29,26.56,210.23,0.89,6.9,Rice,Urea + DAP
+Laterite,30.67,10.34,96.07,0.38,5.28,Tea,Organic Compost
+Red,45.12,10.43,146.15,0.69,5.64,Millets,Gypsum + SSP
+Laterite,14.69,10.54,111.75,0.28,5.87,Tea,Organic Compost
+Laterite,36.5,6.31,111.14,0.7,5.73,Cashew,Organic Compost
+Red,48.59,17.86,115.47,0.72,5.89,Groundnut,SSP + Urea
+Alluvial,83.51,25.04,198.93,1.28,6.81,Sugarcane,Urea + MOP
+Laterite,11.78,8.14,98.13,0.55,4.86,Cashew,Organic Mix
+Laterite,29.1,10.26,121.6,0.38,5.21,Tea,Organic Mix
+Alluvial,78.1,29.96,163.22,1.23,7.05,Maize,Urea + MOP
+Alluvial,78.13,24.23,154.96,0.96,7.53,Rice,Urea + DAP
+Red,58.19,8.78,137.92,0.81,5.62,Groundnut,Gypsum + SSP
+Laterite,10.5,10.1,104.15,0.52,4.57,Tea,Organic Mix
+Alluvial,74.5,22.45,151.21,0.76,6.87,Sugarcane,Urea + DAP
+Alluvial,54.64,30.65,188.98,0.91,7.1,Maize,NPK 10:26:26
+Laterite,33.41,9.06,120.24,0.41,5.11,Cashew,Organic Compost
+Laterite,25.95,13.04,74.76,0.62,4.8,Tea,Organic Compost
+Laterite,9.04,11.0,119.3,0.37,5.37,Tea,Organic Compost
+Black,37.77,25.2,309.53,2.12,8.2,Cotton,Potash + Urea
+Black,45.06,24.48,287.79,1.44,7.3,Soybean,NPK 20:20:0
+Black,23.96,19.0,249.15,1.55,8.55,Soybean,NPK 20:20:0
+Alluvial,83.89,23.06,212.65,0.92,6.98,Maize,Urea + DAP
+Black,43.68,25.78,301.9,1.06,6.97,Cotton,NPK 20:20:0
+Alluvial,69.09,25.18,151.8,0.97,6.78,Rice,Urea + DAP
+Red,26.2,7.06,132.93,0.62,5.59,Millets,Gypsum + SSP
+Alluvial,57.96,33.09,169.9,1.11,7.11,Maize,Urea + MOP
+Red,56.85,12.67,126.52,0.95,5.54,Groundnut,SSP + Urea
+Alluvial,75.94,19.34,169.95,1.07,7.27,Maize,NPK 10:26:26
+Red,58.73,13.88,159.25,0.44,5.82,Millets,Gypsum + SSP
+Red,36.35,11.44,157.5,0.42,5.59,Maize,Gypsum + SSP
+Black,23.12,9.71,277.27,1.81,7.97,Soybean,Potash + Urea
+Black,44.39,18.83,291.58,1.29,7.12,Pulses,Potash + Urea
+Laterite,33.11,9.26,107.7,0.7,5.78,Rubber,Organic Mix
+Red,55.81,15.67,131.16,0.71,6.3,Maize,Gypsum + SSP
+Black,34.8,20.71,308.03,1.61,7.1,Pulses,Potash + Urea
+Laterite,28.8,6.62,109.67,0.5,5.62,Cashew,Organic Mix
+Red,43.19,12.46,126.41,0.88,6.42,Millets,SSP + Urea
+Laterite,14.45,12.67,121.81,0.44,5.25,Rubber,Organic Compost
+Black,23.03,15.0,256.69,1.99,7.25,Pulses,Potash + Urea
+Black,22.01,10.9,302.22,1.51,6.94,Soybean,Potash + Urea
+Black,32.21,15.81,331.14,1.74,7.08,Cotton,NPK 20:20:0
+Laterite,25.68,10.14,124.65,0.54,4.59,Tea,Organic Compost
+Laterite,15.07,10.78,89.36,0.65,5.69,Cashew,Organic Mix
+Laterite,27.55,12.05,111.68,0.71,4.94,Cashew,Organic Mix
+Alluvial,70.91,37.57,175.7,1.17,6.49,Maize,Urea + MOP
+Red,36.78,11.29,155.81,0.83,5.86,Maize,SSP + Urea
+Laterite,15.3,8.21,103.36,0.55,4.59,Tea,Organic Mix
+Laterite,27.66,10.26,124.32,0.49,5.04,Rubber,Organic Compost
+Black,41.73,23.06,332.82,1.23,8.09,Cotton,Potash + Urea
+Alluvial,85.73,33.27,159.74,1.1,7.24,Sugarcane,Urea + DAP
+Alluvial,56.59,33.84,180.76,0.89,6.68,Sugarcane,Urea + MOP
+Laterite,18.72,6.25,125.12,0.84,5.3,Cashew,Organic Mix
+Black,19.27,21.05,290.43,1.72,7.17,Pulses,NPK 20:20:0
+Alluvial,87.29,23.01,207.86,1.33,7.02,Rice,NPK 10:26:26
+Black,42.01,18.73,303.54,1.81,8.19,Soybean,NPK 20:20:0
+Laterite,23.87,11.6,97.91,0.57,5.41,Rubber,Organic Mix
+Laterite,21.08,9.27,104.39,0.54,4.69,Tea,Organic Mix
+Red,40.09,14.91,151.59,0.75,6.59,Groundnut,SSP + Urea
+Alluvial,81.15,23.36,152.91,1.04,7.33,Rice,Urea + MOP
+Black,25.21,16.73,290.17,1.38,7.39,Pulses,Potash + Urea
+Red,57.99,12.94,148.96,0.57,6.18,Maize,Gypsum + SSP
+Alluvial,85.17,30.85,151.35,0.98,7.32,Maize,NPK 10:26:26
+Laterite,32.15,8.92,90.37,0.47,4.56,Cashew,Organic Compost
+Laterite,13.78,11.56,128.16,0.5,5.11,Tea,Organic Compost
+Black,31.74,14.38,255.86,1.62,7.83,Soybean,Potash + Urea
+Black,42.71,9.46,303.27,1.98,7.94,Pulses,NPK 20:20:0
+Red,41.9,11.88,119.16,0.31,5.56,Millets,SSP + Urea
+Black,45.62,21.31,327.46,1.27,7.63,Cotton,Potash + Urea
+Red,39.27,8.03,160.68,0.78,5.68,Maize,Gypsum + SSP
+Red,54.26,14.21,127.38,0.73,5.88,Maize,Gypsum + SSP
+Red,60.97,11.55,123.58,0.43,6.14,Groundnut,SSP + Urea
+Laterite,26.97,5.73,98.75,0.43,4.65,Tea,Organic Mix
+Laterite,27.01,10.06,126.71,0.64,4.73,Cashew,Organic Compost
+Alluvial,58.89,36.49,199.9,0.85,7.39,Wheat,Urea + DAP
+Laterite,15.84,13.3,108.33,0.59,4.8,Tea,Organic Compost
+Black,37.11,15.23,346.48,1.94,7.14,Soybean,NPK 20:20:0
+Laterite,22.73,11.32,99.95,0.52,5.44,Rubber,Organic Mix
+Red,54.37,13.23,124.07,0.84,6.08,Groundnut,SSP + Urea
+Black,18.03,13.49,296.76,1.49,8.01,Soybean,Potash + Urea
+Alluvial,78.82,37.72,210.13,0.97,6.52,Maize,NPK 10:26:26
+Alluvial,67.75,37.22,163.17,0.89,7.09,Rice,Urea + DAP
+Black,35.99,11.27,317.6,1.04,7.92,Cotton,NPK 20:20:0
+Laterite,20.17,5.34,108.99,0.57,5.04,Tea,Organic Compost
+Black,26.71,20.08,283.65,1.56,8.07,Cotton,Potash + Urea
+Alluvial,79.27,30.93,206.81,1.2,6.76,Rice,NPK 10:26:26
+Laterite,23.94,6.31,81.24,0.32,5.26,Cashew,Organic Compost
+Black,44.37,23.44,243.49,1.84,7.63,Soybean,Potash + Urea
+Red,41.01,10.67,114.15,0.9,6.32,Maize,Gypsum + SSP
+Laterite,9.44,7.18,129.38,0.57,5.63,Cashew,Organic Compost
+Red,42.35,9.06,162.17,0.62,5.89,Maize,Gypsum + SSP
+Laterite,25.65,9.33,97.65,0.39,5.92,Rubber,Organic Mix
+Red,41.57,13.22,171.62,0.88,5.69,Millets,Gypsum + SSP
+Laterite,31.62,5.73,104.83,0.34,4.84,Tea,Organic Mix
+Laterite,27.51,4.55,104.62,0.74,5.74,Cashew,Organic Compost
+Red,59.16,14.75,159.56,0.91,6.05,Maize,SSP + Urea
+Laterite,12.55,11.52,85.57,0.3,4.42,Tea,Organic Mix
+Alluvial,60.59,40.71,221.2,0.84,6.97,Rice,Urea + MOP
+Black,28.13,9.15,296.4,1.98,6.92,Cotton,NPK 20:20:0
+Black,36.84,22.06,313.15,1.21,8.23,Cotton,Potash + Urea
+Laterite,20.57,6.7,113.53,0.7,5.26,Rubber,Organic Compost
+Red,33.17,9.58,152.54,0.79,6.16,Millets,Gypsum + SSP
+Alluvial,83.62,30.54,203.3,0.79,7.23,Rice,Urea + DAP
+Alluvial,86.12,33.65,173.15,1.07,6.59,Sugarcane,NPK 10:26:26
+Red,52.36,10.91,122.73,0.42,6.17,Millets,Gypsum + SSP
+Laterite,27.12,10.56,118.35,0.4,4.6,Cashew,Organic Mix
+Black,21.59,22.2,305.96,1.74,7.02,Pulses,NPK 20:20:0
+Black,30.32,14.78,276.77,1.54,7.61,Pulses,NPK 20:20:0
+Laterite,19.9,5.4,127.03,0.64,4.59,Cashew,Organic Mix
+Alluvial,85.68,29.58,195.43,1.27,7.25,Maize,Urea + MOP
+Red,52.87,13.0,159.61,0.83,6.11,Groundnut,SSP + Urea
+Red,32.16,16.75,121.85,0.8,6.18,Maize,SSP + Urea
+Laterite,24.95,6.91,96.19,0.62,5.8,Rubber,Organic Compost
+Laterite,24.05,9.25,104.36,0.35,4.85,Cashew,Organic Compost
+Red,48.55,10.27,117.44,0.77,5.97,Millets,SSP + Urea
+Red,59.54,13.36,118.01,0.86,5.94,Millets,SSP + Urea
+Black,18.72,13.6,276.27,2.11,7.85,Pulses,NPK 20:20:0
+Alluvial,54.02,27.59,211.37,1.26,7.43,Maize,Urea + DAP
+Red,50.51,15.78,127.92,0.84,6.3,Maize,SSP + Urea
+Red,35.68,11.53,144.39,0.57,6.11,Millets,Gypsum + SSP
+Laterite,12.49,10.62,106.55,0.51,5.78,Rubber,Organic Compost
+Red,52.5,8.23,170.64,0.79,6.06,Groundnut,Gypsum + SSP
+Black,28.09,20.63,295.19,2.01,8.42,Cotton,Potash + Urea
+Alluvial,72.04,22.62,173.75,0.93,7.2,Sugarcane,Urea + MOP
+Laterite,32.6,9.97,122.34,0.37,5.12,Tea,Organic Mix
+Red,56.0,11.25,126.59,0.63,5.71,Groundnut,SSP + Urea
+Red,45.4,17.23,138.66,0.87,6.42,Millets,SSP + Urea
+Black,24.06,13.84,277.17,2.17,7.83,Cotton,NPK 20:20:0
+Red,55.68,11.06,167.18,0.79,6.44,Groundnut,Gypsum + SSP
+Red,39.58,17.72,115.81,0.77,6.02,Millets,SSP + Urea
+Laterite,32.84,12.24,106.54,0.61,4.47,Rubber,Organic Compost
+Laterite,33.73,8.44,100.9,0.37,4.78,Rubber,Organic Mix
+Black,37.73,21.11,263.22,1.45,8.0,Cotton,NPK 20:20:0
+Laterite,30.19,8.32,100.56,0.63,4.9,Rubber,Organic Compost
+Black,28.7,11.64,267.65,1.29,8.4,Soybean,NPK 20:20:0
+Laterite,24.97,8.12,75.99,0.47,4.9,Tea,Organic Compost
+Laterite,32.73,9.31,90.75,0.7,5.53,Tea,Organic Mix
+Alluvial,81.52,21.86,176.78,1.31,7.46,Maize,Urea + MOP
+Alluvial,60.95,39.81,198.27,1.23,6.88,Rice,NPK 10:26:26
+Red,31.47,16.97,137.13,0.56,6.24,Groundnut,SSP + Urea
+Red,32.74,10.37,121.72,0.61,5.83,Maize,Gypsum + SSP
+Laterite,31.15,11.74,125.5,0.46,5.79,Rubber,Organic Mix
+Laterite,19.18,5.75,105.13,0.5,4.58,Cashew,Organic Mix
+Red,33.07,13.93,122.24,0.62,6.39,Groundnut,Gypsum + SSP
+Black,26.12,21.84,251.94,2.16,7.33,Pulses,NPK 20:20:0
+Alluvial,53.21,34.86,170.88,0.91,6.61,Wheat,Urea + DAP
+Black,41.51,11.24,286.5,1.88,8.36,Pulses,Potash + Urea
+Red,40.57,14.05,162.0,0.88,6.04,Groundnut,Gypsum + SSP
+Red,61.17,12.97,163.11,0.59,5.87,Maize,SSP + Urea
+Red,38.03,14.38,158.3,0.55,6.37,Maize,Gypsum + SSP
+Laterite,15.38,10.3,117.72,0.61,4.8,Tea,Organic Mix
+Red,46.28,13.57,135.21,0.51,6.21,Groundnut,SSP + Urea
+Alluvial,76.31,34.11,176.69,1.3,6.91,Maize,Urea + MOP
+Red,34.2,14.41,125.8,0.85,6.29,Maize,SSP + Urea
+Black,26.21,11.78,313.67,1.52,7.2,Soybean,Potash + Urea
+Laterite,30.55,9.45,95.16,0.66,5.57,Cashew,Organic Mix
+Alluvial,67.14,28.5,151.42,1.34,6.65,Sugarcane,Urea + MOP
+Red,53.37,17.41,123.19,0.67,5.64,Groundnut,SSP + Urea
+Red,52.61,10.92,160.48,0.65,5.83,Millets,SSP + Urea
+Black,40.32,15.73,243.47,1.18,7.46,Pulses,NPK 20:20:0
+Alluvial,79.15,39.03,170.55,1.24,7.04,Sugarcane,Urea + DAP
+Red,55.69,8.15,145.77,0.68,6.18,Groundnut,SSP + Urea
+Black,33.97,18.77,264.74,2.04,8.24,Pulses,Potash + Urea
+Alluvial,81.7,34.54,201.67,1.04,6.77,Wheat,Urea + MOP
+Red,33.24,15.14,117.78,0.63,6.21,Groundnut,Gypsum + SSP
+Red,28.29,12.99,126.7,0.51,5.69,Maize,SSP + Urea
+Red,45.15,15.57,143.88,0.56,6.04,Millets,SSP + Urea
+Laterite,35.97,8.72,112.92,0.35,5.3,Tea,Organic Mix
+Alluvial,77.53,28.41,204.9,0.98,6.52,Sugarcane,Urea + MOP
+Alluvial,79.68,38.94,191.77,1.35,6.58,Maize,Urea + DAP
+Red,61.93,18.74,152.07,0.8,5.57,Groundnut,SSP + Urea
+Black,41.75,16.98,253.78,1.18,8.53,Pulses,NPK 20:20:0
+Red,48.19,9.79,131.49,0.59,5.85,Millets,SSP + Urea
+Red,58.6,10.37,135.1,0.54,6.12,Groundnut,SSP + Urea
+Laterite,12.68,6.76,86.89,0.57,5.02,Rubber,Organic Mix
+Laterite,10.46,6.92,85.39,0.68,4.84,Rubber,Organic Compost
+Alluvial,89.89,29.2,168.01,1.06,7.08,Sugarcane,Urea + DAP
+Red,32.93,9.88,101.64,0.61,6.33,Maize,SSP + Urea
+Laterite,15.84,6.36,135.68,0.57,4.91,Rubber,Organic Compost
+Alluvial,78.71,36.59,164.92,1.27,7.44,Rice,Urea + DAP
+Black,40.84,18.52,290.4,1.49,7.19,Cotton,NPK 20:20:0
+Laterite,28.83,7.54,130.5,0.44,4.85,Rubber,Organic Compost
+Red,44.56,9.6,169.0,0.37,5.75,Maize,SSP + Urea
+Alluvial,64.46,34.67,198.17,1.15,6.82,Maize,Urea + MOP
+Alluvial,54.48,32.9,153.01,1.17,6.78,Sugarcane,Urea + DAP
+Black,44.34,20.92,252.78,2.25,7.95,Soybean,NPK 20:20:0
+Alluvial,61.47,30.68,153.36,1.08,7.65,Rice,NPK 10:26:26
+Laterite,19.76,7.23,94.51,0.5,5.2,Tea,Organic Compost
+Black,33.4,24.58,275.35,1.37,8.0,Pulses,Potash + Urea
+Black,39.46,23.46,328.9,1.78,8.57,Pulses,NPK 20:20:0
+Laterite,34.8,4.76,79.52,0.41,5.52,Cashew,Organic Mix
+Alluvial,66.72,31.67,169.05,1.3,6.8,Maize,NPK 10:26:26
+Alluvial,83.53,18.63,206.91,0.93,7.63,Wheat,Urea + MOP
+Alluvial,77.29,27.03,190.03,0.83,6.63,Maize,Urea + MOP
+Red,33.62,9.19,158.06,0.58,6.29,Maize,SSP + Urea
+Alluvial,66.88,37.94,191.27,1.3,6.55,Maize,Urea + MOP
+Laterite,17.13,5.08,123.3,0.58,5.07,Cashew,Organic Mix
+Red,26.22,14.88,122.97,0.59,6.33,Maize,SSP + Urea
+Alluvial,86.96,29.29,156.62,1.06,6.63,Wheat,NPK 10:26:26
+Alluvial,71.82,33.48,170.42,1.08,7.32,Sugarcane,Urea + MOP
+Alluvial,83.34,40.96,154.77,1.23,6.91,Maize,Urea + MOP
+Red,60.08,16.13,149.2,0.76,6.18,Maize,SSP + Urea
+Laterite,24.27,7.58,130.06,0.32,5.62,Tea,Organic Compost
+Black,41.94,23.06,286.01,1.68,7.96,Soybean,Potash + Urea
+Laterite,21.12,11.24,101.32,0.59,4.58,Rubber,Organic Mix
+Black,26.06,23.75,259.98,1.52,7.43,Cotton,Potash + Urea
+Alluvial,62.69,37.71,189.25,0.85,6.93,Sugarcane,Urea + MOP
+Black,33.0,15.28,256.85,1.37,7.82,Soybean,NPK 20:20:0
+Black,26.65,17.41,260.29,1.2,7.29,Pulses,NPK 20:20:0
+Laterite,31.85,7.84,126.7,0.71,5.45,Rubber,Organic Compost
+Black,30.2,15.03,333.73,0.97,7.44,Pulses,Potash + Urea
+Alluvial,69.43,34.52,198.73,0.97,7.02,Rice,NPK 10:26:26
+Alluvial,63.51,24.03,201.64,0.95,7.22,Sugarcane,NPK 10:26:26
+Red,56.92,13.7,151.35,0.44,6.08,Millets,Gypsum + SSP
+Black,28.97,10.37,280.99,1.36,7.75,Pulses,Potash + Urea
+Laterite,11.47,5.53,94.24,0.51,4.65,Tea,Organic Compost
+Alluvial,63.11,36.0,157.66,1.27,7.12,Wheat,NPK 10:26:26
+Red,42.54,14.91,117.31,0.44,5.94,Groundnut,Gypsum + SSP
+Alluvial,83.68,24.94,188.79,1.14,6.63,Wheat,Urea + MOP
+Alluvial,85.48,36.74,186.15,1.23,7.25,Rice,Urea + MOP
+Red,56.23,11.94,154.2,0.64,6.41,Groundnut,SSP + Urea
+Black,18.64,17.05,310.92,1.05,7.62,Cotton,NPK 20:20:0
+Laterite,25.27,9.76,96.02,0.62,5.61,Cashew,Organic Mix
+Laterite,12.81,4.87,103.63,0.3,5.38,Rubber,Organic Compost
+Black,43.41,12.85,344.69,2.07,7.47,Pulses,Potash + Urea
+Red,33.19,16.98,127.06,0.69,5.58,Maize,SSP + Urea
+Red,45.37,16.34,118.79,0.54,5.74,Groundnut,SSP + Urea
+Black,20.82,16.72,292.96,1.69,7.43,Pulses,Potash + Urea
+Black,40.73,17.34,315.65,0.97,8.43,Cotton,Potash + Urea
+Black,29.73,10.87,244.15,2.0,7.49,Cotton,NPK 20:20:0
+Laterite,26.84,7.81,105.52,0.37,4.46,Cashew,Organic Mix
+Black,44.14,11.04,288.77,1.52,8.34,Cotton,Potash + Urea
+Laterite,16.62,7.9,118.26,0.53,4.88,Cashew,Organic Compost
+Laterite,10.43,7.55,83.84,0.54,5.16,Tea,Organic Compost
+Red,37.6,12.33,110.18,0.61,5.78,Groundnut,Gypsum + SSP
+Black,27.44,10.92,249.02,1.01,7.51,Cotton,Potash + Urea
+Alluvial,66.96,21.58,221.01,1.08,6.77,Wheat,Urea + DAP
+Red,26.21,13.83,116.11,0.59,5.96,Maize,SSP + Urea
+Black,30.56,16.36,272.52,1.28,7.23,Pulses,Potash + Urea
+Red,35.99,14.57,141.57,0.56,6.16,Maize,SSP + Urea
+Red,48.62,11.15,162.26,0.87,5.87,Millets,SSP + Urea
+Red,40.81,13.51,114.63,0.54,5.85,Maize,Gypsum + SSP
+Black,30.99,21.06,272.44,1.12,7.37,Cotton,NPK 20:20:0
+Black,28.39,16.23,252.59,1.72,7.72,Soybean,Potash + Urea
+Black,42.37,23.81,261.49,1.12,8.06,Pulses,Potash + Urea
+Alluvial,74.45,21.7,203.35,0.83,6.74,Sugarcane,NPK 10:26:26
+Black,43.93,22.89,238.09,1.66,8.03,Soybean,Potash + Urea
+Red,53.03,8.28,124.05,0.39,5.61,Groundnut,SSP + Urea
+Red,46.55,8.13,169.96,0.53,5.79,Millets,Gypsum + SSP
+Alluvial,83.25,24.08,224.65,1.31,6.53,Maize,Urea + DAP
+Black,36.71,16.94,308.01,1.83,7.2,Soybean,NPK 20:20:0
+Laterite,15.17,6.34,79.84,0.52,5.47,Rubber,Organic Compost
+Red,50.02,14.01,133.91,0.58,5.5,Millets,SSP + Urea
+Red,43.31,13.18,113.5,0.77,5.68,Groundnut,SSP + Urea
+Black,32.25,17.26,298.7,1.93,7.99,Pulses,Potash + Urea
+Black,31.73,20.73,285.63,2.1,7.56,Soybean,Potash + Urea
+Alluvial,76.07,31.34,180.24,1.14,6.86,Maize,NPK 10:26:26
+Red,28.14,13.36,117.0,0.67,5.55,Millets,Gypsum + SSP
+Alluvial,66.58,36.32,208.97,1.31,7.36,Wheat,Urea + MOP
+Laterite,12.16,12.11,115.99,0.46,4.96,Cashew,Organic Compost
+Laterite,20.05,6.56,107.99,0.41,5.59,Tea,Organic Mix
+Red,43.63,8.49,149.51,0.89,5.63,Millets,Gypsum + SSP
+Alluvial,76.78,37.92,200.1,1.18,6.71,Wheat,NPK 10:26:26
+Laterite,35.46,5.81,112.18,0.51,4.61,Cashew,Organic Compost
+Black,23.86,25.06,273.53,0.99,8.29,Pulses,NPK 20:20:0
+Laterite,31.98,11.63,94.71,0.31,4.32,Cashew,Organic Compost
+Red,36.79,9.9,142.68,0.53,6.39,Groundnut,Gypsum + SSP
+Alluvial,70.5,25.48,221.48,1.05,6.91,Sugarcane,Urea + MOP
+Red,49.67,11.92,139.62,0.52,5.6,Maize,SSP + Urea
+Alluvial,71.95,38.3,155.66,1.26,6.65,Sugarcane,NPK 10:26:26
+Alluvial,79.13,24.86,147.13,1.3,6.85,Sugarcane,NPK 10:26:26
+Laterite,33.83,6.68,109.21,0.64,4.72,Rubber,Organic Mix
+Alluvial,85.34,29.43,170.67,1.34,7.51,Rice,Urea + MOP
+Laterite,10.33,8.11,111.27,0.51,4.73,Rubber,Organic Mix
+Black,21.47,13.04,295.41,1.32,7.56,Pulses,Potash + Urea
+Red,55.82,14.06,136.55,0.48,5.94,Groundnut,SSP + Urea
+Red,54.95,8.86,167.46,0.92,6.37,Maize,Gypsum + SSP
+Alluvial,85.24,34.14,178.18,0.79,6.82,Rice,NPK 10:26:26
+Red,54.96,15.44,152.04,0.51,6.45,Millets,Gypsum + SSP
+Alluvial,56.05,37.35,199.91,1.3,6.96,Rice,NPK 10:26:26
+Red,53.66,9.23,149.78,0.88,5.82,Maize,SSP + Urea
+Red,55.18,10.49,116.23,0.8,6.4,Groundnut,Gypsum + SSP
+Laterite,27.37,9.32,83.7,0.48,5.74,Cashew,Organic Compost
+Alluvial,58.59,29.14,159.32,1.0,6.91,Rice,NPK 10:26:26
+Alluvial,61.02,38.38,161.3,1.22,7.09,Maize,NPK 10:26:26
+Laterite,26.21,10.24,129.95,0.58,4.65,Tea,Organic Compost
+Alluvial,65.09,33.26,197.05,1.09,7.23,Wheat,Urea + DAP
+Black,29.26,18.53,269.15,1.08,8.12,Pulses,NPK 20:20:0
+Black,23.33,20.93,322.61,1.15,7.7,Soybean,NPK 20:20:0
+Laterite,23.28,7.09,133.46,0.68,5.59,Rubber,Organic Mix
+Black,22.32,10.2,270.64,2.12,7.85,Soybean,Potash + Urea
+Alluvial,83.97,36.41,197.05,0.95,7.44,Rice,NPK 10:26:26
+Alluvial,82.03,33.88,170.05,1.3,7.05,Sugarcane,Urea + MOP
+Red,37.88,11.68,168.88,0.45,5.75,Groundnut,Gypsum + SSP
+Red,37.81,15.98,163.66,0.88,5.53,Maize,SSP + Urea
+Black,29.22,21.16,296.18,2.04,7.65,Pulses,NPK 20:20:0
+Red,45.93,8.57,163.45,0.88,6.13,Maize,SSP + Urea
+Alluvial,87.88,38.37,219.72,0.82,7.26,Maize,Urea + DAP
+Red,26.34,12.06,151.94,0.83,5.71,Millets,Gypsum + SSP
+Alluvial,91.16,26.86,172.45,1.38,7.23,Sugarcane,NPK 10:26:26
+Red,40.0,11.25,127.1,0.79,6.5,Maize,Gypsum + SSP
+Black,32.76,16.59,321.32,1.53,7.61,Soybean,Potash + Urea
+Black,33.89,20.83,278.11,1.28,7.01,Soybean,NPK 20:20:0
+Alluvial,83.57,29.9,164.65,0.93,6.97,Wheat,Urea + MOP
+Alluvial,77.0,36.34,173.37,0.93,7.04,Maize,NPK 10:26:26
+Red,44.2,12.53,158.12,0.92,6.25,Maize,SSP + Urea
+Red,49.15,15.64,130.19,0.82,5.64,Maize,SSP + Urea
+Laterite,22.62,10.81,97.86,0.41,4.64,Cashew,Organic Mix
+Laterite,17.64,7.13,124.17,0.45,5.63,Rubber,Organic Compost
+Black,35.8,21.93,261.9,1.49,7.38,Soybean,NPK 20:20:0
+Red,40.66,11.08,156.1,0.71,6.13,Groundnut,Gypsum + SSP
+Laterite,25.71,8.76,119.65,0.36,4.79,Rubber,Organic Compost
+Black,24.01,15.26,312.32,1.34,7.13,Pulses,NPK 20:20:0
+Red,27.07,8.21,118.74,0.83,6.33,Groundnut,SSP + Urea
+Red,39.53,14.42,151.63,0.67,6.02,Millets,SSP + Urea
+Red,38.24,10.41,109.41,0.58,6.43,Groundnut,Gypsum + SSP
+Black,39.81,15.9,315.93,1.48,8.12,Cotton,Potash + Urea
+Laterite,19.21,9.7,99.28,0.54,5.09,Tea,Organic Compost
+Black,20.35,19.78,300.5,1.99,6.96,Soybean,NPK 20:20:0
+Red,55.9,9.91,157.96,0.55,6.2,Millets,SSP + Urea
+Laterite,23.92,4.96,125.58,0.37,5.66,Tea,Organic Compost
+Red,40.65,14.84,149.34,0.7,6.46,Groundnut,SSP + Urea
+Red,29.12,10.41,137.58,0.93,5.71,Groundnut,Gypsum + SSP
+Laterite,33.43,9.4,81.47,0.63,5.81,Cashew,Organic Mix
+Alluvial,62.08,38.09,168.39,1.23,6.8,Maize,NPK 10:26:26
+Alluvial,90.33,23.7,209.14,1.1,7.29,Maize,Urea + DAP
+Alluvial,71.36,37.59,217.67,1.24,7.34,Rice,Urea + DAP
+Laterite,11.74,8.06,87.58,0.55,4.79,Tea,Organic Mix
+Red,31.32,14.99,159.36,0.73,6.24,Maize,SSP + Urea
+Laterite,31.14,6.48,115.85,0.53,4.56,Tea,Organic Mix
+Laterite,24.07,6.7,92.05,0.38,5.31,Cashew,Organic Compost
+Alluvial,66.17,32.43,171.13,1.31,6.55,Sugarcane,NPK 10:26:26
+Alluvial,76.38,20.64,171.14,0.77,7.0,Rice,Urea + DAP
+Alluvial,64.31,31.37,186.97,0.81,7.21,Maize,Urea + MOP
+Alluvial,86.54,20.78,214.73,1.11,7.05,Rice,Urea + MOP
+Red,38.54,16.52,152.18,0.74,6.46,Maize,SSP + Urea
+Alluvial,64.31,38.48,184.07,1.21,7.3,Sugarcane,Urea + MOP
+Red,59.75,17.09,112.04,0.91,5.72,Maize,SSP + Urea
+Alluvial,66.9,36.77,223.04,1.24,6.87,Maize,NPK 10:26:26
+Red,58.36,8.11,157.31,0.8,5.4,Groundnut,Gypsum + SSP
+Red,57.8,11.28,139.45,0.81,6.48,Millets,Gypsum + SSP
+Black,27.99,10.53,314.91,2.16,7.47,Soybean,NPK 20:20:0
+Red,37.8,16.47,169.58,0.61,6.47,Millets,SSP + Urea
+Red,40.84,13.76,139.25,0.83,5.63,Millets,Gypsum + SSP
+Alluvial,87.2,23.69,190.14,0.91,6.94,Wheat,Urea + MOP
+Red,32.47,17.08,139.32,0.77,5.58,Millets,Gypsum + SSP
+Black,38.84,16.52,323.67,1.44,8.03,Soybean,NPK 20:20:0
+Red,44.32,15.11,166.96,0.45,5.5,Maize,Gypsum + SSP
+Laterite,32.61,10.46,120.78,0.3,4.94,Tea,Organic Mix
+Laterite,29.51,7.43,103.1,0.56,5.64,Tea,Organic Mix
+Black,27.97,18.27,306.46,1.22,7.46,Pulses,Potash + Urea
+Black,27.97,15.64,330.54,2.16,7.42,Soybean,NPK 20:20:0
+Laterite,12.1,8.58,120.1,0.59,5.06,Tea,Organic Mix
+Laterite,13.68,9.57,124.71,0.43,4.82,Tea,Organic Compost
+Laterite,24.15,4.89,92.53,0.42,5.24,Tea,Organic Mix
+Laterite,28.71,6.0,109.4,0.55,5.72,Rubber,Organic Compost
+Laterite,28.86,7.64,98.71,0.7,5.22,Rubber,Organic Compost
+Red,42.05,15.0,151.11,0.48,5.52,Maize,SSP + Urea
+Black,19.84,17.82,299.65,1.5,7.72,Pulses,Potash + Urea
+Laterite,19.24,5.48,96.29,0.51,4.89,Tea,Organic Compost
+Laterite,21.75,5.95,85.26,0.4,4.88,Tea,Organic Compost
+Red,29.86,16.84,145.18,0.6,6.45,Maize,SSP + Urea
+Red,50.01,15.43,111.53,0.63,6.56,Groundnut,SSP + Urea
+Laterite,35.12,5.71,80.21,0.52,4.73,Tea,Organic Mix
+Black,46.45,19.99,277.81,1.36,7.6,Soybean,NPK 20:20:0
+Red,37.82,14.22,110.17,0.76,6.45,Millets,Gypsum + SSP
+Laterite,34.34,7.59,80.83,0.3,4.74,Cashew,Organic Compost
+Laterite,23.58,12.21,120.93,0.33,4.85,Rubber,Organic Mix
+Black,30.25,19.75,252.02,2.05,8.55,Soybean,NPK 20:20:0
+Laterite,11.59,7.43,91.76,0.27,4.88,Tea,Organic Compost
+Laterite,19.47,9.2,93.97,0.35,5.8,Cashew,Organic Mix
+Alluvial,60.97,28.53,157.97,1.09,7.22,Wheat,NPK 10:26:26
+Black,31.87,15.14,336.88,1.89,7.85,Pulses,Potash + Urea
+Laterite,24.22,6.32,88.31,0.4,5.02,Cashew,Organic Mix
+Laterite,11.7,11.23,82.18,0.61,5.49,Tea,Organic Mix
+Laterite,32.66,6.58,127.85,0.42,5.32,Rubber,Organic Compost
+Red,46.94,15.43,142.04,0.85,5.89,Millets,Gypsum + SSP
+Black,32.85,21.97,302.81,0.99,8.11,Pulses,Potash + Urea
+Alluvial,68.51,23.08,189.62,0.98,6.93,Maize,NPK 10:26:26
+Red,49.7,9.39,126.37,0.85,5.5,Millets,SSP + Urea
+Alluvial,71.97,35.73,168.28,0.8,6.91,Wheat,NPK 10:26:26
+Alluvial,65.89,21.23,180.59,1.01,7.19,Wheat,Urea + MOP
+Laterite,29.24,6.97,107.93,0.58,5.66,Rubber,Organic Mix
+Black,34.44,18.63,285.42,1.66,7.62,Pulses,NPK 20:20:0
+Alluvial,65.41,24.45,178.8,0.81,6.74,Rice,Urea + DAP
+Black,44.12,18.88,279.86,1.52,7.18,Cotton,Potash + Urea
+Laterite,11.43,8.08,120.0,0.57,5.55,Rubber,Organic Compost
+Black,27.45,13.22,273.64,1.23,7.9,Soybean,Potash + Urea
+Laterite,23.72,8.36,104.38,0.45,4.87,Cashew,Organic Mix
+Black,43.45,22.45,272.72,0.97,7.19,Pulses,Potash + Urea
+Laterite,11.47,6.24,94.31,0.58,5.85,Rubber,Organic Mix
+Black,31.99,12.06,338.19,1.68,7.39,Cotton,Potash + Urea
+Black,31.3,10.33,283.32,2.01,7.24,Soybean,NPK 20:20:0
+Red,43.72,15.43,151.91,0.85,5.87,Millets,Gypsum + SSP
+Black,30.07,23.53,318.71,1.7,7.84,Pulses,NPK 20:20:0
+Laterite,21.12,5.14,106.61,0.48,5.27,Rubber,Organic Compost
+Red,25.1,14.56,130.7,0.4,5.91,Millets,Gypsum + SSP
+Red,34.73,14.62,125.26,0.76,5.96,Millets,SSP + Urea
+Laterite,27.49,9.76,127.92,0.41,5.84,Tea,Organic Mix
+Alluvial,58.74,34.74,154.08,1.4,6.77,Sugarcane,Urea + MOP
+Alluvial,79.93,26.12,180.31,1.12,7.5,Sugarcane,Urea + MOP
+Alluvial,82.7,18.68,182.37,1.25,7.17,Sugarcane,Urea + MOP
+Laterite,34.94,9.21,108.07,0.34,5.96,Tea,Organic Compost
+Black,35.51,19.02,319.1,1.59,8.01,Cotton,NPK 20:20:0
+Laterite,14.24,8.49,82.3,0.45,4.8,Tea,Organic Compost
+Laterite,21.23,12.9,109.34,0.7,5.36,Cashew,Organic Compost
+Laterite,14.47,11.86,101.13,0.43,5.09,Cashew,Organic Mix
+Laterite,9.28,9.8,124.51,0.72,4.94,Cashew,Organic Mix
+Alluvial,55.62,38.81,196.58,0.88,7.33,Rice,Urea + MOP
+Alluvial,65.88,38.47,158.46,1.41,7.52,Sugarcane,Urea + MOP
+Laterite,13.32,9.72,106.25,0.4,5.54,Rubber,Organic Mix
+Laterite,21.04,11.92,95.13,0.67,4.91,Tea,Organic Mix
+Laterite,28.29,12.31,76.77,0.64,4.82,Cashew,Organic Mix
+Laterite,25.54,10.54,108.75,0.57,4.64,Tea,Organic Mix
+Red,60.36,9.07,149.65,0.52,5.79,Maize,SSP + Urea
+Black,19.78,21.36,331.28,1.77,7.95,Soybean,NPK 20:20:0
+Red,55.2,12.07,157.22,0.88,5.7,Maize,Gypsum + SSP
+Alluvial,58.87,20.8,202.7,1.18,6.57,Rice,Urea + MOP
+Red,58.98,20.86,161.97,0.9,5.71,Maize,SSP + Urea
+Black,35.49,19.25,251.06,1.68,7.18,Pulses,Potash + Urea
+Laterite,15.32,11.32,124.64,0.33,4.98,Tea,Organic Compost
+Laterite,26.8,5.72,124.06,0.35,4.57,Rubber,Organic Mix
+Laterite,30.7,4.9,99.19,0.38,5.26,Tea,Organic Compost
+Red,43.79,11.76,125.98,0.83,5.71,Millets,Gypsum + SSP
+Laterite,31.53,7.7,122.28,0.63,5.45,Tea,Organic Compost
+Laterite,25.07,8.02,99.7,0.34,4.64,Cashew,Organic Mix
+Laterite,33.63,6.93,112.23,0.47,4.81,Rubber,Organic Compost
+Red,40.35,15.66,164.4,0.41,5.93,Millets,SSP + Urea
+Red,28.5,11.71,113.22,0.87,5.79,Millets,SSP + Urea
+Black,27.12,15.45,294.45,2.11,7.78,Pulses,Potash + Urea
+Alluvial,80.09,33.32,184.65,1.21,7.45,Maize,Urea + DAP
+Red,45.71,14.56,128.84,0.87,5.96,Maize,SSP + Urea
+Alluvial,61.91,32.61,218.22,1.22,6.54,Sugarcane,Urea + DAP
+Laterite,12.01,6.91,128.48,0.47,5.56,Cashew,Organic Mix
+Laterite,22.39,11.34,106.63,0.56,5.63,Tea,Organic Mix
+Black,37.84,23.45,246.89,1.32,7.81,Pulses,Potash + Urea
+Alluvial,80.45,31.5,160.72,1.09,7.13,Sugarcane,NPK 10:26:26
+Red,39.22,10.91,113.67,0.75,6.44,Millets,SSP + Urea
+Black,19.83,25.27,316.17,1.82,8.4,Soybean,Potash + Urea
+Alluvial,74.3,27.58,167.73,1.34,6.6,Rice,Urea + MOP
+Red,36.34,8.05,161.64,0.41,5.72,Millets,Gypsum + SSP
+Red,28.59,7.88,141.19,0.45,5.86,Millets,SSP + Urea
+Alluvial,74.53,35.7,207.62,1.39,7.38,Wheat,NPK 10:26:26
+Black,24.72,15.04,294.6,1.13,8.19,Cotton,Potash + Urea
+Black,41.91,13.42,309.18,1.84,8.22,Pulses,Potash + Urea
+Red,39.71,17.51,164.67,0.36,6.3,Maize,Gypsum + SSP
+Laterite,24.21,9.11,94.49,0.53,4.35,Tea,Organic Compost
+Alluvial,68.44,38.71,155.37,0.92,6.97,Maize,Urea + DAP
+Black,36.49,20.24,246.2,1.01,7.63,Soybean,Potash + Urea
+Red,52.31,18.1,113.99,0.43,5.88,Millets,SSP + Urea
+Red,56.19,15.64,113.9,0.64,6.07,Groundnut,Gypsum + SSP
+Black,43.38,16.54,331.28,1.43,8.05,Soybean,NPK 20:20:0
+Red,27.78,15.18,162.49,0.85,5.75,Groundnut,Gypsum + SSP
+Alluvial,68.52,28.23,198.8,1.16,7.03,Rice,NPK 10:26:26
+Black,28.13,21.1,339.26,1.32,8.06,Cotton,Potash + Urea
+Black,26.86,24.88,248.04,1.12,8.13,Soybean,NPK 20:20:0
+Black,24.14,10.09,295.4,1.08,8.12,Soybean,NPK 20:20:0
+Laterite,26.28,5.57,91.03,0.36,4.79,Tea,Organic Compost
+Laterite,24.93,10.06,119.98,0.56,5.27,Rubber,Organic Mix
+Black,38.38,14.85,279.48,1.7,7.75,Soybean,NPK 20:20:0
+Black,28.42,13.24,275.78,1.03,8.27,Soybean,Potash + Urea
+Red,36.27,7.37,167.93,0.54,5.93,Millets,SSP + Urea
+Red,34.3,13.25,146.68,0.6,6.21,Millets,Gypsum + SSP
+Laterite,27.19,4.48,103.36,0.61,5.39,Cashew,Organic Mix
+Red,58.97,13.49,112.95,0.68,5.87,Maize,Gypsum + SSP
+Laterite,15.48,10.06,128.48,0.45,5.27,Tea,Organic Mix
+Laterite,30.01,4.71,116.11,0.35,5.72,Tea,Organic Mix
+Alluvial,64.7,35.26,161.32,1.07,6.42,Maize,Urea + MOP
+Black,26.5,23.38,332.89,2.17,7.85,Pulses,NPK 20:20:0
+Laterite,35.57,8.42,108.74,0.49,4.99,Tea,Organic Compost
+Alluvial,82.85,23.27,167.93,1.04,6.52,Maize,NPK 10:26:26
+Black,35.3,8.97,284.18,1.3,8.27,Soybean,NPK 20:20:0
+Black,41.15,13.38,262.9,1.6,7.11,Pulses,NPK 20:20:0
+Black,31.96,12.07,311.83,1.71,7.97,Pulses,NPK 20:20:0
+Laterite,30.39,9.01,86.83,0.36,5.18,Tea,Organic Mix
+Laterite,32.8,6.52,119.34,0.71,4.52,Tea,Organic Mix
+Alluvial,62.98,29.23,159.09,0.99,7.02,Rice,Urea + DAP
+Black,40.9,13.21,250.67,1.3,8.11,Soybean,NPK 20:20:0
+Black,30.84,22.49,285.46,1.04,8.39,Pulses,Potash + Urea
+Black,25.49,19.55,326.63,1.12,8.07,Pulses,NPK 20:20:0
+Alluvial,77.57,38.02,205.17,0.82,6.49,Maize,NPK 10:26:26
+Laterite,30.18,7.59,100.89,0.58,5.43,Tea,Organic Compost
+Black,34.3,17.86,252.89,1.39,8.2,Pulses,Potash + Urea
+Laterite,34.03,5.13,86.7,0.73,4.27,Tea,Organic Mix
+Laterite,26.53,11.05,103.36,0.56,5.12,Cashew,Organic Mix
+Black,26.82,19.38,338.4,1.44,7.85,Pulses,Potash + Urea
+Laterite,22.12,5.88,99.99,0.31,5.67,Rubber,Organic Compost
+Alluvial,64.08,23.19,207.74,1.11,6.8,Wheat,NPK 10:26:26
+Red,56.65,15.06,147.02,0.94,5.82,Groundnut,SSP + Urea
+Alluvial,70.04,30.19,200.1,1.12,6.74,Rice,Urea + DAP
+Alluvial,85.31,36.47,196.8,1.26,6.6,Wheat,Urea + DAP
+Black,29.02,13.58,332.92,1.94,7.15,Pulses,Potash + Urea
+Black,35.45,23.14,324.05,1.78,7.59,Cotton,NPK 20:20:0
+Alluvial,68.44,22.67,161.42,1.4,6.64,Wheat,Urea + DAP
+Red,37.1,11.75,138.47,0.87,6.51,Maize,Gypsum + SSP
+Black,30.78,23.94,299.75,1.08,7.45,Soybean,Potash + Urea
+Alluvial,87.55,27.44,199.93,0.82,6.73,Maize,Urea + MOP
+Alluvial,62.33,30.2,181.82,1.01,6.98,Wheat,Urea + MOP
+Black,23.93,26.14,340.87,2.02,7.42,Cotton,NPK 20:20:0
+Alluvial,83.18,34.71,191.93,1.04,6.5,Sugarcane,NPK 10:26:26
+Alluvial,74.49,30.94,173.51,1.3,7.21,Wheat,Urea + DAP
+Laterite,12.64,11.61,109.32,0.56,4.83,Rubber,Organic Compost
+Red,32.61,11.47,151.64,0.9,6.22,Millets,SSP + Urea
+Black,31.57,19.13,265.7,1.76,8.41,Pulses,Potash + Urea
+Alluvial,90.55,30.24,161.51,1.16,7.1,Sugarcane,Urea + MOP
+Black,35.79,22.52,265.63,1.44,8.63,Pulses,NPK 20:20:0
+Black,35.94,14.72,316.99,1.46,8.52,Cotton,Potash + Urea
+Alluvial,57.37,19.95,169.3,1.27,6.98,Maize,NPK 10:26:26
+Red,22.79,11.74,170.37,0.68,6.33,Maize,SSP + Urea
+Alluvial,85.42,31.27,189.95,1.01,6.94,Sugarcane,Urea + DAP
+Black,24.31,21.13,325.97,1.01,7.34,Soybean,Potash + Urea
+Laterite,14.65,9.59,97.49,0.45,5.12,Tea,Organic Compost
+Alluvial,62.44,33.84,181.76,0.95,6.85,Sugarcane,Urea + DAP
+Laterite,13.17,9.43,125.53,0.52,5.26,Rubber,Organic Mix
+Laterite,10.99,7.91,136.55,0.27,5.64,Cashew,Organic Mix
+Red,29.63,18.17,123.44,0.46,5.54,Millets,SSP + Urea
+Laterite,31.67,8.32,125.78,0.6,4.49,Cashew,Organic Compost
+Red,34.1,9.57,135.93,0.46,5.73,Groundnut,Gypsum + SSP
+Alluvial,60.93,37.23,207.31,1.24,6.55,Sugarcane,NPK 10:26:26
+Alluvial,58.08,36.36,179.19,1.25,6.54,Maize,Urea + MOP
+Black,38.73,10.26,270.59,2.0,7.5,Pulses,NPK 20:20:0
+Alluvial,62.59,40.14,176.25,1.14,7.09,Wheat,NPK 10:26:26
+Laterite,12.66,6.16,119.44,0.66,4.45,Rubber,Organic Mix
+Laterite,10.91,11.05,102.02,0.37,4.66,Cashew,Organic Compost
+Black,31.77,17.78,281.8,1.36,7.58,Cotton,NPK 20:20:0
+Red,33.37,16.01,114.42,0.45,6.43,Groundnut,Gypsum + SSP
+Red,41.11,16.83,142.74,0.91,6.08,Groundnut,Gypsum + SSP
+Alluvial,80.95,34.51,179.55,0.88,7.38,Sugarcane,Urea + DAP
+Alluvial,74.01,22.27,159.72,1.38,6.66,Maize,Urea + MOP
+Black,28.92,15.92,297.49,1.6,7.12,Soybean,NPK 20:20:0
+Laterite,14.69,7.91,121.71,0.3,5.63,Tea,Organic Compost
+Red,29.44,9.17,140.24,0.49,5.67,Groundnut,Gypsum + SSP
+Laterite,25.0,7.85,100.92,0.3,4.82,Rubber,Organic Compost
+Alluvial,89.19,36.87,189.39,0.92,6.82,Wheat,NPK 10:26:26
+Alluvial,79.45,27.47,181.54,0.9,7.02,Rice,NPK 10:26:26
+Black,26.29,12.43,293.07,1.62,7.97,Pulses,Potash + Urea
+Laterite,32.3,8.14,128.78,0.71,4.97,Rubber,Organic Mix
+Laterite,15.38,10.12,75.63,0.32,4.75,Cashew,Organic Mix
+Red,44.71,17.59,121.5,0.74,5.54,Millets,Gypsum + SSP
+Red,28.6,18.62,144.83,0.75,6.2,Millets,Gypsum + SSP
+Red,45.53,14.69,115.42,0.83,6.0,Maize,Gypsum + SSP
+Red,26.76,13.68,132.48,0.78,6.52,Millets,Gypsum + SSP
+Alluvial,62.67,37.12,167.44,1.4,7.33,Sugarcane,Urea + MOP
+Alluvial,62.98,24.96,180.55,0.89,7.39,Wheat,Urea + DAP
+Laterite,22.02,7.95,96.5,0.64,4.6,Rubber,Organic Mix
+Alluvial,73.77,29.55,202.45,1.1,6.44,Wheat,Urea + DAP
+Black,38.17,23.41,307.4,2.08,8.71,Soybean,NPK 20:20:0
+Laterite,14.58,11.07,91.75,0.32,4.85,Tea,Organic Compost
+Red,54.12,11.13,132.62,0.74,5.76,Maize,SSP + Urea
+Alluvial,91.89,26.14,208.73,0.95,6.59,Maize,Urea + DAP
+Laterite,34.71,5.04,129.15,0.72,5.63,Rubber,Organic Compost
+Black,33.43,15.42,317.22,1.8,7.7,Soybean,Potash + Urea
+Alluvial,83.03,24.62,180.79,0.99,7.17,Maize,NPK 10:26:26
+Alluvial,55.96,36.5,155.09,1.02,7.5,Sugarcane,Urea + DAP
+Alluvial,91.45,32.37,162.81,0.94,7.03,Maize,Urea + DAP
+Black,43.18,22.48,331.06,1.52,7.7,Soybean,Potash + Urea
+Laterite,24.98,11.72,120.05,0.58,4.97,Tea,Organic Compost
+Alluvial,54.08,40.88,156.11,1.11,7.38,Sugarcane,Urea + DAP
+Laterite,16.92,11.34,92.67,0.65,4.78,Cashew,Organic Compost
+Alluvial,61.75,26.86,188.63,1.4,7.35,Maize,NPK 10:26:26
+Black,43.02,21.54,327.31,2.04,7.6,Pulses,Potash + Urea
+Red,25.56,9.98,159.32,0.51,5.75,Maize,Gypsum + SSP
+Black,30.61,14.11,318.48,2.06,7.01,Soybean,NPK 20:20:0
+Red,34.01,17.44,142.02,0.69,6.08,Maize,SSP + Urea
+Black,43.41,19.94,307.7,1.84,8.24,Cotton,Potash + Urea
+Red,31.68,14.39,115.77,0.6,5.81,Groundnut,Gypsum + SSP
+Black,33.97,24.18,310.48,1.87,7.84,Pulses,Potash + Urea
+Laterite,26.94,10.06,94.85,0.54,5.35,Rubber,Organic Mix
+Red,45.1,10.9,150.49,0.94,6.32,Millets,Gypsum + SSP
+Alluvial,81.04,26.77,211.62,0.81,6.69,Rice,Urea + MOP
+Alluvial,80.23,25.7,159.14,1.11,6.66,Rice,Urea + MOP
+Black,33.04,10.35,311.86,1.11,7.56,Soybean,NPK 20:20:0
+Red,52.13,9.53,111.84,0.8,6.31,Groundnut,SSP + Urea
+Laterite,25.67,7.14,101.42,0.56,5.15,Rubber,Organic Compost
+Alluvial,76.77,24.12,213.5,1.15,6.45,Maize,Urea + MOP
+Alluvial,71.91,38.79,150.45,1.28,6.68,Rice,Urea + DAP
+Red,50.24,8.54,121.7,0.74,6.22,Millets,Gypsum + SSP
+Red,28.42,16.19,130.84,0.77,6.18,Maize,Gypsum + SSP
+Laterite,19.88,13.35,91.25,0.54,4.65,Rubber,Organic Compost
+Laterite,22.57,10.12,96.17,0.68,5.52,Rubber,Organic Mix
+Alluvial,81.85,34.38,198.52,1.07,7.23,Sugarcane,NPK 10:26:26
+Alluvial,58.99,33.68,177.79,1.15,7.2,Maize,NPK 10:26:26
+Alluvial,68.96,23.94,214.14,0.92,7.24,Wheat,NPK 10:26:26
+Laterite,21.62,4.69,104.85,0.64,4.93,Tea,Organic Compost
+Laterite,20.56,9.66,107.72,0.55,4.56,Cashew,Organic Compost
+Laterite,27.68,7.69,102.4,0.56,5.66,Rubber,Organic Compost
+Red,36.36,15.86,153.22,0.75,5.91,Millets,Gypsum + SSP
+Black,43.12,17.82,340.12,1.8,7.67,Cotton,Potash + Urea
+Alluvial,56.3,32.94,162.65,1.42,7.08,Wheat,NPK 10:26:26
+Red,44.48,13.47,120.97,0.44,5.95,Millets,Gypsum + SSP
+Alluvial,72.39,21.79,182.95,1.38,6.99,Rice,Urea + DAP
+Black,26.32,22.46,298.83,1.7,8.22,Cotton,NPK 20:20:0
+Red,43.35,14.56,115.6,0.72,5.55,Groundnut,Gypsum + SSP
+Black,20.64,18.19,332.2,1.12,8.34,Soybean,NPK 20:20:0
+Laterite,31.63,10.98,112.11,0.25,5.0,Cashew,Organic Mix
