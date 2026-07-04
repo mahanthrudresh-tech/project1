@@ -34,7 +34,6 @@ st.markdown(f"""
 def b64(p):
     with open(p, "rb") as f:
         return base64.b64encode(f.read()).decode()
-
 logo = b64("assets/holo_logo.png")
 
 # ---------- NAVBAR ----------
