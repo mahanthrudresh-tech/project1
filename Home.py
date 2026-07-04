@@ -7,6 +7,29 @@ st.set_page_config(page_title="AGRUM", layout="wide")
 with open("style.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
+
+
+def get_base64(path):
+    with open(path, "rb") as img:
+        return base64.b64encode(img.read()).decode()
+
+bg = get_base64("assets/holo_logo.png")
+
+st.markdown(f"""
+<style>
+
+.stApp {{
+    background:
+        linear-gradient(rgba(10,15,20,0.75), rgba(10,15,20,0.75)),
+        url("data:image/jpg;base64,{bg}");
+    background-size: ;
+    background-position: center;
+    background-attachment: fixed;
+}}
+
+</style>
+""", unsafe_allow_html=True)
+
 # ---------- LOGO ----------
 def b64(p):
     with open(p, "rb") as f:
@@ -60,7 +83,7 @@ Farmers deserve clarity. Agrum delivers real-time insights, clean analytics,
 and intelligent predictions — from rainfall to soil health, crops, and pest risks.
 </p>
 
-<h3>✨ What you can explore</h3>
+<h3>What you can explore</h3>
 <ul>
 <li>Crop production analytics</li>
 <li>ML-powered rainfall forecasting</li>
@@ -68,9 +91,7 @@ and intelligent predictions — from rainfall to soil health, crops, and pest ri
 <li>Pest detection & risk scoring</li>
 </ul>
 
-<p style="opacity:.75;">
-Built for growers. Enhanced by ML. Powered for the future.
-</p>
+
 </div>
 """, unsafe_allow_html=True)
 
