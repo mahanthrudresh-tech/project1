@@ -12,21 +12,35 @@ with open("style.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # ---------- LOGO ----------
+# ---------- LOGO ----------
 def b64(p):
     with open(p, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
+bg = b64("assets/rain.png")   # <-- Add this line
+
 st.markdown(
-    f"<img src='data:image/png;base64,{b64('assets/holo_logo.png')}' class='holo-logo-small'>",
+    f"""
+<style>
+[data-testid="stAppViewContainer"] {{
+    background-image:
+        linear-gradient(rgba(0,0,0,0.42), rgba(0,0,0,0.42)),
+        url("data:image/png;base64,{bg}");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}}
+</style>
+""",
     unsafe_allow_html=True
 )
-
 # ---------- NAVBAR ----------
 def navbar():
     pages = [
         ("Home","Home.py"),
-        ("Feature 1","pages/1_Feature1.py"),
-        ("Feature 2","pages/2_Feature2.py"),
+        ("Rain-prediction model","pages/1_Feature1.py"),
+        ("Fertilizer recommendation","pages/2_Feature2.py"),
         
     ]
     st.markdown('<div class="top-nav">', unsafe_allow_html=True)

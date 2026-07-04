@@ -23,14 +23,33 @@ st.markdown(
     f"<img src='data:image/png;base64,{b64('assets/holo_logo.png')}' class='holo-logo-small'>",
     unsafe_allow_html=True
 )
+# ---------- Background ----------
+bg = b64("assets/fertilizer.png")
+
+st.markdown(
+    f"""
+<style>
+[data-testid="stAppViewContainer"] {{
+    background-image:
+        linear-gradient(rgba(8,12,18,0.58), rgba(8,12,18,0.58)),
+        url("data:image/png;base64,{bg}");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}}
+</style>
+""",
+    unsafe_allow_html=True
+)
 
 # ---------- Navbar ----------
 def navbar():
     pages = [
         ("Home", "Home.py"),
-        ("Feature 1", "pages/1_Feature1.py"),
-        ("Feature 2", "pages/2_Feature2.py"),
-        
+        ("Rain-prediction model", "pages/1_Feature1.py"),
+        ("Fertilizer recommendation", "pages/2_Feature2.py"),
+
     ]
 
     st.markdown('<div class="top-nav">', unsafe_allow_html=True)

@@ -41,8 +41,9 @@ logo = b64("assets/holo_logo.png")
 def navbar():
     pages = [
         ("Home", "Home.py"),
-        ("Feature 1", "pages/1_Feature1.py"),
-        ("Feature 2", "pages/2_Feature2.py"),
+        ("Rain-prediction model", "pages/1_Feature1.py"),
+        ("Fertilizer recommendation", "pages/2_Feature2.py"),
+
     ]
     st.markdown('<div class="top-nav">', unsafe_allow_html=True)
     cols = st.columns(len(pages))
