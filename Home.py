@@ -43,8 +43,6 @@ def navbar():
         ("Home", "Home.py"),
         ("Feature 1", "pages/1_Feature1.py"),
         ("Feature 2", "pages/2_Feature2.py"),
-        ("Feature 3", "pages/3_Feature3.py"),
-        ("Feature 4", "pages/4_Feature4.py"),
     ]
     st.markdown('<div class="top-nav">', unsafe_allow_html=True)
     cols = st.columns(len(pages))

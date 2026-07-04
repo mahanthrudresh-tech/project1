@@ -1,4 +1,4 @@
-# AGRUM 🌱
+# AGRUM 
 
 AGRUM is an Agriculture Intelligence Hub built using Streamlit and Machine Learning.
 
@@ -6,7 +6,7 @@ It provides data-driven insights for agriculture and learning purposes.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Rainfall prediction with outlier handling
 - Soil → Crop → Fertiliser recommendation
@@ -15,17 +15,16 @@ It provides data-driven insights for agriculture and learning purposes.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
 - Pandas, NumPy
 - Scikit-learn
-- Plotly
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
